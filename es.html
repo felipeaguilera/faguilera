@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Felipe Aguilera · Estratega y escritor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+  :root{--orange:#c0461f;--ink:#1a1612;--muted:#5e554a;--line:#ddd3c2;--cream:#f1ece1;--paper:#faf7ef;
+    --display:'Fraunces',Georgia,serif;--body:'EB Garamond',Georgia,serif;--type:'Special Elite','Courier New',monospace;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--paper);color:var(--ink);font-family:var(--body);line-height:1.65;font-size:19px;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 34px;}
+  .narrow{max-width:780px;}
+  .topbar{height:5px;background:var(--orange);}
+  .o{color:var(--orange);}.dot{color:var(--orange);}
+  .meta{font-family:var(--type);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);}
+  .eyebrow{display:flex;align-items:center;gap:13px;font-family:var(--type);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-bottom:24px;}
+  .eyebrow::before{content:"";width:30px;height:1.5px;background:var(--orange);display:inline-block;}
+  .center .eyebrow{justify-content:center;}.center .eyebrow::before{display:none;}
+  .fleuron{display:flex;align-items:center;justify-content:center;gap:18px;color:var(--orange);}
+  .fleuron::before,.fleuron::after{content:"";height:1px;background:var(--line);flex:1;max-width:230px;}
+  .fleuron span{font-family:var(--display);font-size:22px;line-height:1;}
+  nav{border-bottom:1.5px solid var(--ink);position:sticky;top:0;background:rgba(250,247,239,.95);backdrop-filter:blur(8px);z-index:20;}
+  .nav-in{display:flex;align-items:center;justify-content:space-between;height:74px;}
+  .logo{display:flex;align-items:center;gap:11px;}
+  .logo img{height:40px;}
+  .logo .name{font-family:var(--display);font-size:18px;font-weight:600;}
+  .nav-links{display:flex;gap:26px;align-items:center;font-family:var(--type);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;}
+  .nav-links a{color:var(--muted);}.nav-links a:hover{color:var(--ink);}
+  .lang{display:flex;gap:6px;align-items:center;color:var(--muted);}
+  .lang a.active{color:var(--ink);border-bottom:2px solid var(--orange);}
+  a.nav-cta{background:var(--orange);color:#fff;padding:10px 17px;border-radius:3px;}
+  a.nav-cta:hover{background:#a93c1a;color:#fff;}
+  .hero{padding:92px 0 22px;text-align:center;}
+  .hero .seal{height:70px;margin-bottom:24px;}
+  h1.mast{font-family:var(--display);font-weight:500;font-size:74px;line-height:1;letter-spacing:-.02em;margin-bottom:18px;}
+  .mast-sub{font-family:var(--body);font-style:italic;font-weight:400;font-size:20px;color:var(--muted);margin-bottom:14px;}
+  .mast-cred{font-size:18px;color:var(--muted);max-width:48ch;margin:0 auto 32px;}
+  .cta-row{display:flex;gap:15px;flex-wrap:wrap;justify-content:center;}
+  .btn{display:inline-block;font-family:var(--type);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;border-radius:3px;padding:14px 24px;border:1.5px solid var(--ink);transition:.15s;}
+  .btn.primary{background:var(--orange);border-color:var(--orange);color:#fff;}.btn.primary:hover{background:#a93c1a;}
+  .btn.ghost{background:transparent;color:var(--ink);}.btn.ghost:hover{background:var(--ink);color:var(--paper);}
+  .hero-orn{margin:44px auto 0;}
+  section{padding:74px 0;}
+  section.cream{background:var(--cream);}
+  .center{text-align:center;}
+  h2{font-family:var(--display);font-weight:500;font-size:38px;line-height:1.12;letter-spacing:-.01em;margin-bottom:16px;max-width:24ch;}
+  .center h2{margin-left:auto;margin-right:auto;}
+  .lead{font-size:20px;color:var(--muted);max-width:62ch;}.center .lead{margin-left:auto;margin-right:auto;}
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:42px;}
+  .card{border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--paper);display:flex;flex-direction:column;transition:.15s;}
+  .card:hover{border-color:var(--orange);transform:translateY(-3px);box-shadow:0 10px 30px rgba(26,22,18,.08);}
+  .thumb{height:150px;background:#e7e0d2 center/cover no-repeat;border-bottom:1px solid var(--line);}
+  .card .cbody{padding:20px 22px;display:flex;flex-direction:column;flex:1;}
+  .card .meta{margin-bottom:10px;}
+  .card h3{font-family:var(--display);font-size:21px;font-weight:500;line-height:1.22;margin-bottom:10px;}
+  .card p{font-size:16px;color:var(--muted);flex:1;line-height:1.5;}
+  .card .more{font-family:var(--type);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);margin-top:18px;}
+  .nowgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:32px;margin-top:38px;}
+  .nowcol .meta{display:block;margin-bottom:12px;padding-bottom:8px;border-bottom:1.5px solid var(--ink);}
+  .nowcol ul{list-style:none;}
+  .nowcol li{font-size:17px;padding:10px 0;border-bottom:1px solid var(--line);color:var(--ink);}
+  .nowcol li a{color:var(--orange);}
+  .nowcol li em{color:var(--muted);font-style:italic;}
+  .ic{width:15px;height:15px;vertical-align:-2px;margin-right:8px;opacity:.55;}
+  .brandstrip{text-align:center;}
+  .brandstrip p{font-size:16px;color:var(--muted);max-width:64ch;margin:0 auto;}
+  .brandstrip b{color:var(--ink);font-weight:600;}
+  .brandstrip .ll{font-family:var(--type);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--orange);display:inline-block;margin-top:14px;}
+  .about{display:grid;grid-template-columns:1.35fr .65fr;gap:48px;align-items:center;}
+  .dropcap::first-letter{font-family:var(--display);font-size:62px;font-weight:500;float:left;line-height:.8;padding:6px 12px 0 0;color:var(--orange);}
+  .portrait{width:100%;border:1.5px solid var(--ink);border-radius:6px;display:block;}
+  .textlink{font-family:var(--type);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--orange);display:inline-block;margin-top:18px;}
+  footer{background:var(--ink);color:#cabfae;padding:56px 0 40px;}
+  .foot-orn{color:var(--orange);text-align:center;font-family:var(--display);font-size:22px;margin-bottom:30px;}
+  .foot-in{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap;align-items:flex-start;}
+  .foot-in .logo img{height:46px;}.foot-in .logo .name{color:#fff;}
+  .foot-tag{font-size:16px;color:#a89e8d;margin-top:12px;max-width:32ch;font-style:italic;}
+  .foot-links{display:flex;gap:24px;font-family:var(--type);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;}
+  .foot-links a{color:#cabfae;}.foot-links a:hover{color:#fff;}
+  .foot-copy{font-family:var(--type);font-size:11px;color:#7a7164;margin-top:36px;letter-spacing:.06em;text-transform:uppercase;}
+  .exp-list{margin-top:36px;border-top:1.5px solid var(--ink);}
+  .exp-row{display:grid;grid-template-columns:180px 1fr;gap:24px;padding:20px 0;border-bottom:1px solid var(--line);align-items:start;}
+  .exp-row-meta{font-family:var(--type);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);line-height:1.7;}
+  .exp-row-role{font-family:var(--display);font-weight:500;font-size:21px;line-height:1.15;}
+  .exp-row-role span{font-family:var(--type);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);display:block;margin-top:5px;}
+  @media(max-width:820px){
+    h1.mast{font-size:48px;}h2{font-size:30px;}
+    .cards{grid-template-columns:1fr;}
+    .about{grid-template-columns:1fr;gap:28px;}
+    .nowgrid{grid-template-columns:1fr;gap:24px;}
+    .nav-links a:not(.nav-cta),.lang{display:none;}
+    .exp-row{grid-template-columns:1fr;gap:4px;}
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar"></div>
+<nav>
+  <div class="wrap nav-in">
+    <div class="logo"><img src="assets/mark-seal.svg" alt="Sello FA"><span class="name">Felipe Aguilera</span></div>
+    <div class="nav-links">
+      <a href="#notebook">Cuaderno</a>
+      <a href="#work">Trabajo</a>
+      <a href="#about">Sobre mí</a>
+      <a href="cv.html">CV</a>
+      <span class="lang"><a href="index.html">EN</a>/<a href="es.html" class="active">ES</a></span>
+      <a href="#hello" class="nav-cta">Escríbeme</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap narrow">
+    <img class="seal" src="assets/mark-seal.svg" alt="Sello FA">
+    <h1 class="mast">Felipe Aguilera</h1>
+    <p class="mast-sub">Estratega de marca y comunicación.</p>
+    <p class="mast-cred">Pensando en voz alta sobre cultura, tecnología y el oficio de hacer las cosas claras. Mitad cuaderno, mitad revista, enteramente mío.</p>
+    <div class="cta-row">
+      <a class="btn primary" href="#notebook">Leer el cuaderno</a>
+      <a class="btn ghost" href="#about">Sobre mí</a>
+    </div>
+  </div>
+  <div class="wrap hero-orn"><div class="fleuron"><span>&#10086;</span></div></div>
+</header>
+
+<section class="cream" id="notebook">
+  <div class="wrap">
+    <div class="eyebrow">Cuaderno</div>
+    <h2>Escritos <span class="o">recientes</span><span class="dot">.</span></h2>
+    <p class="lead">Escribo sobre el cruce entre <strong>cultura, tecnología y marca</strong>, casi siempre partiendo de algo que no puedo dejar de pensar: una película, un lanzamiento, un pequeño cambio en cómo vivimos, y lo sigo hasta que dice algo útil. Me interesan menos las opiniones rápidas que <strong>pensar en voz alta y a la vista</strong>. Es como pienso, y la parte de la semana que más disfruto. Publico algo nuevo casi todos los viernes.</p>
+    <div class="cards">
+      <a class="card" href="https://felipeaguilera.substack.com/p/cynicism-is-the-enemy-of-community">
+        <div class="thumb" style="background-image:url('https://substack-post-media.s3.amazonaws.com/public/images/ca92205c-f811-4574-898f-487480eecb9a_1408x768.png')"></div>
+        <div class="cbody"><span class="meta">Cultura</span><h3>El cinismo es enemigo de la comunidad</h3><p>Las instituciones imperfectas son reales, pero usarlas como excusa para dejar de reunirnos es peor. Sobre pertenencia, ritual y lo rápido que nos descartamos.</p><span class="more">Leer →</span></div>
+      </a>
+      <a class="card" href="https://felipeaguilera.substack.com/p/becoming-the-burglar-what-bilbo-baggins">
+        <div class="thumb" style="background-image:url('https://substack-post-media.s3.amazonaws.com/public/images/c0a81e38-4fdb-4174-b44c-3d3aca970ac0_2400x1350.png')"></div>
+        <div class="cbody"><span class="meta">La vida creativa</span><h3>Convirtiéndome en saqueador</h3><p>Lo que Bilbo Bolsón me enseñó sobre el trabajo independiente y scrappy, y el valor de salir por la puerta sin un plan.</p><span class="more">Leer →</span></div>
+      </a>
+      <a class="card" href="https://felipeaguilera.substack.com/p/there-and-back-again-bringing-the">
+        <div class="thumb" style="background-image:url('https://substack-post-media.s3.amazonaws.com/public/images/b216355b-38b0-4de2-8501-8e18df4df8a0_2400x1350.png')"></div>
+        <div class="cbody"><span class="meta">Lecciones de Tolkien</span><h3>Ida y vuelta</h3><p>Traer a casa la sabiduría del aventurero: por qué los mejores hallazgos son los que llevamos de vuelta a la vida diaria.</p><span class="more">Leer →</span></div>
+      </a>
+    </div>
+    <div style="text-align:center;margin-top:30px;"><a class="textlink" href="https://felipeaguilera.substack.com">Ver todo →</a></div>
+  </div>
+</section>
+
+<section id="currently">
+  <div class="wrap">
+    <div class="eyebrow">Ahora</div>
+    <h2>En lo que <span class="o">ando</span> estos días<span class="dot">.</span></h2>
+    <p class="lead">Un registro pequeño y vivo de lo que estoy leyendo, viendo y escuchando. Cambia seguido, esa es la idea.</p>
+    <div class="nowgrid">
+      <div class="nowcol">
+        <span class="meta">Leyendo</span>
+        <ul>
+          <li><img class="ic" src="assets/icons/book.svg" alt=""><a href="https://www.goodreads.com/search?q=The+Fellowship+of+the+Ring+Tolkien">The Fellowship of the Ring</a> <em>· J.R.R. Tolkien</em></li>
+          <li><img class="ic" src="assets/icons/book.svg" alt=""><a href="https://www.goodreads.com/search?q=The+Practice+Seth+Godin">The Practice</a> <em>· Seth Godin</em></li>
+          <li><img class="ic" src="assets/icons/book.svg" alt=""><a href="https://www.goodreads.com/search?q=What+Customers+Crave+Webb">What Customers Crave</a> <em>· Nicholas J. Webb</em></li>
+          <li><img class="ic" src="assets/icons/book.svg" alt=""><a href="https://www.goodreads.com/search?q=The+War+of+Art+Pressfield">The War of Art</a> <em>· Steven Pressfield</em></li>
+          <li><img class="ic" src="assets/icons/book.svg" alt=""><a href="https://www.goodreads.com/search?q=Sweet+Bean+Paste+novel">Sweet Bean Paste</a> <em>· Durian Sukegawa</em></li>
+        </ul>
+      </div>
+      <div class="nowcol">
+        <span class="meta">Viendo</span>
+        <ul>
+          <li><img class="ic" src="assets/icons/television.svg" alt=""><a href="https://www.imdb.com/find/?q=Dutton+Ranch">Dutton Ranch</a> <em>· Paramount+</em></li>
+          <li><img class="ic" src="assets/icons/film-slate.svg" alt=""><a href="https://www.imdb.com/find/?q=Michael+movie">Michael</a> <em>· película</em></li>
+          <li><img class="ic" src="assets/icons/television.svg" alt=""><a href="https://www.imdb.com/find/?q=Terapia+Alternativa">Terapia Alternativa</a> <em>· Disney+</em></li>
+          <li><img class="ic" src="assets/icons/television.svg" alt=""><a href="https://www.imdb.com/find/?q=Your+Friends+and+Neighbors">Friends &amp; Neighbors, T2</a> <em>· Apple TV+</em></li>
+          <li><img class="ic" src="assets/icons/television.svg" alt=""><a href="https://www.imdb.com/find/?q=Widows+Bay">Widow's Bay</a> <em>· Apple TV+</em></li>
+        </ul>
+      </div>
+      <div class="nowcol">
+        <span class="meta">Escuchando</span>
+        <ul>
+          <li><img class="ic" src="assets/icons/microphone.svg" alt=""><a href="https://en.wikipedia.org/wiki/The_History_of_Rome_(podcast)">The History of Rome</a> <em>· Mike Duncan, podcast</em></li>
+          <li><img class="ic" src="assets/icons/headphones.svg" alt=""><a href="https://www.audible.com/search?keywords=The+Let+Them+Theory">The Let Them Theory</a> <em>· Mel Robbins</em></li>
+          <li><img class="ic" src="assets/icons/headphones.svg" alt=""><a href="https://www.audible.com/search?keywords=Viento+y+Verdades+Sanderson">Viento y Verdades</a> <em>· Brandon Sanderson</em></li>
+          <li><img class="ic" src="assets/icons/headphones.svg" alt=""><a href="https://www.audible.com/search?keywords=Building+a+StoryBrand">Building a StoryBrand 2.0</a> <em>· Donald Miller</em></li>
+          <li><img class="ic" src="assets/icons/headphones.svg" alt=""><a href="https://www.audible.com/search?keywords=Slow+Productivity+Newport">Slow Productivity</a> <em>· Cal Newport</em></li>
+        </ul>
+      </div>
+    </div>
+    <p style="font-style:italic;color:var(--muted);font-size:14px;margin-top:18px;">Se actualiza seguido. Los enlaces llevan a dónde encontrar cada cosa, o a mi reseña cuando la he escrito.</p>
+  </div>
+</section>
+
+<section class="cream" id="work">
+  <div class="wrap">
+    <div class="eyebrow">Algunas cosas que he hecho</div>
+    <h2>Del <span class="o">archivo</span><span class="dot">.</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="thumb" style="background-image:url('assets/inzider.jpg')"></div>
+        <div class="cbody"><span class="meta">EXP-204417 · Editorial</span><h3>Revista Inzider</h3><p>Una revista impresa que fundé y edité en Zmart: portadas, reportajes, publicidad y varias ediciones a lo largo de cinco años.</p></div>
+      </div>
+      <div class="card">
+        <div class="thumb" style="background-image:url('assets/zmart.jpg')"></div>
+        <div class="cbody"><span class="meta">EXP-118235 · Marca y digital</span><h3>Zmart.cl</h3><p>Una década liderando la marca y la experiencia de cliente: omnicanalidad, lanzamientos de consolas y una cultura Great Place to Work.</p></div>
+      </div>
+      <div class="card">
+        <div class="thumb" style="background-image:url('assets/mifactoria.jpg')"></div>
+        <div class="cbody"><span class="meta">EXP-339061 · Ecommerce</span><h3>Mi Factoria</h3><p>Marca y tienda Shopify, convirtiendo un negocio funcional en una identidad coherente.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="brandstrip center" id="record">
+  <div class="wrap">
+    <div class="eyebrow">En el camino</div>
+    <p>He tenido la suerte de trabajar con <b>Zmart, Metro de Santiago, Sodimac, Tetra Pak, Codelco, Nintendo, PlayStation,</b> y <b>Xbox.</b></p>
+    <a class="ll" href="https://www.linkedin.com/in/felipeaguilera">Historial completo en LinkedIn →</a>
+  </div>
+</section>
+
+<section id="background" class="cream">
+  <div class="wrap">
+    <div class="eyebrow">Trayectoria</div>
+    <h2>El historial <span class="o">detrás del trabajo</span><span class="dot">.</span></h2>
+    <div class="exp-list">
+      <div class="exp-row">
+        <div class="exp-row-meta">2024 — Hoy<br>EVO Creative Lab · Remoto</div>
+        <div class="exp-row-role">Fundador y Consultor Creativo<span>Estrategia de marca · Contenido · Digital · Clientes en LATAM y Europa</span></div>
+      </div>
+      <div class="exp-row">
+        <div class="exp-row-meta">2013 — 2024<br>Zmart Games · Santiago</div>
+        <div class="exp-row-role">Gerente de Marketing y Director de Experiencia<span>Una década. 25+ locales. La cadena de gaming y geek retail líder de Chile.</span></div>
+      </div>
+      <div class="exp-row">
+        <div class="exp-row-meta">2005 — 2013<br>Elemento Media Design</div>
+        <div class="exp-row-role">Jefe de Proyectos Digitales<span>Metro de Santiago · Tetra Pak · Suzuki · Sodimac · Codelco</span></div>
+      </div>
+      <div class="exp-row">
+        <div class="exp-row-meta">1998 — 2005<br>Entel · Lan-Z · VEEgroup</div>
+        <div class="exp-row-role">Carrera temprana: diseño, digital y marca<span>Contenido de marca · Diseño multimedia · Comunidades digitales</span></div>
+      </div>
+    </div>
+    <a class="textlink" href="cv.html">CV completo →</a>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap">
+    <div class="eyebrow">La historia larga</div>
+    <div class="about">
+      <div>
+        <h2>Llevo en esto lo suficiente para saber lo que <span class="o">de verdad importa</span><span class="dot">.</span></h2>
+        <p class="lead dropcap">Lideré marketing y experiencia de cliente en <strong>Zmart</strong> durante una década, y construí y edité su revista, <strong>Inzider</strong>, en el camino. Antes, proyectos digitales para <strong>Metro de Santiago, Sodimac, Tetra Pak,</strong> y <strong>Codelco</strong>. Hoy trabajo de forma independiente a través de <strong>EVO Creative Lab</strong>, con proyectos de estrategia de marca, contenido y presencia digital para clientes en distintas industrias. Estoy en Santiago, soy bilingüe y trabajo en remoto sin problema, y escribo porque es como pienso.</p>
+        <a class="textlink" href="#">Lee la historia completa →</a>
+      </div>
+      <img class="portrait" src="assets/portrait.png" alt="Felipe Aguilera">
+    </div>
+  </div>
+</section>
+
+<section class="cream center" id="hello">
+  <div class="wrap narrow">
+    <div class="fleuron"><span>&#10086;</span></div>
+    <div class="eyebrow" style="margin-top:30px;">Hablemos</div>
+    <h2>¿Tienes algo entre manos, o solo quieres <span class="o">conversar</span><span class="dot">?</span></h2>
+    <p class="lead">Si tienes un proyecto, para eso está <strong>EVO Creative Lab</strong>, donde ayudo a negocios a descubrir lo que de verdad necesitan: <strong>primero el caso, después la estrategia</strong>. Y si prefieres solo seguir lo que escribo o saludar, igual de bienvenido.</p>
+    <div class="cta-row" style="margin-top:30px;">
+      <a class="btn primary" href="https://evo.cl">Visita EVO Creative Lab</a>
+      <a class="btn ghost" href="mailto:felipe@faguilera.com">Escríbeme</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-orn">&#10086;</div>
+    <div class="foot-in">
+      <div>
+        <div class="logo"><img src="assets/mark-seal-white.svg" alt="Sello FA"><span class="name">Felipe Aguilera</span></div>
+        <p class="foot-tag">Estratega de oficio, curioso por naturaleza. Santiago, Chile.</p>
+      </div>
+      <div class="foot-links">
+        <a href="cv.html">CV</a>
+        <a href="https://www.linkedin.com/in/felipeaguilera">LinkedIn</a>
+        <a href="https://felipeaguilera.substack.com">Substack</a>
+        <a href="mailto:felipe@faguilera.com">Email</a>
+      </div>
+    </div>
+    <div class="foot-copy">© 2026 Felipe Aguilera · faguilera.com</div>
+  </div>
+</footer>
+
+</body>
+</html>

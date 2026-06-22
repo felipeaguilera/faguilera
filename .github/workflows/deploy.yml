@@ -1,0 +1,37 @@
+name: Deploy faguilera.com to Namecheap
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  ftp-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy via FTPS
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          # Add these in GitHub > Settings > Secrets and variables > Actions:
+          #   FTP_SERVER   -> premium345.web-hosting.com   (direct server hostname, NOT ftp.faguilera.com)
+          #   FTP_USERNAME -> a cPanel FTP account scoped to the faguilera.com folder
+          #   FTP_PASSWORD -> that FTP account's password
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./
+          # If the FTP account is scoped to faguilera.com, leave server-dir as ./
+          # If you use the MAIN cPanel account, set server-dir to: /faguilera.com/
+          server-dir: ./
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github/**
+            **/.vscode/**
+            **/GITHUB-SETUP.md
+            **/.DS_Store
