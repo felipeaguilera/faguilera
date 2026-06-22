@@ -1,9 +1,12 @@
 name: Deploy faguilera.com to Namecheap
 
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch:
+    # Auto-deploy deshabilitado. Corre manualmente desde GitHub > Actions > Run workflow.
+    # Para habilitar auto-deploy en cada push, descomentar las líneas de abajo y configurar
+    # los secrets FTP en GitHub Settings > Secrets and variables > Actions.
+    # push:
+    #   branches: [ main ]
 
 jobs:
   ftp-deploy:
