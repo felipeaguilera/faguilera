@@ -2,7 +2,7 @@
 title: "A Complete Unknown"
 date: 2025-02-28
 description: "Unveiling the highs and lows of Bob Dylan's early career. One verse, one relationship and one chord at a time."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/6e75c6fe-375a-44df-a881-f0e7ca66983c_3840x2160.jpeg"
 lang: en
 draft: false
@@ -31,55 +31,3 @@ Based on a book *Dylan Goes Electric! by Elijah Wald* this movie focuses on the 
 # **My Insight**
 
 Bob Dylan is one of those artists that I could classify as legendary, however, I do not know him. I have never seriously immersed myself in his songs, lyrics or history. So, my approach to “A Complete Unknown” had a side of discovering the film on its own merits, but also why Dylan is so influential in the history of modern music.
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
-
-More than a full biography, this is focused on a particular era of his life, and his influence in the musical scene overall. It is clearly not a common biopic, more than an interesting scope into his rise, his personality, and the challenges of an artist to express his own voice no matter what, challenging the folk scene that introduced him to stardom.
-
-Another remarkable aspect of the film is the realization that even with his enigmatic and very hermetic persona, the movie achieves to show with his connections a lot of aspects of his life, and how he resonates with Sylvie Russo, his romantic partner. The collaboration and deep connection with the singer Joan Baez, Pete Seeger, his most important supporter in his early days and Albert Grossman, his manager who personifies the good, great and disgusting of the music business.
-
-I must admit that I have not stopped to check what the director James Mangold has done. But after quick research, I realize that the success of this movie is not a coincidence, the myth of Dylan of the impressive performance of Timothée Chalamet, is the talent to confront a story, a human view into a legend. He did a great job with Johnny Cash in Walk the Line, in Ford vs Ferrari showed us the humanity behind the engineering and search for success in the automotive competitions and even in Logan, a fiction action movie for sure, he achieved to present the violent and rough comic character in the most human possible way yet.
-
----
-
-# **Rating ⭐8/10**
-
-## **A captivating view into the human behind the legend. Amazing adaptation of the times, impressive performance and an amazing rhythm.**
-
----
-
-# **Extras**
-
-## **Interesting movies about Rock...**
-
-1. Inside Llewyn Davis (2013) Dir. Joen and Ethan Coen
-2. Walk the Line (2005) Dir. James Mangold
-3. Rocketman (2019) Dir. Dexter Fletcher
-4. Bohemian Rhapsody (2018) Dir. Brian Singer
-5. Control (2007) Dir. Anton Corbjin
-
-## **For Discussion**
-
-*Getting to know Dylan a bit more, make his art for me definitely more closer and interesting, but at the same time, this portrayal of a very complex personality that in his life did behave in a lot of questionable ways, it feels less amazing, but in the same time, more approachable and relatable.*
-
-*Should we meet our heroes? Are the Flaws, failings and or the scandals of his personal life can break the admiration for the artist, and especially with his art? This is a big question these days, and happens every other day, that a big, respected artist “disappoints” his followers. With acts of questionable morality or simply mistakes. Sadly, with the over-exposure on social media and the cancel-culture it does not make it easier.*
-
----
-
-## **Technical Details**
-
-**Release Date:** 24 December 2024  
-**Director:** James Mangold  
-**Main Cast:** Timothée Chalamet as Bob Dylan, Monica Barbaro as Joan Baez, Elle Fanning as Sylvie Russo, Edward Norton as Pete Seeger, Boyd Holbrook as Johnny Cash and more.  
-**Runtime:** 141 minutes  
-**Genre:** Biographical Musical Drama  
-**Rating:** R (for language)  
-**Distributor:** Searchlight Pictures **Where to Watch:** Cinemas.
-
-## **Trailer**
-
-<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/NO9hXSD5K4A?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
-
----
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

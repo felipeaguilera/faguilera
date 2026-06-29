@@ -2,7 +2,7 @@
 title: "Anora: A Dance of Raw Tension"
 date: 2025-03-14
 description: "A magnetic lead, navigating a story of unpredictable turns. A fantastic portrayal of a slow building intensity and realism."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/4420228f-eab7-45db-82f2-d5f6638a0eb9_3840x2160.jpeg"
 lang: en
 draft: false
@@ -74,5 +74,3 @@ Sean Baker's clearly aiming for something real. He wants you to see these people
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/p1HxTmV5i7c?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

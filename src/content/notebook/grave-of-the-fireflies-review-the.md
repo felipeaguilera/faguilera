@@ -2,7 +2,7 @@
 title: "Grave of the Fireflies\" Review: The war has no villains, only victims"
 date: 2026-03-06
 description: "A 1988 Studio Ghibli movie that refuses to romanticize war, and is more devastating for it."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/6f6784c3-114d-4444-bef6-3b1867f12a32_3840x2160.png"
 lang: en
 draft: false
@@ -82,5 +82,3 @@ The film suggests that a society built on collective duty and contribution can s
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/lhlh7JVcTt8?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-hanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

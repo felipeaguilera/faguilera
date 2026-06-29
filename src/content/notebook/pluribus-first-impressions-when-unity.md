@@ -2,7 +2,7 @@
 title: "“Pluribus” First Impressions: When Unity Becomes the Enemy"
 date: 2025-11-19
 description: "What Vince Gilligan’s slowest show yet says about AI, speed, and what we lose when everyone agrees."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/b1602b00-2439-427e-ade9-b62d83c2d05f_3840x2160.png"
 lang: en
 draft: false

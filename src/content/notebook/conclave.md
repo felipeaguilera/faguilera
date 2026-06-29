@@ -2,7 +2,7 @@
 title: "Conclave"
 date: 2025-02-07
 description: "A tense experience within the Vatican, but with a mix of hits and misses. "
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/06e5d406-e66c-4704-8e69-d71a309b51ab_2000x1125.jpeg"
 lang: en
 draft: false
@@ -69,5 +69,3 @@ Where to Watch: Cinemas, if any. Soon on Streaming services.
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/JX9jasdi3ic?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

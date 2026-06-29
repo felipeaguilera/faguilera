@@ -2,7 +2,7 @@
 title: "The Curious Case of HBO Max: When a Brand is Too Powerful to Ignore"
 date: 2025-05-14
 description: "What the HBO Max rebranding saga reveals about brand equity, audience trust, and strategic missteps in the streaming era."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/8bab99cc-eba4-47fe-9643-84ac8de4fe34_1536x1024.png"
 lang: en
 draft: false
@@ -73,13 +73,3 @@ In branding, sometimes the most courageous move isn’t pushing forward. It’s 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/GjYDBLnHE1Y?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-👋 *Thanks for reading!*
-
-*I’m **Felipe Aguilera**, a digital strategist and designer based in Santiago, Chile — helping people and businesses improve how they communicate, organize, and protect their digital lives.*
-
-*If you’re looking to simplify your systems, align your brand, or optimize your productivity — I’d love to help.*
-
-*🌐 Learn more:*
-
-https://www.faguilera.com

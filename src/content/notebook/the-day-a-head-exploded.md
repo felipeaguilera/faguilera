@@ -2,7 +2,7 @@
 title: "The Day a Head Exploded"
 date: 2025-07-18
 description: "A memory of VHS, Cronenberg, and the moment cinema became something else"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/a6bab443-effc-4985-acb9-e4a713d7485a_1600x900.webp"
 lang: en
 draft: false

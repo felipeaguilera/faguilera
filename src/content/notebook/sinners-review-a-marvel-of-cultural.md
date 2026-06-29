@@ -2,7 +2,7 @@
 title: "Sinners' Review: A Perfect Cultural Drama Trapped in a Standard Action Movie"
 date: 2026-01-30
 description: "Ryan Coogler builds a masterpiece of atmosphere and character, only to bury it under a generic vampire war."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/bd24a617-ff9c-4b99-b13d-a0fdc239da44_3840x2160.png"
 lang: en
 draft: false
@@ -69,5 +69,3 @@ Does labeling a film like this "Horror" hurt its reception? It often feels like 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/bKGxHflevuk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

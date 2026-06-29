@@ -2,7 +2,7 @@
 title: "The Fallout of Arcane wastelands are the hope for the Last of Us "
 date: 2024-07-05
 description: "The adaptations of successful video game franchises into series have had multiple successes recently, today I highlight some of my favorites. Fallout, The Last of Us and Arcane."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/eef83639-090e-4ea6-bb93-d0f4b6bdf69e_1920x1080.jpeg"
 lang: en
 draft: false
@@ -60,5 +60,3 @@ One of the successes of this series is focusing on the origins of only some icon
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/fXmAurh012s?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

@@ -2,7 +2,7 @@
 title: "One Battle After Another' Review: The Kinetic Energy of Pure Confidence"
 date: 2026-01-16
 description: "A relentless display of rhythm, sound, and the art of the 'Cinematic Experience' that only a trusted director can deliver."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/242f4c62-9abd-4d8d-bc2f-7c8c346f23c2_3840x2160.png"
 lang: en
 draft: false
@@ -69,5 +69,3 @@ Paul Thomas Anderson operates with a level of “Carte Blanche” that is nearly
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/_qQLUxZAklQ?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

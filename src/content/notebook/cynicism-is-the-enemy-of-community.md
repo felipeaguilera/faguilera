@@ -2,7 +2,7 @@
 title: "Cynicism is the Enemy of Community"
 date: 2026-04-04
 description: "Flawed institutions are a real problem. But using them as an excuse to stop gathering is worse."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/ca92205c-f811-4574-898f-487480eecb9a_1408x768.png"
 lang: en
 draft: false

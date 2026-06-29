@@ -2,7 +2,7 @@
 title: "GTA VI Is More Than a Game. It’s a Mirror—And Rockstar Knows It."
 date: 2025-05-06
 description: "A two-minute trailer about crime, chaos, and crocodiles just show us all on how to launch a cultural event in 2026."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/48b8e205-9aa3-403a-ba8d-416bf13f40e9_1280x720.jpeg"
 lang: en
 draft: false
@@ -61,7 +61,3 @@ In a world of rushed releases and predictable formulas, Rockstar dares to say:
 **We’ll take our time—and you’ll wait, because you know it’ll be worth it.**
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! This post is public so feel free to share it.
-
-[Share](https://felipeaguilera.substack.com/p/gta-vi-is-more-than-a-game-its-a?utm_source=substack&utm_medium=email&utm_content=share&action=share)

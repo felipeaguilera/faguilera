@@ -2,7 +2,7 @@
 title: "Passkeys Sound Cool — But Here's Why Passwords Still Win in 2025"
 date: 2025-04-28
 description: "Passkeys promise a password-free future. But before you jump in, here’s why passwords and 2FA still offer the safest path in 2025."
-category: "Notebook"
+category: "Technology"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/9823b632-9d50-46c9-8257-bb9702118d8e_1536x1024.png"
 lang: en
 draft: false
@@ -84,5 +84,3 @@ Technology evolves—and passkeys might eventually become safer and more portabl
 ***I’m Felipe Aguilera. I help brands and professionals improve their communication, design, and digital systems. Explore more at [faguilera.com](https://www.faguilera.com/).***
 
 ---
-
-[Subscribe now](https://felipeaguilera.substack.com/subscribe?)

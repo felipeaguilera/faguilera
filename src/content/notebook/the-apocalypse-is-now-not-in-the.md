@@ -2,7 +2,7 @@
 title: "The Apocalypse is Now, not in the Future, according to the report of The Mole Agent."
 date: 2024-06-28
 description: "This week we present three very different films in terms of narrative, but that meet at the core of human connection, the feeling of loneliness, and interesting personal discoveries."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/6b6c93f6-3386-4628-a50b-38a50f7de12a_1920x1080.jpeg"
 lang: en
 draft: false
@@ -56,5 +56,3 @@ It is a funny and absurd work that manages to expose the very present problem of
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/X3ZfQ-b5J-Y?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

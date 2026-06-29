@@ -2,7 +2,7 @@
 title: "A Killer, A Composer and a Cursed Hand."
 date: 2024-03-29
 description: "Also known as EVO.cl Film Report #2 of 2024.03.29"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/c8e7ed28-4413-4f99-baff-c80a2c95a8f3_1920x1080.png"
 lang: en
 draft: false
@@ -44,5 +44,3 @@ It begins like a typical paranormal horror film, yet despite its lightweight scr
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PGo4wfCejsk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Felipe’s Substack! Subscribe for free to receive new posts and support my work.

@@ -2,7 +2,7 @@
 title: "Weapons' Film Review: A promising start wasted by an underwhelming reveal"
 date: 2025-08-26
 description: "How an unexpected mystery about vanished children unravels into an empty, careless explanation."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/4ddeeba3-4322-4669-a135-53d2bd51230b_3840x2160.webp"
 lang: en
 draft: false
@@ -75,7 +75,3 @@ Why do some films (*Hereditary*, *The Ring*, *The Wicker Man*) manage to push th
 If you enjoyed this review, I’d love to hear your thoughts. Especially if you work in creative fields or have experienced the chaos behind making things happen.
 
 I offer consulting for creators, brands, and small businesses focused on communication, digital presence, and brand clarity. You can explore more of my work at [faguilera.com](https://faguilera.com/), or connect with me through [Upwork](https://www.upwork.com/freelancers/felipeaguilera) if you’re looking to collaborate.
-
-Subscribe below to receive future posts about storytelling, media, and creative work.
-
-[Subscribe now](https://felipeaguilera.substack.com/subscribe?)

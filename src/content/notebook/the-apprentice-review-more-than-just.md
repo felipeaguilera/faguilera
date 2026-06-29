@@ -2,7 +2,7 @@
 title: "The Apprentice Review: More than just a Trump movie"
 date: 2025-04-04
 description: "A sharp, gripping look at the forces that shaped Donald Trump, The Apprentice unpacks ambition, mentorship, and the price of power."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/d8106bd0-1eca-467c-9395-26d160e2bb23_3840x2160.jpeg"
 lang: en
 draft: false
@@ -70,7 +70,3 @@ House of Cards (2013) Created by Beau Willimon, *The first two episodes were dir
 ## Trailer
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/bvPRxy9kmSg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
-
----
-
-Thanks for reading this deep dive into 'The Apprentice' here on **Eagle Time Insights**! If you appreciate this kind of analysis of film, power, and culture, **subscribe for free** to receive future posts from Felipe Aguilera directly and support this work.

@@ -2,7 +2,7 @@
 title: "‘Paradise’ (Season 1) – A Thrill Ride with a Familiar Destination"
 date: 2025-05-16
 description: "A short, sharp sci-fi thriller that entertains, even when it doesn’t fully land."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/255004e5-416c-4a8c-8ab6-617f5b68c804_3840x2160.png"
 lang: en
 draft: false
@@ -102,9 +102,3 @@ And maybe *Paradise* doesn’t give us answers, but it does reflect that mood. A
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/tQpOEKdgb8c?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-👋 *Thanks for reading!*
-
-*I write about series, media, and the way technology shapes how we live, connect, and imagine the future. If you’re building something and need help shaping the story behind it, visit [faguilera.com](https://faguilera.com) — or check out my [Upwork](https://www.upwork.com/freelancers/felipeaguilera) profile to explore my Express Kits for branding, digital presence, and content strategy. I help brands communicate with clarity — and I reflect on culture with curiosity.*
-
-[Subscribe now](https://felipeaguilera.substack.com/subscribe?)

@@ -2,7 +2,7 @@
 title: "Rental Family' Review: Intimacy as a Service"
 date: 2026-02-03
 description: "Hikari uses a rental agency to explore the transactional nature of human connection in modern Japan."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/4c74f128-982a-4014-9b4d-2255a7cf96fa_3840x2160.png"
 lang: en
 draft: false
@@ -67,5 +67,3 @@ We pay for therapists and caregivers. Is paying for a “friend” or “father�
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/n0pqP6ClcE8?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

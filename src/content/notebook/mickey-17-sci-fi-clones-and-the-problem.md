@@ -2,7 +2,7 @@
 title: "MICKEY 17: Sci-Fi, Clones, and the Problem with Creative Freedom"
 date: 2025-05-30
 description: "Bong Joon-ho’s post-Parasite project loses focus in a half-baked dystopia."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/a7fbf25b-8a5e-4aa8-9a15-04fd868a3128_3840x2160.png"
 lang: en
 draft: false
@@ -90,7 +90,3 @@ Mickey 17 feels like a case study in that tension. It introduces the bold premis
 If you enjoyed this review, I’d love to hear your thoughts. Especially if you work in creative fields or have experienced the chaos behind making things happen.
 
 I offer consulting for creators, brands, and small businesses focused on communication, digital presence, and brand clarity. You can explore more of my work at [faguilera.com](https://faguilera.com), or connect with me through [Upwork](https://www.upwork.com/freelancers/felipeaguilera) if you’re looking to collaborate.
-
-Subscribe below to receive future posts about storytelling, media, and creative work.
-
-[Subscribe now](https://felipeaguilera.substack.com/subscribe?)

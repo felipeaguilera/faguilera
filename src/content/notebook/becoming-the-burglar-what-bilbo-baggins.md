@@ -2,7 +2,7 @@
 title: "Becoming the Burglar: What Bilbo Baggins is Teaching Me About Scrappy Consulting"
 date: 2026-01-02
 description: "Why my greatest asset isn't a 20-year plan, but the courage to run out the door without a handkerchief."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/c0a81e38-4fdb-4174-b44c-3d3aca970ac0_2400x1350.png"
 lang: en
 draft: false
@@ -52,7 +52,3 @@ He left his comfort, his routine, and his “respectability” behind. He didn�
 In my work, I’m giving myself permission to be a bit of a mess at the start of a project. I’ve realized that I will probably never feel 100% “ready” for the challenges I take on. But the goal isn’t to be a perfect, confident warrior; it’s to be a brave enough burglar to run out the door anyway.
 
 The adventure doesn’t start when you’re certain. It starts when you decide that the “uncomfortable wild” is exactly where the value is hidden—even if your tea is still on the table.
-
-Thanks for reading Insights by Felipe Aguilera! This post is public so feel free to share it.
-
-[Share](https://felipeaguilera.substack.com/p/becoming-the-burglar-what-bilbo-baggins?utm_source=substack&utm_medium=email&utm_content=share&action=share)

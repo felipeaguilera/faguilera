@@ -2,7 +2,7 @@
 title: "🎮 Case Study: ZMART.cl, Leading the Gaming Retail Revolution in Chile"
 date: 2025-06-05
 description: "How a tight-knit team and a clear voice turned Zmart into Chile’s go-to destination for gamers."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/68679b3b-bb4a-458d-8380-9d1c804bc49b_1280x720.png"
 lang: en
 draft: false

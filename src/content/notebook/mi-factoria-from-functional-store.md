@@ -2,7 +2,7 @@
 title: "Mi Factoría' From Functional Store to Family-Friendly Brand"
 date: 2025-07-16
 description: "How I redesigned a Shopify site to better connect with curious kids and practical parents."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/1caba8c1-3050-435c-b323-f3edcdd5e3eb_1920x1080.png"
 lang: en
 draft: false
@@ -85,9 +85,3 @@ If you need a partner who’s hands-on but strategic, we should talk.*
 > ## Good e-commerce design isn’t about adding more, it’s about making the right things stand out.
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! This post is public so feel free to share it.
-
-[Share](https://felipeaguilera.substack.com/p/mi-factoria-from-functional-store?utm_source=substack&utm_medium=email&utm_content=share&action=share)
-
-[![](https://substack-post-media.s3.amazonaws.com/public/images/2736f3c3-f58d-484e-bc3d-39716f007b0c_1303x7737.jpeg)](https://substackcdn.com/image/fetch/$s_!WV-e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2736f3c3-f58d-484e-bc3d-39716f007b0c_1303x7737.jpeg)

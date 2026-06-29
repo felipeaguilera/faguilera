@@ -2,7 +2,7 @@
 title: "The Short and Lovely Curse of the three Heathers. "
 date: 2024-06-14
 description: "This week we are going to go deep into the insane things can do for love or peer appreciation. "
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/a404d589-29f9-46b6-b5a8-5c489a17b6a3_1920x1080.jpeg"
 lang: en
 draft: false
@@ -58,9 +58,3 @@ A very dark comedy, strange for its time, and with an absurd way of presenting t
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/v5gHF3FNr78?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
-
----
-
-[Leave a comment](https://felipeaguilera.substack.com/p/the-short-and-lovely-curse-of-the/comments)

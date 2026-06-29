@@ -2,7 +2,7 @@
 title: "The Brutalist' Review: Building a Dream, Brick by Brick"
 date: 2025-03-07
 description: "A tremendous testament to human dreams in a harsh concrete world."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/6c2d6445-51d0-4771-aae9-748562690843_3840x2160.jpeg"
 lang: en
 draft: false
@@ -75,5 +75,3 @@ Despite its limited budget and clear, film is beautiful unique, comforting. It m
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/GdRXPAHIEW4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Become part of the Eagle Time Insights community! Subscribe for free to receive new posts, share your thoughts on film, and support my work. Let's discuss The Brutalist and other cinematic gems together!

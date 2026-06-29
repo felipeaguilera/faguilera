@@ -2,7 +2,7 @@
 title: "Bobo: The End of a Good Cycle"
 date: 2025-12-02
 description: "We put Bobo to rest yesterday. It was a sad, yet necessary act that closes a long, kind, and at times, absurd chapter of life for my family and me."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/29744e88-ff2b-4609-b8b1-fcf1ee722547_1920x1080.png"
 lang: en
 draft: false
@@ -54,5 +54,3 @@ Bobo’s life, alongside the dozen or so dogs we had over the years in the famil
 **Rest well, my great, scruffy mutt. You were a magnificent dog.**
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

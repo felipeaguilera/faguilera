@@ -2,7 +2,7 @@
 title: "The Arrogance of the Sighted. Lessons from H. G. Wells on Customer Experience"
 date: 2025-10-20
 description: "We’ve all heard the saying: “In the country of the blind, the one-eyed man is king”. It sounds obvious. Whoever sees more is meant to lead. In a world of the ignorant, it’s not hard to stand out from."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/233f69a1-a2e9-4dd7-8006-8996ee90c15c_1248x832.png"
 lang: en
 draft: false

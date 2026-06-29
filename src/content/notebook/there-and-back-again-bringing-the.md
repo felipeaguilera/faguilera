@@ -2,7 +2,7 @@
 title: "There and back again: Bringing the Adventurer Wisdom back to the Shire."
 date: 2026-01-09
 description: "Beyond Smaug: Why the most valuable consulting breakthroughs are the ones we bring home to our daily \"Shire."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/b216355b-38b0-4de2-8501-8e18df4df8a0_2400x1350.png"
 lang: en
 draft: false
@@ -40,7 +40,3 @@ Bilbo didn’t return to the Shire to act like a king. He returned to be a bette
 As a consultant, that is my goal. I will continue to seek out the difficult, unexplored projects that push me out of my comfort zone. But I will always return to the Shire. The adventure is only half the story. The real impact happens when we use what we found out there to make our home a little more magical for those who matter most.
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! This post is public so feel free to share it.
-
-[Share](https://felipeaguilera.substack.com/p/there-and-back-again-bringing-the?utm_source=substack&utm_medium=email&utm_content=share&action=share)

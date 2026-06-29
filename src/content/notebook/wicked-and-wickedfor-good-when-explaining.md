@@ -2,7 +2,7 @@
 title: "‘Wicked’ and 'Wicked:For Good'. When Explaining the Magic Kills the Joy"
 date: 2025-12-05
 description: "A dazzling musical that eventually suffocates under the weight of its own lore."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/cd8a2300-f1e2-4455-bef2-8dcd94049ddd_3840x2160.jpeg"
 lang: en
 draft: false
@@ -63,5 +63,3 @@ We see this often in modern franchises: the belief that the audience cares more 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/R2Xubj7lazE?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays—or reach out if you want to work together.

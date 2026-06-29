@@ -2,7 +2,7 @@
 title: "Landman: Into the Texas Oil Inferno."
 date: 2025-03-21
 description: "Taylor Sheridan's \"Landman\" plunges viewers into the volatile world of the Texas oil industry, exploring the brutal realities, complex family dynamics, and compelling characters."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/2a756fef-0acd-48e8-a6d3-fe8c2c40ffdc_3840x2160.jpeg"
 lang: en
 draft: false
@@ -73,5 +73,3 @@ As a Taylor Sheridan project, "Landman" inevitably draws comparisons to "Yellows
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/7zxh49-bsIk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading! Subscribe for free to more reviews and insights, I will really appreciate it.

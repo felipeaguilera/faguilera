@@ -2,7 +2,7 @@
 title: "Civil War in America. The Pop-Tart War has broken a lot of Families"
 date: 2024-05-10
 description: "This week we are going deep in the American past and future. With Andrew Garland's \"Civil War\", \"Unfrosted\" with Jerry Seinfeld and the latest Copolla + Murray collaboration from 2020, \"On the Rocks"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/5406d240-fc58-4093-91e2-2ef66d4e4ebd_1920x1080.png"
 lang: en
 draft: false
@@ -60,7 +60,3 @@ Unfortunately, the film left me wanting more, not only in terms of dramatic inte
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Xn3sK4WiviA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
-
-[Leave a comment](https://felipeaguilera.substack.com/p/civil-war-in-america-the-pop-tart/comments)

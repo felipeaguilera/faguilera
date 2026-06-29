@@ -192,6 +192,133 @@ footer { background: var(--ink); color: #cabfae; padding: 56px 0 40px; }
 .syndication-note { background: var(--cream); border: 1px solid var(--line); border-radius: 6px; padding: 18px 22px; margin: 0 auto 48px; max-width: 68ch; font-size: 15px; color: var(--muted); font-family: var(--type); letter-spacing: .04em; }
 .syndication-note a { color: var(--orange); }
 
+/* EVO homepage section */
+.evo-home {
+  background: var(--ink);
+  padding: 80px 0;
+}
+.evo-home-inner {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 64px;
+  align-items: start;
+}
+.evo-home-left { padding-top: 6px; }
+.evo-home-logo { width: 140px; opacity: .9; display: block; }
+.evo-home-sub {
+  font-family: var(--type);
+  font-size: 10px;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  color: #6a6055;
+  margin-top: 10px;
+}
+.evo-eyebrow { color: var(--orange); }
+.evo-eyebrow::before { background: var(--orange); }
+.evo-home-heading {
+  font-family: var(--display);
+  font-size: 38px;
+  font-weight: 500;
+  color: #fff;
+  line-height: 1.12;
+  letter-spacing: -.01em;
+  margin-bottom: 18px;
+  max-width: 28ch;
+}
+.evo-home-text {
+  font-size: 18px;
+  color: #a89e8d;
+  line-height: 1.65;
+  max-width: 60ch;
+  margin-bottom: 36px;
+}
+.evo-home-services {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border-top: 1px solid #2e2a26;
+}
+.evo-service {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  padding: 18px 0;
+  border-bottom: 1px solid #2e2a26;
+}
+.evo-service-num {
+  font-family: var(--type);
+  font-size: 10px;
+  letter-spacing: .12em;
+  color: var(--orange);
+  min-width: 24px;
+  padding-top: 3px;
+}
+.evo-service strong {
+  font-family: var(--display);
+  font-size: 17px;
+  font-weight: 500;
+  color: #fff;
+  display: block;
+  margin-bottom: 4px;
+}
+.evo-service p {
+  font-size: 15px;
+  color: #7a7164;
+  line-height: 1.5;
+  margin: 0;
+}
+@media (max-width: 820px) {
+  .evo-home-inner { grid-template-columns: 1fr; gap: 32px; }
+  .evo-home-left { display: none; }
+  .evo-home-heading { font-size: 28px; }
+}
+
+/* EVO CTA block */
+.evo-cta {
+  background: var(--ink);
+  padding: 64px 0;
+}
+.evo-cta-inner {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 48px;
+  align-items: start;
+}
+.evo-cta-logo img { width: 120px; opacity: .9; }
+.evo-cta-tag {
+  font-family: var(--type);
+  font-size: 11px;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--orange);
+  margin-bottom: 12px;
+}
+.evo-cta-heading {
+  font-family: var(--display);
+  font-size: 34px;
+  font-weight: 500;
+  color: #fff;
+  line-height: 1.12;
+  margin-bottom: 16px;
+  max-width: none;
+}
+.evo-cta-text {
+  font-size: 17px;
+  color: #a89e8d;
+  line-height: 1.6;
+  max-width: 58ch;
+  margin-bottom: 28px;
+}
+.evo-cta-actions { display: flex; gap: 14px; flex-wrap: wrap; }
+.evo-ghost { border-color: #4a4540; color: #cabfae; }
+.evo-ghost:hover { background: #4a4540; color: #fff; }
+
+@media (max-width: 640px) {
+  .evo-cta-inner { grid-template-columns: 1fr; gap: 28px; }
+  .evo-cta-logo { display: none; }
+  .evo-cta-heading { font-size: 26px; }
+}
+
 /* Prose images — constrained within column */
 .article-body .prose img {
   max-width: 100%;

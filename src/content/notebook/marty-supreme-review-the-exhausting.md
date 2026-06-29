@@ -2,7 +2,7 @@
 title: "‘Marty Supreme’ Review: The Exhausting, Brilliant Cost of Believing in Yourself "
 date: 2026-02-27
 description: "Josh Safdie takes a story no one asked for and turns it into one of the most intense films of the year."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/2d045f17-dbf0-4e1b-910e-8f727d84b935_3840x2160.png"
 lang: en
 draft: false
@@ -70,5 +70,3 @@ Marty burns through everyone who tries to support him because his conviction in 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/s9gSuKaKcqM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

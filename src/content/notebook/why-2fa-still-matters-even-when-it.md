@@ -2,7 +2,7 @@
 title: "Why 2FA Still Matters (Even When It Feels Like a Hassle)"
 date: 2025-05-05
 description: "The second key to your digital life isn’t optional anymore. Here’s why it matters—and how I rebuilt my setup after everything collapsed."
-category: "Notebook"
+category: "Technology"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/2cb8d048-17f8-41e0-8643-4ad73fa228c2_1536x1024.png"
 lang: en
 draft: false
@@ -66,15 +66,3 @@ Security isn’t something you notice when it works — only when it fails.
 Soon, I’ll share the full story of that phone theft, what was lost, what I learned, and how it changed how I relate to my digital self. But this week, let’s keep it simple: check your 2FA setup.
 
 ---
-
-👋 *Thanks for reading!*
-
-*I’m **Felipe Aguilera**, a digital strategist and designer based in Santiago, Chile — helping people and businesses improve how they communicate, organize, and protect their digital lives.*
-
-*If you’re looking to simplify your systems, align your brand, or optimize your productivity — I’d love to help.*
-
-*🌐 Learn more: <https://www.faguilera.com>*
-
----
-
-[Share Insights by Felipe Aguilera](https://felipeaguilera.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share)

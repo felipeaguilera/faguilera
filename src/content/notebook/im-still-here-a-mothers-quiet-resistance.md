@@ -2,7 +2,7 @@
 title: "🎬 I'm Still Here – A Mother's Quiet Resistance"
 date: 2025-05-09
 description: "A quiet, powerful look at how one family’s story helps us understand the long shadows of dictatorship—and the resilience it takes to carry on."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/955a389e-be4c-4c87-a0ae-e5f7c584fca7_3840x2160.png"
 lang: en
 draft: false
@@ -97,7 +97,3 @@ That’s what this film left me with. Not a resolution. Just a quiet weight. And
 *I write about series, media, and the way technology shapes how we live and feel. If you’re building something and need help with the story, visit [faguilera.com](https://www.faguilera.com/). I help brands communicate with clarity—and I reflect on culture with curiosity.*
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! This post is public so feel free to share it.
-
-[Share](https://felipeaguilera.substack.com/p/im-still-here-a-mothers-quiet-resistance?utm_source=substack&utm_medium=email&utm_content=share&action=share)

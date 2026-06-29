@@ -2,7 +2,7 @@
 title: "The Case of Bridget Jones vs Shogun, 1985."
 date: 2024-05-04
 description: "This week's report, it's all about history. An epic oriental saga reborn, an intense and groundbreaking moment in Argentina and last but not least, when Bridget Jones started her diary in London."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/6284d5fe-afe3-44de-8a8a-01a2a1e2730b_1920x1080.png"
 lang: en
 draft: false
@@ -52,7 +52,3 @@ The fun and obvious love triangle between Bridget Jones, Daniel Cleaver, and Mar
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/xjlKnDWZYzc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
-
-[Leave a comment](https://felipeaguilera.substack.com/p/the-case-of-bridget-jones-vs-shogun/comments)

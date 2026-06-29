@@ -2,7 +2,7 @@
 title: "Coup de Chance Review"
 date: 2025-01-24
 description: "Woody Allen's new French film about love, betrayal, and fate disappoints despite beautiful scenery and an interesting premise."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/26ae6523-846a-4bd1-8f1b-cf8256a6decf_3840x2160.jpeg"
 lang: en
 draft: false
@@ -67,5 +67,3 @@ Where to Watch: Cinemas, if any. Soon on Streaming
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Ohcoh0KRvxg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

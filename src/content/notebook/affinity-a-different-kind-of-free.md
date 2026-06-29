@@ -2,7 +2,7 @@
 title: "Affinity: A Different Kind of Free"
 date: 2025-10-30
 description: "A quiet shift happened this week. Affinity, the design suite once sold as the alternative to Adobe Creative Cloud, is now completely free.No subscription. No trial. No limits."
-category: "Notebook"
+category: "Technology"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/e17bc630-ced0-42df-9087-51f57e099e69_3200x978.png"
 lang: en
 draft: false
@@ -58,7 +58,3 @@ If you need a partner who’s hands-on but strategic, we should talk.*
 💬 Reach out via [WhatsApp](https://wa.me/56982393697?text=Hello%21) or visit [faguilera.com](https://faguilera.com/)
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! This post is public so feel free to share it.
-
-[Share](https://felipeaguilera.substack.com/p/affinity-a-different-kind-of-free?utm_source=substack&utm_medium=email&utm_content=share&action=share)

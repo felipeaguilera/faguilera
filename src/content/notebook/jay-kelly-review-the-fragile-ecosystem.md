@@ -2,7 +2,7 @@
 title: "Jay Kelly' Review: The Fragile Ecosystem of a Hollywood Star"
 date: 2025-12-12
 description: "A mature and clever exposition on the people who try to edit a life that refuses to be scripted."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/ab267906-983f-4de3-8ea7-a690679d9c1b_2400x1350.png"
 lang: en
 draft: false
@@ -65,5 +65,3 @@ The tragedy of Jay Kelly is that he lives as if he is in a movie where everythin
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/I8GbcVkqZwQ?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

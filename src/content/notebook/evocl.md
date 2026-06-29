@@ -22,5 +22,3 @@ I'm aiming to connect with a new English-speaking audience, adopt a fresh format
 My objective is to publish several posts weekly. I'm exploring the most effective best practices to optimize this process. I believe setting a weekly project challenge for myself is an excellent strategy. At present, this project is accessible to all, but I aspire to develop exclusive, more comprehensive projects in the future.
 
 ---
-
-Thanks for reading Felipe’s Substack! Subscribe for free to receive new posts and support my work.

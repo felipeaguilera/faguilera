@@ -2,7 +2,7 @@
 title: "Scoop: The Asteroids are Comedy Kings."
 date: 2024-04-20
 description: "Also known as EVO.cl Film report #5 of 2024.04.20"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/158e3447-0db6-438d-baee-bcb3054df53f_1920x1080.png"
 lang: en
 draft: false
@@ -52,9 +52,5 @@ The story escalates to levels of delirium, crime, and a complete loss of judgmen
 ⭐ 9 / 10, MAX
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/BOpbikZm3JY?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
-
----
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
 
 ---

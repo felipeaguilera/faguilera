@@ -2,7 +2,7 @@
 title: "A Real Pain"
 date: 2025-02-14
 description: "Between laughter and tears, a family reunion in lands of tremendous historical weight. A gentle invitation to reconnect."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/9706521e-4cc7-4577-ac5d-2aa2a667b063_3840x2160.jpeg"
 lang: en
 draft: false
@@ -74,5 +74,3 @@ Being a co-production financed by the Polish government, conditions, demands, an
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/b2et8Vpu7Ls?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

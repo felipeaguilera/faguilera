@@ -2,7 +2,7 @@
 title: "“The Secret Agent” Review: Surviving a Broken Society"
 date: 2026-02-20
 description: "A tense political drama about hiding in plain sight during the Brazilian dictatorship."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/89be5880-febc-4084-bbb7-35950ec365e9_3840x2160.png"
 lang: en
 draft: false
@@ -68,5 +68,3 @@ And how crucial is it to understand the specific political history of a country 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/9UfrzDKrhEc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

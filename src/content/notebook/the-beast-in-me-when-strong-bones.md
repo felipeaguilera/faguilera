@@ -2,7 +2,7 @@
 title: "The Beast in Me' When Strong Bones Aren’t Enough"
 date: 2025-11-28
 description: "A psychological thriller that does nearly everything right, until it doesn’t."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/09c7c0ba-acad-4ead-8b69-328d4c8ab58a_3840x2160.png"
 lang: en
 draft: false
@@ -96,7 +96,3 @@ It’s the same in design or strategy: if the last interaction feels generic, pe
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/8iNHGKcP0cM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-**Thanks for reading.** I write about culture, creativity, and how ideas hold up under pressure.
-
-Subscribe to get new essays — or reach out if you want to work together.

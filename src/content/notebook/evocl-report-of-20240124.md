@@ -42,5 +42,3 @@ In Helsinki, Fallen Leaves allows us to witness the encounter between Ansa and H
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/a7n8IXlIcS4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Felipe’s Substack! Subscribe for free to receive new posts and support my work.

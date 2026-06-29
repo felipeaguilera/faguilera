@@ -2,7 +2,7 @@
 title: "Past Lives Review"
 date: 2025-01-17
 description: "A heartfelt journey through time and culture that explores what happens when childhood sweethearts reconnect after years apart."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/f382db18-4b27-4337-bd4e-bda1792b010d_3840x2160.jpeg"
 lang: en
 draft: false
@@ -69,5 +69,3 @@ Where to Watch: Netflix
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/kA244xewjcI?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

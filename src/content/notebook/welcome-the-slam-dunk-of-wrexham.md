@@ -2,7 +2,7 @@
 title: "Welcome the Slam Dunk of Wrexham and Survive."
 date: 2024-08-30
 description: "This week, we dive into the world of sports, hearing tales of growth, camaraderie, and unwavering pursuit of goals, as seen through the eyes of its main characters. "
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/938c136a-2072-48a0-b433-36bc56c965fe_3840x2160.jpeg"
 lang: en
 draft: false
@@ -60,5 +60,3 @@ Furthermore, I understood that not only does one get excited about the tournamen
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/wtJPe1ksS6E?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

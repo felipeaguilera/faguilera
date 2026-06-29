@@ -2,7 +2,7 @@
 title: "Bottoms up: The Volcanic Love of Lobsters"
 date: 2024-04-27
 description: "Also known as EVO.cl Film report #6 of 2024.04.27"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/d575386b-52ed-4ea7-a959-19be41c69274_1920x1080.png"
 lang: en
 draft: false
@@ -56,7 +56,3 @@ Lanthimos presents this work with touches of comedy that, for me, end up in a co
 ⭐ 8 /10 [MAX](https://www.max.com/movies/lobster/5bf02226-e396-40f8-a8b4-2f3dfa9cadff)
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
-
-[Leave a comment](https://felipeaguilera.substack.com/p/bottoms-up-the-volcanic-love-of-lobsters/comments)

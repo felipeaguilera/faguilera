@@ -2,7 +2,7 @@
 title: "OpenAI Apps: From Chat to Platform"
 date: 2025-10-06
 description: "OpenAI is not presenting ChatGPT as a tool anymore. It is turning it into a platform. A space where interaction, creation and transactions start to blend into one flow."
-category: "Notebook"
+category: "Technology"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/cc2e1ca2-d783-427f-ab63-810c818b3833_1920x1080.png"
 lang: en
 draft: false
@@ -77,5 +77,3 @@ To use these systems without letting them decide how we should use our time. The
 **What we do with that mirror will define how human this next version of the internet really is.**
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

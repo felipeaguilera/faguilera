@@ -2,7 +2,7 @@
 title: "Cold War alert: From May to December, People just love the Stalking of Reindeers."
 date: 2024-05-24
 description: "This week reviews are all about unconventional and somewhat uncomfortable relationships. And with May December, Baby Reindeer and Cold War I have experienced a lot of that remarkable thing humans do."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/0a71eb91-eb48-4314-9657-a83d5246a6b4_1920x1080.jpeg"
 lang: en
 draft: false
@@ -56,5 +56,3 @@ The choice to present the story in black and white combines drama with a fantast
 ---
 
 [Leave a comment](https://felipeaguilera.substack.com/p/cold-war-alert-from-may-to-december/comments)
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

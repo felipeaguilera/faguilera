@@ -2,7 +2,7 @@
 title: "Bugonia': Why Logic is Defenseless Against a Fanatic Mind."
 date: 2026-01-23
 description: "Yorgos Lanthimos returns to prove that ignorance is the most dangerous thing in the world. Especially when it has a plan."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/4dfebd82-90ed-4221-b36a-46cb7d8a00e1_3840x2160.png"
 lang: en
 draft: false
@@ -61,5 +61,3 @@ The film shows that logic often fails against pure belief. When you are trying t
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/7VBigr-JHB0?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

@@ -2,7 +2,7 @@
 title: "Rehearsing a Sick Life in a Promised Land "
 date: 2024-05-17
 description: "This week's focus is on three productions: the Danish movie \"The Promised Land,\" the Swedish comedy \"Sick of Myself,\" and Nathan Fielder's miniseries \"The Rehearsal.\" All three share a common theme of"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/2bd64691-eea2-46f9-9d28-0d3e4072efc2_1920x1080.jpeg"
 lang: en
 draft: false
@@ -50,7 +50,3 @@ Nathan, with a big budget and a great obsession for detail, starts to immerse us
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/2fjPFt8cpic?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
-
-[Leave a comment](https://felipeaguilera.substack.com/p/rehearsing-a-sick-life-in-a-promised/comments)

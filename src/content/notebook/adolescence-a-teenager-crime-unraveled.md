@@ -2,7 +2,7 @@
 title: "Adolescence: A teenager crime unraveled in four unbroken shots."
 date: 2025-03-28
 description: "A gripping limited series that immerses viewers in a real-time murder accusation, exploring the struggles of modern adolescence."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/2dd16405-a474-428e-8ded-3ec17518addf_3840x2160.jpeg"
 lang: en
 draft: false
@@ -64,5 +64,3 @@ A powerful and immersive crime drama that offers a very intense portrayal of mod
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Wk5OxqtpBR4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-f you enjoy deep dives into bold storytelling and innovative filmmaking, stick around—there’s more where this came from. Subscribe to Eagle Time Insights for more reviews, analysis, and conversations on the stories that push boundaries. It’s free, and I’d love to have you along for the ride!

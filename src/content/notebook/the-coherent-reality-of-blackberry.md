@@ -2,7 +2,7 @@
 title: "The Coherent reality of BlackBerry."
 date: 2024-05-31
 description: "This week's reviews: small productions & the rise & fall of the first smartphone. Interesting styles & creative presentation of Coherence, Reality & Blackberry."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/9ca21570-203a-4d19-b9ea-c37a9d8027cb_1920x1080.jpeg"
 lang: en
 draft: false
@@ -56,5 +56,3 @@ With an interesting idea, I think the intention of deciphering what happens is f
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/sEceDz1Rodc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

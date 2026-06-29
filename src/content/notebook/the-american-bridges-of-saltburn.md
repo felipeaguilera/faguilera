@@ -2,7 +2,7 @@
 title: "The American Bridges of Saltburn."
 date: 2024-04-13
 description: "Also known as EVO.cl Film report #4 of 2024.04.12"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/5e80be37-f85b-4467-861e-8880edd389d1_1920x1080.png"
 lang: en
 draft: false
@@ -48,7 +48,3 @@ Although I found it to be somewhat lighter than I remembered, I was struck by th
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ZoJJkAQV0Bg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.
-
-[Share EVO.cl by Felipe Aguilera](https://felipeaguilera.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share)

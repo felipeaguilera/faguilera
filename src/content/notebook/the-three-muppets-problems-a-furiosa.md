@@ -2,7 +2,7 @@
 title: "The Three Muppets Problems: A Furiosa Saga. "
 date: 2024-06-07
 description: "A high-octane action in the Wasteland, a mind-bending Sci-Fi proposal, or a trip through the life of a creative genius. This week, we explore a captivating collection of visual prowess."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/6fb71308-707b-4204-bf30-7cb7dbcf6dda_1920x1080.jpeg"
 lang: en
 draft: false
@@ -54,5 +54,3 @@ I hope these points are improved in the next season, as it clearly has great pot
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/mogSbMD6EcY?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

@@ -2,7 +2,7 @@
 title: "“Hamnet” Review: A Survival Story in Shakespeare’s Shadow"
 date: 2026-02-06
 description: "A film that uses the Shakespeare name to grab attention, but in the intimacy of the screen shows an interesting more powerful story about a mother’s endurance."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/6a5a413b-2d73-43f6-ac59-3d3d648504f8_3840x2160.png"
 lang: en
 draft: false
@@ -68,5 +68,3 @@ Would you have watched this movie if it was just called *Agnes* and had no conne
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/xYcgQMxQwmk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

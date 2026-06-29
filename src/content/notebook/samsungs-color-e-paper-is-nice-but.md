@@ -2,7 +2,7 @@
 title: "Samsung’s Color E-Paper Is Nice — But Will Small Businesses Actually Use It?"
 date: 2025-05-12
 description: "An ultra-low power display with big promises, but are we ready to change how we show content?"
-category: "Notebook"
+category: "Technology"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/62bfbcc1-fbc2-4e6c-a152-70dc77e6668e_1536x1024.png"
 lang: en
 draft: false
@@ -64,15 +64,3 @@ That’s where I see the magic of this kind of tech.
 *<https://news.samsung.com/global/samsung-showcases-color-e-paper-and-ai-signage-solutions-at-ise-2025>*
 
 ---
-
-👋 *Thanks for reading!*
-
-*I’m **Felipe Aguilera**, a digital strategist and designer based in Santiago, Chile — helping people and businesses improve how they communicate, organize, and protect their digital lives.*
-
-*If you’re looking to simplify your systems, align your brand, or optimize your productivity — I’d love to help.*
-
-*🌐 Learn more:* <https://www.faguilera.com>
-
----
-
-Thanks for reading Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

@@ -2,7 +2,7 @@
 title: "A Barbarian's Red Eyes were lurking into an Evil Airbnb."
 date: 2024-06-21
 description: "There's a lot of scary stuff going on this week. A small town in Argentina, an Airbnb far away, or a Night flight to Miami. Not the most comfortable places, but definitely interesting for horror fans."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/73f1ca62-ba3c-4bab-860d-624e9e377291_1920x1080.jpeg"
 lang: en
 draft: false
@@ -52,5 +52,3 @@ However, as one always has to get something positive out of what they do, I lear
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/1YdzfduyXIA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading EVO.cl by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

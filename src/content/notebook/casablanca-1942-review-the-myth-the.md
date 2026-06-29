@@ -2,7 +2,7 @@
 title: "‘Casablanca’ (1942) Review: The Myth, the Memory, and the Romance Revisited"
 date: 2025-04-25
 description: "One of cinema’s most iconic love stories reminded me how time changes both perception and impact."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/a4f45a87-55ef-461a-87a8-97b938acfe01_3840x2157.png"
 lang: en
 draft: false
@@ -70,5 +70,3 @@ Rewatching *Casablanca* made me think about how memory and myth play with each o
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/MF7JH_54d8c?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Eagle Time Insights by Felipe Aguilera. Subscribe for free to receive new reviews and revisit the films that time reshapes—but never truly erases.

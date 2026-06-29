@@ -2,7 +2,7 @@
 title: "Sentimental Value\" Review: Turning Family Trauma into Art."
 date: 2026-02-13
 description: "Joachim Trier explores the ruthless selfishness required to make a 'masterpiece' and the deep traces of what was left behind."
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/613369e4-4e06-4d4b-bfcd-d983fc19fc5a_1920x1080.png"
 lang: en
 draft: false
@@ -62,5 +62,3 @@ The father wants to film a movie about his deceased wife in the house she died i
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/lKbcKQN5Yrw?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

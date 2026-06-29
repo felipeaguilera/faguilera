@@ -2,7 +2,7 @@
 title: "The Antidote to 'Slop': Why I’m Trading My Feed for the Shire"
 date: 2025-12-19
 description: "From “Brain Rot” to Bag End: A Strategic Retreat into Quality."
-category: "Notebook"
+category: "Brand & Culture"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/4ac54e2d-bf59-4685-9740-eae021cbc72d_2400x1350.png"
 lang: en
 draft: false
@@ -45,5 +45,3 @@ We do not need more content. We need more context. Tolkien started small with a 
 If you want to fix your sleep and perhaps your perspective, stop scrolling the slop and start walking like an adventurous Hobbit.
 
 ---
-
-Thanks for reading Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

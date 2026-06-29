@@ -2,7 +2,7 @@
 title: "Erasing the Memory of some Perfect Days"
 date: 2024-04-06
 description: "Also known ad EVO.cl Film report #3 of 2024.04.06"
-category: "Notebook"
+category: "Film & Series"
 cover: "https://substack-post-media.s3.amazonaws.com/public/images/a35852b4-ca39-4f02-9657-c05829aadebc_1920x1080.png"
 lang: en
 draft: false
@@ -56,5 +56,3 @@ Michel Gondry's film remains innovative, fresh, and fascinating. I recommend rev
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Vw5yDpSxfXc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
-
-Thanks for reading Felipe’s Substack! Subscribe for free to receive new posts and support my work.
