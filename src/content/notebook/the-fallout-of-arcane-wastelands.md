@@ -23,6 +23,8 @@ With the franchise faithfully represented and an excellent first installment, I 
 
 ⭐9/10. [Prime Video](https://www.primevideo.com/dp/0MGF1TY1ROU0HR21BEVL7CXLGQ)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/V-mugKDQDlg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 📺The Last of Us (2023)🧟🌿🦒🪓💉
@@ -39,6 +41,8 @@ Given that it is not just another zombie adventure, and far above the narrative 
 
 ⭐ 9/10 [Max](https://www.max.com/cl/es/shows/last-of-us-2023/93ba22b1-833e-47ba-ae94-8ee7b9eefa9a)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/uLtkt8BonwM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 📺Arcane (2021)🧪💣⚙️💔
@@ -52,6 +56,8 @@ In a society divided between noble and poor individuals, we are immersed in a wo
 One of the successes of this series is focusing on the origins of only some iconic characters from the video game, providing the opportunity to develop them, understand their motivations, and also achieve a coherent thread. Although a second season has already been announced, the first series of 9 episodes opens and closes an adventure, generating a true pleasure not only for League of Legends fans but for any enthusiast of modern animation.
 
 ⭐10/10 [Netflix](https://www.netflix.com/cl-en/title/81435684)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/fXmAurh012s?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -72,6 +72,8 @@ The show tries to dig into some interesting themes like identity and spiritualit
 
 ## Trailer:
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/XwQRkOK5KC4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Appreciate you checking out my thoughts on the latest trip to The White Lotus here at **Eagle Time Insights by Felipe Aguilera**. Enjoy this kind of analysis? **Subscribe for free to get more insights like this delivered directly, and help support the newsletter.**

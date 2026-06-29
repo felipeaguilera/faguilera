@@ -71,6 +71,8 @@ Sean Baker's clearly aiming for something real. He wants you to see these people
 
 ## **Trailer**
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/p1HxTmV5i7c?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

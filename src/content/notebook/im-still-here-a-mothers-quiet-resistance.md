@@ -90,6 +90,8 @@ That’s what this film left me with. Not a resolution. Just a quiet weight. And
 
 ## 🎥 Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/gDunV808Yf4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 *I write about series, media, and the way technology shapes how we live and feel. If you’re building something and need help with the story, visit [faguilera.com](https://www.faguilera.com/). I help brands communicate with clarity—and I reflect on culture with curiosity.*

@@ -93,6 +93,8 @@ It’s the same in design or strategy: if the last interaction feels generic, pe
 
 ## Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/8iNHGKcP0cM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 **Thanks for reading.** I write about culture, creativity, and how ideas hold up under pressure.

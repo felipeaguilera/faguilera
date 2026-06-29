@@ -79,6 +79,8 @@ The film suggests that a society built on collective duty and contribution can s
 
 # Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/lhlh7JVcTt8?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 hanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

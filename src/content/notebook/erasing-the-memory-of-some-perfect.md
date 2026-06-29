@@ -21,6 +21,8 @@ Music plays an extremely important role, unlike a conventional soundtrack, we en
 
 ⭐ 10 / 10, Available on Cine Arte Alameda, soon on MUBI.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/QzZBbX5A1FA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 The Zone of Interest (2023) 🖤
@@ -35,6 +37,8 @@ The constant duality where the terrible presence of death and the disturbing wor
 
 ⭐ 8 / 10, Prime Video.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/r-vfg3KkV54?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 Eternal Sunshine of the Spotless Mind (2004) 🧠
@@ -48,6 +52,8 @@ Fortunately, last week I enjoyed Eternal Sunshine of the Spotless Mind, and I ca
 Michel Gondry's film remains innovative, fresh, and fascinating. I recommend revisiting and enjoying it for those who did so in a more naive era, and also for those who do so today, where everything is perhaps more tangled. It can provide some fresh moments of sincere relief.
 
 ⭐ 9 / 10, Max.
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Vw5yDpSxfXc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -19,6 +19,8 @@ It is not a movie for everyone, and its bloody and violent action will not be en
 
 ⭐ 9/10. Netflix.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/eJZb9YbC0Lk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 Barbarian (2022) 🏚️🚪🔪
@@ -30,6 +32,8 @@ Continuing in the fascinating world of the horror genre, this film is innovative
 Due to the multiple surprises in the film, I will not go into any detail. However, I can assure you that it is a contribution in a world full of a very repetitive horror genre. From the hand of Zach Cregger, Barbarian is a hopeful and useful experience for all those looking for something new.
 
 ⭐ 8/10. Netflix.
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Dr89pmKrqkI?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -44,6 +48,8 @@ An interesting race against time adventure, which has a better premise than it�
 However, as one always has to get something positive out of what they do, I learned that “Red Eye” refers to flights that depart at night and arrive at their destination in the early morning or morning. They are called this because passengers often arrive with red eyes due to lack of proper sleep during the night. Fascinating.
 
 ⭐ 6 /10. Netflix.
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/1YdzfduyXIA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

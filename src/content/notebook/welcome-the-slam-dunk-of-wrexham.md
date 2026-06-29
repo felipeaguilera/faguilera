@@ -23,6 +23,8 @@ The movie is very emotional and goes beyond sports. It talks about things like f
 
 ### ***⭐ 9/10. [Netflix.](https://www.netflix.com/cl-en/title/81765372)***
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/y2J8Y-6zqts?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # **📺 Welcome to Wrexham (2022-…) ⚽🥅**
@@ -36,6 +38,8 @@ This documentary gives us, in chapters of 30 minutes each, the promotion in the 
 The experience of Wrexham and its ascendancy through the English Football League captivates us, moves us, and prompts us to join as followers of an intriguing sports bet and an excellent marketing action, where everyone benefits.
 
 ### ***⭐ 8/10. Disney+***
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/R6v28e3MmhA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -52,6 +56,8 @@ However, Formula 1 drivers are superheroes who are not afraid of extreme speed. 
 Furthermore, I understood that not only does one get excited about the tournament leaders, like Redbull or Mercedes-Benz, but also about the stories of improvement, the simplest teams that have their arcs, challenges, triumphs, and defeats. After watching the series, the experience of watching race after race live is very intense, entertaining, and fascinating.
 
 ### ***⭐ 9/10. Netflix***
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/wtJPe1ksS6E?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

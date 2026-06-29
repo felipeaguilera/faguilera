@@ -62,6 +62,8 @@ The tragedy of Jay Kelly is that he lives as if he is in a movie where everythin
 
 ## **Trailer**
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/I8GbcVkqZwQ?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.

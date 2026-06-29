@@ -21,6 +21,8 @@ Shogun has the level of production, the war intensity and a carefully developed 
 
 ⭐ 9/10 [Star+ o Disney+](https://www.disneyplus.com/browse/entity-d90a933e-3b20-45a3-9bcf-b07e631a603f)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/yAN5uspO_hk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 Argentina, 1985 (2022) ⚖️🇦🇷
@@ -33,6 +35,8 @@ It is a fascinating journey into a not-so-distant Latin American past, where con
 
 ⭐ 8 /10 [Prime Video](https://www.primevideo.com/detail/0U3X7URM9HIE7L8OYI27ZS77YN/)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/EDK2FtU5oxg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 Bridget Jones Diary (2001) 📙💞
@@ -44,6 +48,8 @@ I barely remembered anything about this iconic romantic comedy from the early 20
 The fun and obvious love triangle between Bridget Jones, Daniel Cleaver, and Mark Darcy gives us a story of growth, anxieties, and comical mistakes that make Bridget win the heart of anyone who wants to nurture their spirit with good things.
 
 ⭐8/10 [Prime Video](https://www.primevideo.com/detail/0QDHVK7RSOYJ93AS9OBANC4FH1).
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/xjlKnDWZYzc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

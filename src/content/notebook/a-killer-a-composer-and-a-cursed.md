@@ -17,6 +17,8 @@ David Fincher is one of my favourite directors because he draws inspiration from
 
 ⭐ 8 / 10, Available on Netflix.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/5S7FR_HCg9g?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/810e38b1-ca0b-4c80-90fe-83f29c843004_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!QHj0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F810e38b1-ca0b-4c80-90fe-83f29c843004_1920x1080.png)
@@ -27,6 +29,8 @@ Todd Field immerses us in the world of top-tier classical music, where Lydia Tá
 
 ⭐ 9 / 10, Available on MAX.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/6kc2Seh8nKk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/b427dfe5-ef0e-40b8-9c5e-95b16142ffd1_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!3HE9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb427dfe5-ef0e-40b8-9c5e-95b16142ffd1_1920x1080.png)
@@ -36,6 +40,8 @@ Todd Field immerses us in the world of top-tier classical music, where Lydia Tá
 It begins like a typical paranormal horror film, yet despite its lightweight script, the handling of the supernatural dynamics, a couple of refreshing twists and quite disturbing and intense scenes. This Australian horror film published by A24 is an enjoyable experience.
 
 ⭐ 8 / 10, Prime Video.
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/PGo4wfCejsk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

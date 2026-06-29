@@ -61,6 +61,8 @@ The concept of the "Lesser Evil" is ever-present, prompting us to consider: **Un
 
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/czYUXo0R0oA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

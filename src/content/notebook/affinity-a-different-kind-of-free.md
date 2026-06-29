@@ -42,6 +42,8 @@ We’ll see.
 
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/UP_TBaKODlw?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 *Press release: <https://www.canva.com/newsroom/news/all-new-affinity>*
 
 ---

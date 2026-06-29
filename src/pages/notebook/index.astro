@@ -5,6 +5,13 @@ import { getCollection } from 'astro:content';
 const articles = (await getCollection('notebook', ({ data }) =>
   !data.draft && data.lang === 'en'
 )).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const hero = articles[0];
+const rest = articles.slice(1);
+
+function fmt(date: Date) {
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+}
 ---
 
 <Base
@@ -30,30 +37,51 @@ const articles = (await getCollection('notebook', ({ data }) =>
     </div>
   </nav>
 
-  <header style="padding:72px 0 48px;text-align:center;">
+  <header class="nb-header">
     <div class="wrap narrow">
-      <div class="eyebrow" style="justify-content:center;">
-        <span style="margin-left:0;">Notebook</span>
+      <div class="eyebrow" style="justify-content:center;margin-bottom:12px;">
+        <span style="margin-left:0;">{articles.length} pieces</span>
       </div>
-      <h1 class="mast" style="font-size:52px;">All writing</h1>
-      <p class="lead" style="margin:0 auto;">{articles.length} pieces on culture, technology, brand, and the craft of making things clear.</p>
+      <h1 class="mast" style="font-size:52px;">Notebook</h1>
+      <p class="lead" style="margin:0 auto;">On culture, technology, brand, and the craft of making things clear.</p>
     </div>
   </header>
 
-  <section style="padding:0 0 80px;">
+  {hero && (
+    <section class="hero-section">
+      <div class="wrap">
+        <a class="nb-hero" href={`/notebook/${hero.slug}`}>
+          {hero.data.cover && (
+            <div class="nb-hero-img" style={`background-image:url('${hero.data.cover}')`}></div>
+          )}
+          <div class="nb-hero-body">
+            <span class="eyebrow" style="margin-bottom:16px;">
+              <span>Latest</span>
+            </span>
+            <h2 class="nb-hero-title">{hero.data.title}</h2>
+            <p class="nb-hero-desc">{hero.data.description}</p>
+            <span class="nb-hero-meta meta">{hero.data.category} &middot; {fmt(hero.data.date)}</span>
+            <span class="btn ghost nb-hero-cta">Read essay →</span>
+          </div>
+        </a>
+      </div>
+    </section>
+  )}
+
+  <section class="grid-section">
     <div class="wrap">
       <div class="nb-grid">
-        {articles.map((article) => (
-          <a class="nb-row" href={`/notebook/${article.slug}`}>
-            {article.data.cover && (
-              <div class="nb-thumb" style={`background-image:url('${article.data.cover}')`}></div>
-            )}
-            <div class="nb-body">
-              <span class="meta">{article.data.category} &middot; {article.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
-              <h2 class="nb-title">{article.data.title}</h2>
-              <p class="nb-desc">{article.data.description}</p>
+        {rest.map((article) => (
+          <a class="nb-card" href={`/notebook/${article.slug}`}>
+            <div
+              class="nb-card-img"
+              style={article.data.cover ? `background-image:url('${article.data.cover}')` : ''}
+            ></div>
+            <div class="nb-card-body">
+              <span class="meta">{article.data.category} &middot; {fmt(article.data.date)}</span>
+              <h3 class="nb-card-title">{article.data.title}</h3>
+              <p class="nb-card-desc">{article.data.description}</p>
             </div>
-            <span class="nb-arrow">→</span>
           </a>
         ))}
       </div>
@@ -84,75 +112,132 @@ const articles = (await getCollection('notebook', ({ data }) =>
 </Base>
 
 <style>
-  .eyebrow::before { display: none; }
+  /* Header */
+  .nb-header {
+    padding: 72px 0 48px;
+    text-align: center;
+    border-bottom: 1.5px solid var(--ink);
+  }
+  .nb-header .eyebrow::before { display: none; }
 
-  .nb-grid {
+  /* Hero */
+  .hero-section { padding: 0; }
+
+  .nb-hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 420px;
+    border-bottom: 1.5px solid var(--ink);
+    color: var(--ink);
+    transition: background .15s;
+  }
+  .nb-hero:hover { background: var(--cream); }
+
+  .nb-hero-img {
+    background: #e7e0d2 center/cover no-repeat;
+    border-right: 1.5px solid var(--ink);
+    min-height: 360px;
+  }
+
+  .nb-hero-body {
+    padding: 52px 48px;
     display: flex;
     flex-direction: column;
-    border-top: 1.5px solid var(--ink);
-    margin-top: 0;
+    justify-content: center;
+  }
+  .nb-hero-body .eyebrow::before { display: none; }
+
+  .nb-hero-title {
+    font-family: var(--display);
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 1.15;
+    letter-spacing: -.01em;
+    margin: 0 0 16px;
+    max-width: 26ch;
   }
 
-  .nb-row {
+  .nb-hero-desc {
+    font-size: 17px;
+    color: var(--muted);
+    line-height: 1.55;
+    max-width: 48ch;
+    margin-bottom: 24px;
+  }
+
+  .nb-hero-meta {
+    display: block;
+    margin-bottom: 28px;
+  }
+
+  .nb-hero-cta { align-self: flex-start; font-size: 11.5px; }
+
+  /* Grid */
+  .grid-section { padding: 56px 0 80px; }
+
+  .nb-grid {
     display: grid;
-    grid-template-columns: 100px 1fr 32px;
-    gap: 24px;
-    align-items: center;
-    padding: 22px 0;
-    border-bottom: 1px solid var(--line);
-    transition: .15s;
-    color: var(--ink);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5px;
+    border: 1.5px solid var(--ink);
+    background: var(--ink);
   }
 
-  .nb-row:hover { background: var(--cream); padding-left: 12px; padding-right: 12px; margin: 0 -12px; }
+  .nb-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--paper);
+    color: var(--ink);
+    transition: background .15s;
+  }
+  .nb-card:hover { background: var(--cream); }
 
-  .nb-thumb {
-    width: 100px;
-    height: 66px;
-    border-radius: 4px;
+  .nb-card-img {
+    height: 180px;
     background: #e7e0d2 center/cover no-repeat;
-    border: 1px solid var(--line);
+    border-bottom: 1.5px solid var(--ink);
     flex-shrink: 0;
   }
 
-  .nb-body { min-width: 0; }
+  .nb-card-body {
+    padding: 22px 24px 28px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
 
-  .nb-title {
+  .nb-card-body .meta { margin-bottom: 10px; }
+
+  .nb-card-title {
     font-family: var(--display);
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    margin: 6px 0 4px;
+    margin: 0 0 10px;
     max-width: none;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 
-  .nb-desc {
+  .nb-card-desc {
     font-size: 15px;
     color: var(--muted);
-    line-height: 1.4;
-    white-space: nowrap;
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
     overflow: hidden;
-    text-overflow: ellipsis;
   }
 
-  .nb-arrow {
-    font-family: var(--type);
-    font-size: 18px;
-    color: var(--muted);
-    transition: .15s;
-    justify-self: end;
+  /* Responsive */
+  @media (max-width: 900px) {
+    .nb-grid { grid-template-columns: repeat(2, 1fr); }
   }
-
-  .nb-row:hover .nb-arrow { color: var(--orange); transform: translateX(4px); }
 
   @media (max-width: 640px) {
-    .nb-row { grid-template-columns: 72px 1fr; }
-    .nb-thumb { width: 72px; height: 48px; }
-    .nb-arrow { display: none; }
-    .nb-title { font-size: 17px; white-space: normal; }
-    .nb-desc { display: none; }
+    .nb-hero { grid-template-columns: 1fr; }
+    .nb-hero-img { min-height: 220px; border-right: none; border-bottom: 1.5px solid var(--ink); }
+    .nb-hero-body { padding: 28px 20px 36px; }
+    .nb-hero-title { font-size: 26px; }
+    .nb-grid { grid-template-columns: 1fr; }
+    .nb-card-img { height: 140px; }
   }
 </style>

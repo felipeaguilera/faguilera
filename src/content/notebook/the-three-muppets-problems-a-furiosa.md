@@ -19,6 +19,8 @@ Although there's only a 30-minute difference between "Fury Road" and "Furiosa," 
 
 ⭐ 7/10. Available in Theaters.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/XJMuhwVlca4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 ## 🎥 Jim Henson Idea Man 🐸🌈✨
@@ -30,6 +32,8 @@ Although there's only a 30-minute difference between "Fury Road" and "Furiosa," 
 Jim Henson is undoubtedly a pillar of creativity and positive artistic attitude in recent years, and his legacy will be indelible not only for the relevance of Sesame Street for a generation of children or the cultural phenomenon that the Muppets brought to millions of viewers. He is also a source worthy of admiration and inspiration in a world where everything may seem already defined.
 
 ⭐ 8/10. [Disney+](https://www.disneyplus.com/en-cl/movies/jim-henson-idea-man/5oKOs85ntvJS)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/iyGFV6VIxkI?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -46,6 +50,8 @@ After watching the first season, I feel it's a very interesting story. However, 
 I hope these points are improved in the next season, as it clearly has great potential and could establish itself as a good option for those of us who enjoy science fiction. In the meantime, we can always rest assured that the books have already completed their trilogy.
 
 ⭐ 7/10. [Netflix](https://www.netflix.com/cl-en/title/81024821?source=35)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/mogSbMD6EcY?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

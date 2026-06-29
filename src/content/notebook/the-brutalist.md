@@ -72,6 +72,8 @@ Despite its limited budget and clear, film is beautiful unique, comforting. It m
 
 # Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/GdRXPAHIEW4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Become part of the Eagle Time Insights community! Subscribe for free to receive new posts, share your thoughts on film, and support my work. Let's discuss The Brutalist and other cinematic gems together!

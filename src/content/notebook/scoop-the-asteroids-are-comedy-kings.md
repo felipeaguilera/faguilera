@@ -23,6 +23,8 @@ In the future, I hope to be able to “feel” a Wes Anderson film again, just a
 
 ⭐ 6 /10 MAX
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/9FXCSXuGTF4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥Scoop (2024) 🕵️‍♂️🔍
@@ -35,6 +37,8 @@ It’s interesting to understand, from the perspective of the British television
 
 ⭐ 7 / 10 Netflix
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/cZcHc3zEEoc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥The King of Comedy (1982) 🤡👑
@@ -46,6 +50,8 @@ I had this movie pending, which came onto my radar when it was compared to ‘JO
 The story escalates to levels of delirium, crime, and a complete loss of judgment. The film features great dialogues and fantastic performances set in a New York that now appears somewhat naive and dreamy. It offers a critique of the ‘ShowBiz’ industry and its idolization of icons, which remains relevant in today’s media landscape.
 
 ⭐ 9 / 10, MAX
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/BOpbikZm3JY?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

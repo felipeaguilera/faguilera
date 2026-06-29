@@ -17,6 +17,8 @@ And I say this not just as a curious observer. I’ve worked for over a decade i
 
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/VQRLujxTm3c?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ### **The Trailer: Controlled Chaos, Florida-Style**
 
 Set in the fictional state of *Leonida* (a heavily stylized version of Florida), *GTA VI* brings us back to Vice City with a fresh tone: vibrant, modern, and painfully on-point.

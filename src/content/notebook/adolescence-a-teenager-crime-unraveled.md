@@ -61,6 +61,8 @@ A powerful and immersive crime drama that offers a very intense portrayal of mod
 
 # Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Wk5OxqtpBR4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 f you enjoy deep dives into bold storytelling and innovative filmmaking, stick around—there’s more where this came from. Subscribe to Eagle Time Insights for more reviews, analysis, and conversations on the stories that push boundaries. It’s free, and I’d love to have you along for the ride!

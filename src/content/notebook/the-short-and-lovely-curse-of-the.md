@@ -21,6 +21,8 @@ Strongly recommended, with magical, absurd, and sometimes hilarious notes. The C
 
 **⭐ 9/10**. [Paramount+](https://www.paramountplus.com/cl/shows/the-curse/)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/tui5vl13Gqg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 A short film about love 🔭💔
@@ -37,6 +39,8 @@ A film that celebrates feelings, human relationships, and where idealization, th
 
 **⭐ 8 /10**. [MUBI](https://mubi.com/en/cl/films/a-short-film-about-love)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/A6jFanHPcFM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 Heathers 🖤💅
@@ -50,6 +54,8 @@ When she meets JD, a mysterious and rebellious new student, her world is turned 
 A very dark comedy, strange for its time, and with an absurd way of presenting teenage dramas and discomforts. With a pink, idiotic, and absurd tone, it invites us to laugh and appreciate the risks that youth can take in their most naive years, escalating to a tremendous, deep and intense level.
 
 ⭐ 9/10. [MUBI](https://mubi.com/en/cl/films/heathers)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/v5gHF3FNr78?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

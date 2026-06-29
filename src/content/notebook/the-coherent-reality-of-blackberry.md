@@ -19,6 +19,8 @@ What struck me the most, besides its fascinating story, is the setting and the u
 
 ⭐ 8 / 10. [Prime Video](https://www.primevideo.com/detail/0PKDTN4H31NWFBCMJD3WHMK2JI/)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/S1cAlL78NTs?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # **🎥 Reality** (2023) 🤷‍♀️🤫
@@ -35,6 +37,8 @@ A very interesting film, which, without falling into excessive patriotism, thank
 
 ⭐ 8 / 10. [MUBI](https://mubi.com/en/cl/films/reality-2023)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/plIUJ-LF7JU?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # **🎥 Coherence** (2013) ☄️🤯👥
@@ -48,6 +52,8 @@ The tension begins to rise in the atmosphere as the characters gradually lose cl
 With an interesting idea, I think the intention of deciphering what happens is fun in itself, but unfortunately, it is lost in an ending that leaves us with many doubts and without further consolidation of the multiple threads that open during the night.
 
 ⭐ 7 / 10. [Prime Video](https://www.primevideo.com/detail/0Q8CBHGWUH8A2POWW536KRZWO1/)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/sEceDz1Rodc?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

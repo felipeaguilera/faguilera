@@ -21,6 +21,8 @@ However, I also have the impression that his skill as a screenwriter leaves much
 
 ⭐ 8 / 10 [Cinemas](https://www.google.com/search?q=civil+war+movie&newwindow=1&sca_esv=4219658475e40e9f&sxsrf=ADLYWILTDphmpZa9jFfigNYf_dxJnuYyiA%3A1715299260864&ei=vGM9Ztu1NL725OUPg9uKsA8&ved=0ahUKEwjbg4LZ44GGAxU-O7kGHYOtAvYQ4dUDCBA&uact=5&oq=civil+war+movie&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2NpdmlsIHdhciBtb3ZpZTIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeSOcJUABYgAlwAHgBkAEAmAGGAaABwQSqAQM3LjG4AQPIAQD4AQGYAgagAvgCmAMAkgcBNqAHyC8&sclient=gws-wiz-serp#wptab=s:H4sIAAAAAAAAAOMwe8RozS3w8sc9YSmjSWtOXmPU4eLzzS_LTA3OyC8vycxNLRaS4mIFiwgJSvFz8eqn6xsaFlcYlVfFZ1fwLGKVSs4sy8xRKE8sUtBIy8zJ1VQohukEADSOveFdAAAA)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/c2G18nIVpNE?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 Unfrosted (2024)🕵️‍♀️🥣
@@ -37,6 +39,8 @@ With a setting that blends corporate comedy, espionage and international intrigu
 
 ⭐ 8 /10 [Netflix Exclusive](https://www.netflix.com/watch/81481606?source=35)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/2lqRPUhPfho?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 On the Rocks (2020)🍸💍
@@ -52,6 +56,8 @@ Upon discovering the situation, Laura's father, Felix (Murray), decides to get i
 Unfortunately, the film left me wanting more, not only in terms of dramatic intensity but also in plot development. Its attempt to be "cool and funny" falls short, in my opinion.
 
 ⭐ 6 /10 [Apple TV+](https://tv.apple.com/cl/movie/on-the-rocks/umc.cmc.1mydlea6wicrm013138speg6m?action=play)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Xn3sK4WiviA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

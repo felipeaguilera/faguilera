@@ -70,6 +70,8 @@ As a Taylor Sheridan project, "Landman" inevitably draws comparisons to "Yellows
 
 # Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/7zxh49-bsIk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading! Subscribe for free to more reviews and insights, I will really appreciate it.

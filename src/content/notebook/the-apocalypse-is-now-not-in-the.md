@@ -23,6 +23,8 @@ For 40 years, Apocalypse Now has been a brilliant, extensive, and intense work t
 
 ⭐10/10. [Prime Video](https://www.primevideo.com/detail/0N18T3DV3YTMWCW8DO96HB3K6M/ref=atv_dp_share_cu_r)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/vPjJWHttcVQ?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 The Mole Agent (2020) 🕵️‍♂️👴❤️
@@ -37,6 +39,8 @@ A magnificent testimony, with a remarkable message about the passage of time, wi
 
 ⭐9/10 [Netflix](https://www.netflix.com/cl-en/title/81287052?source=35)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/rTD-B3wZORg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥 The Future (2011) 🤔🐱🤷‍♀️
@@ -48,6 +52,8 @@ Directed and starring Miranda July, The Future introduces us to Sophie and Jason
 It is a funny and absurd work that manages to expose the very present problem of avoiding the commitments and responsibilities of modern times. With a novel and unusual narrative structure, this film can be very fascinating or tremendously unpleasant. In my case, it became an excellent opportunity to not only laugh for a moment, but also to examine and consider the current fragility of the modern concept of couple, family, and the responsibilities that it implies.
 
 ⭐8/10 [MUBI](https://mubi.com/es/cl/films/the-future)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/X3ZfQ-b5J-Y?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

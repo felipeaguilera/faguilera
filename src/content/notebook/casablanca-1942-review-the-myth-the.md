@@ -67,6 +67,8 @@ Rewatching *Casablanca* made me think about how memory and myth play with each o
 
 # **Trailer**
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/MF7JH_54d8c?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading Eagle Time Insights by Felipe Aguilera. Subscribe for free to receive new reviews and revisit the films that time reshapes—but never truly erases.

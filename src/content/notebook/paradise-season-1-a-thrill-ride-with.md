@@ -99,6 +99,8 @@ And maybe *Paradise* doesn’t give us answers, but it does reflect that mood. A
 
 ## **Trailer**
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/tQpOEKdgb8c?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 👋 *Thanks for reading!*

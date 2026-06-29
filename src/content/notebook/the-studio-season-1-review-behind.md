@@ -92,6 +92,8 @@ The camera style, especially, feels very “now”—fast, mobile, messy—and a
 
 # **Trailer**
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/EIQuE7JGXU8?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 *If you enjoyed this review, I’d love to hear your thoughts. Especially if you work in creative fields or have experienced the chaos behind making things happen.*

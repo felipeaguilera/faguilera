@@ -17,6 +17,8 @@ I have a soft spot for mysteries, especially those that include a trial, which a
 
 #### ⭐ 9 of 10, Available on [Prime Video](https://t.co/EXK0mmBR0E).
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/FUXawkH-ONM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥🌿MEN (2022)
@@ -24,6 +26,8 @@ I have a soft spot for mysteries, especially those that include a trial, which a
 I hold Alex Garland in high esteem, primarily because of *Ex Machina*, and though not as much, *Annihilation*. On this occasion, this British horror film “Men”, starring Harper, a widow seeking tranquility in a quiet British village, stands out. Both the location and the cinematography make it a truly captivating film, even with its disturbing ending. However, in this installment, the conflict, script, and development suffer from a lack of clarity, depth, and an overly forced “artistic” quality, in a negative sense.
 
 #### ⭐ 6 of 10, Available on [Prime Video](https://www.primevideo.com/detail/0OVLKOE1N1RT0C5B4H900PQ18H/ref=atv_dp_share_cu_r).
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/pt81CJcWZy8?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -34,6 +38,8 @@ I had no idea about the Finnish director Aki Kaurismäki, which gave me a surpri
 In Helsinki, Fallen Leaves allows us to witness the encounter between Ansa and Holappa, both characters with multiple fears, stubbornness, and a touch of foolishness. They try to thrive and get to know each other amidst a series of absurd missteps.
 
 #### ⭐ 8 of 10, Available on [MUBI](https://mubi.com/en/cl/films/fallen-leaves-2023).
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/a7n8IXlIcS4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

@@ -83,6 +83,8 @@ Where to Watch: Netflix
 
 # Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/4oQeQR1DEjw?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

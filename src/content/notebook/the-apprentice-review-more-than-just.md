@@ -69,6 +69,8 @@ House of Cards (2013) Created by Beau Willimon, *The first two episodes were dir
 
 ## Trailer
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/bvPRxy9kmSg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading this deep dive into 'The Apprentice' here on **Eagle Time Insights**! If you appreciate this kind of analysis of film, power, and culture, **subscribe for free** to receive future posts from Felipe Aguilera directly and support this work.

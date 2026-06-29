@@ -19,6 +19,8 @@ Thelonius “Monk” Ellison, a cultured African American writer, has faced edit
 
 ⭐ 9 / 10, Prime Video.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/i0MbLCpYJPA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎬Saltburn (2023)
@@ -28,6 +30,8 @@ Thelonius “Monk” Ellison, a cultured African American writer, has faced edit
 Emerald Fennell, known for her work on “Promising Young Woman,” brings us this suspenseful film. It delves into the infiltration and obsession of Oliver, an Oxford student, into the life of Félix Catton and his aristocratic English family. Beneath the layers of betrayal, passion, and a web of deception lies a story of sexual identity, class, and privilege. Regrettably, despite its keen cinematography, the film strives to be irreverent, avant-garde, and disruptive, prioritizing these aspects over character development and a good script. The result falls flat, lacking depth and sophistication. It leaves me with the impression of attempting to be a modern-day “Talented Mr. Ripley” (Anthony Minghella, 1999), but without the genuine talent or true development of a good movie.
 
 ⭐ 5 / 10, Prime Video
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/lALMdJf6UUE?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 
@@ -40,6 +44,8 @@ A recent conversation inspired me to revisit this 1995 film starring Clint Eastw
 Although I found it to be somewhat lighter than I remembered, I was struck by the personal conflict faced by the characters in an uncertain future, as well as the tremendous performances and chemistry of the main couple.
 
 ⭐ 8 / 10, MAX.
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ZoJJkAQV0Bg?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

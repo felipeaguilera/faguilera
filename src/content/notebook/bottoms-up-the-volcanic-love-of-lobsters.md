@@ -23,6 +23,8 @@ However, beyond the fascinating images and data about volcanoes, this fantastic 
 
 ⭐ 9 /10 [Disney+](https://www.disneyplus.com/movies/fire-of-love/1hC7erRfsl3B)
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/oMArx64RBO4?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 🎥Bottoms (2023) 🏫👊🩸
@@ -36,6 +38,8 @@ PJ and Josie are two friends looking to escape the mundanity of college life. Ai
 As with any good college comedy, things gradually become complex, and circumstances spiral out of control. This leads them to appreciate friendship, self-acceptance, and the primacy of truth. Despite numerous clichéd scenarios, the plot consists of blood, violence, some ludicrous social critiques, and plenty of hilarious and absurd situations.
 
 ⭐ 8 /10 [Prime Video](https://www.primevideo.com/detail/Bottoms/0FTAE81HQZ3VUHL31Y9A1JVL6K)
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/vH5NAahf76s?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

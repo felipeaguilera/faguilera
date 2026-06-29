@@ -78,6 +78,8 @@ I must admit that I have not stopped to check what the director James Mangold ha
 
 ## **Trailer**
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/NO9hXSD5K4A?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading Eagle Time Insights by Felipe Aguilera! Subscribe for free to receive new posts and support my work.

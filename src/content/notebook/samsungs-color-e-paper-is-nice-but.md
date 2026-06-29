@@ -11,6 +11,8 @@ substackUrl: "https://felipeaguilera.substack.com/p/samsungs-color-e-paper-is-ni
 
 Lately, I’ve been following the buzz around Samsung’s new **Color E-Paper displays** — and on the surface, it looks like a smart, sustainable, design-forward step for retail and signage. Lightweight, no glare, battery-powered, and beautiful. The kind of tech that makes you think: *“Finally, someone is rethinking how we display things in public spaces.”*
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/AqKorcwbUxU?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 But then comes the question that matters most:  
 **Would a small, tech-friendly business actually use it?**
 

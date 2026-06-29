@@ -19,6 +19,8 @@ Todd Haynes leaves us with an experience that, although difficult to fully compr
 
 ⭐ 9 / 10 en Amazon Prime Video
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/8z3JaevxEMA?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # 📺Baby Reindeer (2024) 🦌👁️
@@ -33,6 +35,8 @@ I understand the social issue it raises and why the series has given so much to 
 
 ⭐ 7 / 10 Netflix
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/eafm1gB6SCM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 # **🎥** Cold War (2018)💔🎶
@@ -46,6 +50,8 @@ Wiktor and Zula navigate a musical whirlwind where the atmosphere of war, the Ru
 The choice to present the story in black and white combines drama with a fantastic photographic approach, and the music that binds the narrative delivers a strong, intense and very powerful emotional tone.
 
 ⭐9 / 10 Amazon Prime Video
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/8ImvkXgGVWw?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
 ---
 

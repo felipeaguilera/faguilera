@@ -67,6 +67,8 @@ What makes *Common People* effective isn't the futuristic tech — it's how clos
 
 # **Trailer**
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/1iqra1ojEvM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading *Eagle Time Insights* by Felipe Aguilera. If this kind of reflection on tech, storytelling, and the near future resonates with you, consider subscribing for free to get new reviews and insights straight to your inbox.

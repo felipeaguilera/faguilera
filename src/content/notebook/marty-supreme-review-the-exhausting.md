@@ -67,6 +67,8 @@ Marty burns through everyone who tries to support him because his conviction in 
 
 # Trailer:
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/s9gSuKaKcqM?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
+
 ---
 
 Thanks for reading. I write about culture, creativity, and how ideas hold up under pressure. Subscribe to get new essays or reach out if you want to work together.
