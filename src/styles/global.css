@@ -164,7 +164,7 @@ h2 { font-family: var(--display); font-weight: 500; font-size: 38px; line-height
 .exp-row-role span { font-family: var(--type); font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: block; margin-top: 5px; }
 
 /* Footer */
-footer { background: var(--ink); color: #cabfae; padding: 56px 0 40px; }
+footer { background: var(--ink); color: #cabfae; padding: 56px 0 40px; border-top: 3px solid var(--orange); }
 .foot-orn { color: var(--orange); text-align: center; font-family: var(--display); font-size: 22px; margin-bottom: 30px; }
 .foot-in { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; align-items: flex-start; }
 .foot-in .logo img { height: 46px; }
