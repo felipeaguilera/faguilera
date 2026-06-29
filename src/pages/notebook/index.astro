@@ -1,0 +1,158 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('notebook', ({ data }) =>
+  !data.draft && data.lang === 'en'
+)).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<Base
+  title="Notebook · Felipe Aguilera"
+  description="Essays on culture, technology, brand, and the craft of making things clear."
+>
+  <div class="topbar"></div>
+
+  <nav>
+    <div class="wrap nav-in">
+      <a class="logo" href="/">
+        <img src="/assets/mark-seal.svg" alt="FA seal" />
+        <span class="name">Felipe Aguilera</span>
+      </a>
+      <div class="nav-links">
+        <a href="/notebook" style="color:var(--ink);">Notebook</a>
+        <a href="/#work">Work</a>
+        <a href="/#about">About</a>
+        <a href="/cv">CV</a>
+        <span class="lang"><a href="/notebook" class="active">EN</a>/<a href="/es">ES</a></span>
+        <a href="/#hello" class="nav-cta">Say hello</a>
+      </div>
+    </div>
+  </nav>
+
+  <header style="padding:72px 0 48px;text-align:center;">
+    <div class="wrap narrow">
+      <div class="eyebrow" style="justify-content:center;">
+        <span style="margin-left:0;">Notebook</span>
+      </div>
+      <h1 class="mast" style="font-size:52px;">All writing</h1>
+      <p class="lead" style="margin:0 auto;">{articles.length} pieces on culture, technology, brand, and the craft of making things clear.</p>
+    </div>
+  </header>
+
+  <section style="padding:0 0 80px;">
+    <div class="wrap">
+      <div class="nb-grid">
+        {articles.map((article) => (
+          <a class="nb-row" href={`/notebook/${article.slug}`}>
+            {article.data.cover && (
+              <div class="nb-thumb" style={`background-image:url('${article.data.cover}')`}></div>
+            )}
+            <div class="nb-body">
+              <span class="meta">{article.data.category} &middot; {article.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+              <h2 class="nb-title">{article.data.title}</h2>
+              <p class="nb-desc">{article.data.description}</p>
+            </div>
+            <span class="nb-arrow">→</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <div class="foot-orn">&#10086;</div>
+      <div class="foot-in">
+        <div>
+          <a class="logo" href="/">
+            <img src="/assets/mark-seal-white.svg" alt="FA seal" />
+            <span class="name">Felipe Aguilera</span>
+          </a>
+          <p class="foot-tag">Strategist by trade, curious by nature. Santiago, Chile.</p>
+        </div>
+        <div class="foot-links">
+          <a href="/cv">CV</a>
+          <a href="https://www.linkedin.com/in/felipeaguilera">LinkedIn</a>
+          <a href="https://felipeaguilera.substack.com">Substack</a>
+          <a href="mailto:felipe@faguilera.com">Email</a>
+        </div>
+      </div>
+      <div class="foot-copy">&copy; 2026 Felipe Aguilera &middot; faguilera.com</div>
+    </div>
+  </footer>
+</Base>
+
+<style>
+  .eyebrow::before { display: none; }
+
+  .nb-grid {
+    display: flex;
+    flex-direction: column;
+    border-top: 1.5px solid var(--ink);
+    margin-top: 0;
+  }
+
+  .nb-row {
+    display: grid;
+    grid-template-columns: 100px 1fr 32px;
+    gap: 24px;
+    align-items: center;
+    padding: 22px 0;
+    border-bottom: 1px solid var(--line);
+    transition: .15s;
+    color: var(--ink);
+  }
+
+  .nb-row:hover { background: var(--cream); padding-left: 12px; padding-right: 12px; margin: 0 -12px; }
+
+  .nb-thumb {
+    width: 100px;
+    height: 66px;
+    border-radius: 4px;
+    background: #e7e0d2 center/cover no-repeat;
+    border: 1px solid var(--line);
+    flex-shrink: 0;
+  }
+
+  .nb-body { min-width: 0; }
+
+  .nb-title {
+    font-family: var(--display);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 6px 0 4px;
+    max-width: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .nb-desc {
+    font-size: 15px;
+    color: var(--muted);
+    line-height: 1.4;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .nb-arrow {
+    font-family: var(--type);
+    font-size: 18px;
+    color: var(--muted);
+    transition: .15s;
+    justify-self: end;
+  }
+
+  .nb-row:hover .nb-arrow { color: var(--orange); transform: translateX(4px); }
+
+  @media (max-width: 640px) {
+    .nb-row { grid-template-columns: 72px 1fr; }
+    .nb-thumb { width: 72px; height: 48px; }
+    .nb-arrow { display: none; }
+    .nb-title { font-size: 17px; white-space: normal; }
+    .nb-desc { display: none; }
+  }
+</style>
