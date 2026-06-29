@@ -128,7 +128,7 @@ h2 { font-family: var(--display); font-weight: 500; font-size: 38px; line-height
 .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px; margin-top: 42px; }
 .card { border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--paper); display: flex; flex-direction: column; transition: .15s; }
 .card:hover { border-color: var(--orange); transform: translateY(-3px); box-shadow: 0 10px 30px rgba(26, 22, 18, .08); }
-.thumb { height: 150px; background: #e7e0d2 center/cover no-repeat; border-bottom: 1px solid var(--line); }
+.thumb { height: 200px; width: 100%; display: block; object-fit: cover; object-position: center; border-bottom: 1px solid var(--line); background: #e7e0d2; }
 .card .cbody { padding: 20px 22px; display: flex; flex-direction: column; flex: 1; }
 .card .meta { margin-bottom: 10px; }
 .card h3 { font-family: var(--display); font-size: 21px; font-weight: 500; line-height: 1.22; margin-bottom: 10px; }

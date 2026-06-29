@@ -61,7 +61,7 @@ const iconMap: Record<string, string> = {
         {articles.map((article) => (
           <a class="card" href={`/notebook/${article.slug}`}>
             {article.data.cover && (
-              <div class="thumb" style={`background-image:url('${article.data.cover}')`}></div>
+              <img class="thumb" src={article.data.cover} alt={article.data.title} loading="lazy" />
             )}
             <div class="cbody">
               <span class="meta">{article.data.category}</span>
