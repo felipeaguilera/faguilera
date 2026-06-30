@@ -78,11 +78,23 @@ const hasEs = esArticles.some(a => a.slug === `es/${article.slug}`);
         : <span class="aa-btn aa-disabled">ES</span>
       }
       <span class="aa-divider"></span>
-      <button class="aa-btn" onclick="window.print()">PDF</button>
-      <a class="aa-btn" id="share-x" href="#" target="_blank" rel="noopener" title="Share on X">&#120143;</a>
-      <a class="aa-btn" id="share-li" href="#" target="_blank" rel="noopener" title="Share on LinkedIn">in</a>
-      <a class="aa-btn" id="share-wa" href="#" target="_blank" rel="noopener" title="Share on WhatsApp">WA</a>
-      <button class="aa-btn" id="copy-url" title="Copy link">Link</button>
+      <span class="aa-label">Share</span>
+      <button class="aa-btn" onclick="window.print()" title="Print / Save as PDF">
+        <img src="/assets/icons/printer.svg" class="aa-icon" alt="Print" />
+      </button>
+      <a class="aa-btn" id="share-x" href="#" target="_blank" rel="noopener" title="Share on X">
+        <img src="/assets/icons/x-logo.svg" class="aa-icon" alt="X" />
+      </a>
+      <a class="aa-btn" id="share-li" href="#" target="_blank" rel="noopener" title="Share on LinkedIn">
+        <img src="/assets/icons/linkedin-logo.svg" class="aa-icon" alt="LinkedIn" />
+      </a>
+      <a class="aa-btn" id="share-wa" href="#" target="_blank" rel="noopener" title="Share on WhatsApp">
+        <img src="/assets/icons/whatsapp-logo.svg" class="aa-icon" alt="WhatsApp" />
+      </a>
+      <button class="aa-btn" id="copy-url" title="Copy link">
+        <img src="/assets/icons/link.svg" class="aa-icon" id="copy-icon" alt="Copy link" />
+        <span id="copy-check" style="display:none;font-size:12px;">✓</span>
+      </button>
     </div>
   </div>
   <script>
@@ -95,9 +107,26 @@ const hasEs = esArticles.some(a => a.slug === `es/${article.slug}`);
     var c=document.getElementById('copy-url');
     c.addEventListener('click',function(){
       navigator.clipboard.writeText(window.location.href).then(function(){
-        c.textContent='Copied!';
-        setTimeout(function(){c.textContent='Link';},1800);
+        document.getElementById('copy-icon').style.display='none';
+        document.getElementById('copy-check').style.display='inline';
+        setTimeout(function(){
+          document.getElementById('copy-icon').style.display='';
+          document.getElementById('copy-check').style.display='none';
+        },1800);
       }).catch(function(){});
+    });
+    // Inject print links for video embeds
+    document.querySelectorAll('.video-embed').forEach(function(el){
+      var iframe=el.querySelector('iframe');
+      if(!iframe) return;
+      var src=iframe.getAttribute('src')||'';
+      var m=src.match(/embed\/([^?]+)/);
+      if(!m) return;
+      var a=document.createElement('a');
+      a.href='https://youtube.com/watch?v='+m[1];
+      a.className='video-print-link';
+      a.textContent='Video: youtube.com/watch?v='+m[1];
+      el.parentNode.insertBefore(a,el.nextSibling);
     });
   })();
   </script>

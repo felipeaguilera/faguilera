@@ -79,11 +79,23 @@ const hasEn = enArticles.some(a => a.slug === cleanSlug);
       <span class="aa-sep">/</span>
       <a href={`/es/notebook/${cleanSlug}`} class="aa-btn active">ES</a>
       <span class="aa-divider"></span>
-      <button class="aa-btn" onclick="window.print()">PDF</button>
-      <a class="aa-btn" id="share-x" href="#" target="_blank" rel="noopener" title="Compartir en X">&#120143;</a>
-      <a class="aa-btn" id="share-li" href="#" target="_blank" rel="noopener" title="Compartir en LinkedIn">in</a>
-      <a class="aa-btn" id="share-wa" href="#" target="_blank" rel="noopener" title="Compartir en WhatsApp">WA</a>
-      <button class="aa-btn" id="copy-url" title="Copiar enlace">Enlace</button>
+      <span class="aa-label">Compartir</span>
+      <button class="aa-btn" onclick="window.print()" title="Imprimir / Guardar como PDF">
+        <img src="/assets/icons/printer.svg" class="aa-icon" alt="Imprimir" />
+      </button>
+      <a class="aa-btn" id="share-x" href="#" target="_blank" rel="noopener" title="Compartir en X">
+        <img src="/assets/icons/x-logo.svg" class="aa-icon" alt="X" />
+      </a>
+      <a class="aa-btn" id="share-li" href="#" target="_blank" rel="noopener" title="Compartir en LinkedIn">
+        <img src="/assets/icons/linkedin-logo.svg" class="aa-icon" alt="LinkedIn" />
+      </a>
+      <a class="aa-btn" id="share-wa" href="#" target="_blank" rel="noopener" title="Compartir en WhatsApp">
+        <img src="/assets/icons/whatsapp-logo.svg" class="aa-icon" alt="WhatsApp" />
+      </a>
+      <button class="aa-btn" id="copy-url" title="Copiar enlace">
+        <img src="/assets/icons/link.svg" class="aa-icon" id="copy-icon" alt="Copiar enlace" />
+        <span id="copy-check" style="display:none;font-size:12px;">✓</span>
+      </button>
     </div>
   </div>
   <script>
@@ -96,9 +108,26 @@ const hasEn = enArticles.some(a => a.slug === cleanSlug);
     var c=document.getElementById('copy-url');
     c.addEventListener('click',function(){
       navigator.clipboard.writeText(window.location.href).then(function(){
-        c.textContent='Copiado';
-        setTimeout(function(){c.textContent='Enlace';},1800);
+        document.getElementById('copy-icon').style.display='none';
+        document.getElementById('copy-check').style.display='inline';
+        setTimeout(function(){
+          document.getElementById('copy-icon').style.display='';
+          document.getElementById('copy-check').style.display='none';
+        },1800);
       }).catch(function(){});
+    });
+    // Inyectar links de impresión para videos
+    document.querySelectorAll('.video-embed').forEach(function(el){
+      var iframe=el.querySelector('iframe');
+      if(!iframe) return;
+      var src=iframe.getAttribute('src')||'';
+      var m=src.match(/embed\/([^?]+)/);
+      if(!m) return;
+      var a=document.createElement('a');
+      a.href='https://youtube.com/watch?v='+m[1];
+      a.className='video-print-link';
+      a.textContent='Video: youtube.com/watch?v='+m[1];
+      el.parentNode.insertBefore(a,el.nextSibling);
     });
   })();
   </script>
