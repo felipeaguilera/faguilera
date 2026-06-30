@@ -56,13 +56,11 @@ function fmt(date: Date) {
             <div class="thumb">
               {article.data.cover && (
                 <img
-                  src={netlifyImg(article.data.cover, { w: 800, h: 534, fit: 'cover' })}
-                  srcset={netlifyImgSrcset(article.data.cover, [400, 800, 1200], { fit: 'cover' })}
+                  src={netlifyImg(article.data.cover, { w: 800 })}
+                  srcset={netlifyImgSrcset(article.data.cover, [400, 800, 1200])}
                   sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 400px"
                   alt={article.data.title}
                   loading="lazy"
-                  width="800"
-                  height="534"
                 />
               )}
             </div>
@@ -88,13 +86,11 @@ function fmt(date: Date) {
             <div class="thumb">
               {article.data.cover && (
                 <img
-                  src={netlifyImg(article.data.cover, { w: 800, h: 534, fit: 'cover' })}
-                  srcset={netlifyImgSrcset(article.data.cover, [400, 800, 1200], { fit: 'cover' })}
+                  src={netlifyImg(article.data.cover, { w: 800 })}
+                  srcset={netlifyImgSrcset(article.data.cover, [400, 800, 1200])}
                   sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 400px"
                   alt={article.data.title}
                   loading="lazy"
-                  width="800"
-                  height="534"
                 />
               )}
             </div>
