@@ -1,0 +1,131 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('notebook', ({ data }) =>
+  !data.draft && data.lang === 'es'
+)).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const latest = articles.slice(0, 3);
+const older  = articles.slice(3);
+
+function fmt(date: Date) {
+  return date.toLocaleDateString('es-CL', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+
+function cleanSlug(slug: string) {
+  return slug.replace(/^es\//, '');
+}
+---
+
+<Base
+  title="Cuaderno · Felipe Aguilera"
+  description="Ensayos sobre cultura, tecnología, marca y el oficio de hacer las cosas claras."
+  lang="es"
+>
+  <div class="topbar"></div>
+
+  <nav>
+    <div class="wrap nav-in">
+      <a class="logo" href="/es">
+        <img src="/assets/mark-seal.svg" alt="Sello FA" />
+        <span class="name">Felipe Aguilera</span>
+      </a>
+      <div class="nav-links">
+        <a href="/es/notebook" style="color:var(--ink);">Cuaderno</a>
+        <a href="/es#work">Trabajo</a>
+        <a href="/es#about">Sobre mí</a>
+        <a href="/cv-es">CV</a>
+        <span class="lang"><a href="/notebook">EN</a>/<a href="/es/notebook" class="active">ES</a></span>
+        <a href="/es#hello" class="nav-cta">Escríbeme</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="nb-header">
+    <div class="wrap narrow">
+      <div class="eyebrow center-eyebrow">{articles.length} artículos</div>
+      <h1 class="mast" style="font-size:52px;">Cuaderno</h1>
+      <p class="lead" style="margin:0 auto;">Sobre cultura, tecnología, marca y el oficio de hacer las cosas claras.</p>
+    </div>
+  </header>
+
+  <section class="cream">
+    <div class="wrap">
+      <div class="eyebrow">Recientes</div>
+      <div class="cards">
+        {latest.map((article) => (
+          <a class="card" href={`/es/notebook/${cleanSlug(article.slug)}`}>
+            <div class="thumb">
+              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+            </div>
+            <div class="cbody">
+              <span class="meta">{article.data.category} &middot; {fmt(article.data.date)}</span>
+              <h3>{article.data.title}</h3>
+              <p>{article.data.description}</p>
+              <span class="more">Leer →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {older.length > 0 && (
+    <section>
+      <div class="wrap">
+        <div class="eyebrow">Archivo</div>
+        <div class="cards">
+          {older.map((article) => (
+            <a class="card" href={`/es/notebook/${cleanSlug(article.slug)}`}>
+              <div class="thumb">
+                {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+              </div>
+              <div class="cbody">
+                <span class="meta">{article.data.category} &middot; {fmt(article.data.date)}</span>
+                <h3>{article.data.title}</h3>
+                <p>{article.data.description}</p>
+                <span class="more">Leer →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <footer>
+    <div class="wrap">
+      <div class="foot-orn">&#10086;</div>
+      <div class="foot-in">
+        <div>
+          <a class="logo" href="/es">
+            <img src="/assets/mark-seal-white.svg" alt="Sello FA" />
+            <span class="name">Felipe Aguilera</span>
+          </a>
+          <p class="foot-tag">Estratega de oficio, curioso por naturaleza. Santiago, Chile.</p>
+        </div>
+        <div class="foot-links">
+          <a href="/cv-es">CV</a>
+          <a href="https://www.linkedin.com/in/felipeaguilera">LinkedIn</a>
+          <a href="https://felipeaguilera.substack.com">Substack</a>
+          <a href="mailto:felipe@faguilera.com">Email</a>
+        </div>
+      </div>
+      <div class="foot-copy">&copy; 2026 Felipe Aguilera &middot; faguilera.com</div>
+    </div>
+  </footer>
+</Base>
+
+<style>
+  .nb-header {
+    padding: 72px 0 52px;
+    text-align: center;
+    border-bottom: 1.5px solid var(--ink);
+  }
+  .center-eyebrow {
+    justify-content: center;
+    margin-bottom: 12px;
+  }
+  .center-eyebrow::before { display: none; }
+</style>

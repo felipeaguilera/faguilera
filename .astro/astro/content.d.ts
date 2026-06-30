@@ -316,6 +316,461 @@ declare module 'astro:content' {
   collection: "notebook";
   data: any
 } & { render(): Render[".md"] };
+"es/a-barbarians-red-eyes-were-lurking.md": {
+	id: "es/a-barbarians-red-eyes-were-lurking.md";
+  slug: "es/a-barbarians-red-eyes-were-lurking";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/a-complete-unknown.md": {
+	id: "es/a-complete-unknown.md";
+  slug: "es/a-complete-unknown";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/a-killer-a-composer-and-a-cursed.md": {
+	id: "es/a-killer-a-composer-and-a-cursed.md";
+  slug: "es/a-killer-a-composer-and-a-cursed";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/a-real-pain.md": {
+	id: "es/a-real-pain.md";
+  slug: "es/a-real-pain";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/a-small-note-about-whats-next.md": {
+	id: "es/a-small-note-about-whats-next.md";
+  slug: "es/a-small-note-about-whats-next";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/adolescence-a-teenager-crime-unraveled.md": {
+	id: "es/adolescence-a-teenager-crime-unraveled.md";
+  slug: "es/adolescence-a-teenager-crime-unraveled";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/anora-a-dance-of-raw-tension.md": {
+	id: "es/anora-a-dance-of-raw-tension.md";
+  slug: "es/anora-a-dance-of-raw-tension";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/becoming-the-burglar-what-bilbo-baggins.md": {
+	id: "es/becoming-the-burglar-what-bilbo-baggins.md";
+  slug: "es/becoming-the-burglar-what-bilbo-baggins";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/black-mirror-common-people-review.md": {
+	id: "es/black-mirror-common-people-review.md";
+  slug: "es/black-mirror-common-people-review";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/black-mirror-eulogy-a-look-into-memory.md": {
+	id: "es/black-mirror-eulogy-a-look-into-memory.md";
+  slug: "es/black-mirror-eulogy-a-look-into-memory";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/bobo-the-end-of-a-good-cycle.md": {
+	id: "es/bobo-the-end-of-a-good-cycle.md";
+  slug: "es/bobo-the-end-of-a-good-cycle";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/bottoms-up-the-volcanic-love-of-lobsters.md": {
+	id: "es/bottoms-up-the-volcanic-love-of-lobsters.md";
+  slug: "es/bottoms-up-the-volcanic-love-of-lobsters";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/bugonia-why-logic-is-defenseless.md": {
+	id: "es/bugonia-why-logic-is-defenseless.md";
+  slug: "es/bugonia-why-logic-is-defenseless";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/casablanca-1942-review-the-myth-the.md": {
+	id: "es/casablanca-1942-review-the-myth-the.md";
+  slug: "es/casablanca-1942-review-the-myth-the";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/civil-war-in-america-the-pop-tart.md": {
+	id: "es/civil-war-in-america-the-pop-tart.md";
+  slug: "es/civil-war-in-america-the-pop-tart";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/cold-war-alert-from-may-to-december.md": {
+	id: "es/cold-war-alert-from-may-to-december.md";
+  slug: "es/cold-war-alert-from-may-to-december";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/conclave.md": {
+	id: "es/conclave.md";
+  slug: "es/conclave";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/coup-de-chance-review.md": {
+	id: "es/coup-de-chance-review.md";
+  slug: "es/coup-de-chance-review";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/cynicism-is-the-enemy-of-community.md": {
+	id: "es/cynicism-is-the-enemy-of-community.md";
+  slug: "es/cynicism-is-the-enemy-of-community";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/david-lynch.md": {
+	id: "es/david-lynch.md";
+  slug: "es/david-lynch";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/erasing-the-memory-of-some-perfect.md": {
+	id: "es/erasing-the-memory-of-some-perfect.md";
+  slug: "es/erasing-the-memory-of-some-perfect";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/grave-of-the-fireflies-review-the.md": {
+	id: "es/grave-of-the-fireflies-review-the.md";
+  slug: "es/grave-of-the-fireflies-review-the";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/gta-vi-is-more-than-a-game-its-a.md": {
+	id: "es/gta-vi-is-more-than-a-game-its-a.md";
+  slug: "es/gta-vi-is-more-than-a-game-its-a";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/hamnet-review-a-survival-story-in.md": {
+	id: "es/hamnet-review-a-survival-story-in.md";
+  slug: "es/hamnet-review-a-survival-story-in";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/im-still-here-a-mothers-quiet-resistance.md": {
+	id: "es/im-still-here-a-mothers-quiet-resistance.md";
+  slug: "es/im-still-here-a-mothers-quiet-resistance";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/jay-kelly-review-the-fragile-ecosystem.md": {
+	id: "es/jay-kelly-review-the-fragile-ecosystem.md";
+  slug: "es/jay-kelly-review-the-fragile-ecosystem";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/juror-2.md": {
+	id: "es/juror-2.md";
+  slug: "es/juror-2";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/landman-into-the-texas-oil-inferno.md": {
+	id: "es/landman-into-the-texas-oil-inferno.md";
+  slug: "es/landman-into-the-texas-oil-inferno";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/marty-supreme-review-the-exhausting.md": {
+	id: "es/marty-supreme-review-the-exhausting.md";
+  slug: "es/marty-supreme-review-the-exhausting";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/mickey-17-sci-fi-clones-and-the-problem.md": {
+	id: "es/mickey-17-sci-fi-clones-and-the-problem.md";
+  slug: "es/mickey-17-sci-fi-clones-and-the-problem";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/mountainhead-when-tech-power-forgets.md": {
+	id: "es/mountainhead-when-tech-power-forgets.md";
+  slug: "es/mountainhead-when-tech-power-forgets";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/one-battle-after-another-review-the.md": {
+	id: "es/one-battle-after-another-review-the.md";
+  slug: "es/one-battle-after-another-review-the";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/one-hundred-years-of-solitude-part.md": {
+	id: "es/one-hundred-years-of-solitude-part.md";
+  slug: "es/one-hundred-years-of-solitude-part";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/paradise-season-1-a-thrill-ride-with.md": {
+	id: "es/paradise-season-1-a-thrill-ride-with.md";
+  slug: "es/paradise-season-1-a-thrill-ride-with";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/past-lives-review.md": {
+	id: "es/past-lives-review.md";
+  slug: "es/past-lives-review";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/pluribus-first-impressions-when-unity.md": {
+	id: "es/pluribus-first-impressions-when-unity.md";
+  slug: "es/pluribus-first-impressions-when-unity";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/rehearsing-a-sick-life-in-a-promised.md": {
+	id: "es/rehearsing-a-sick-life-in-a-promised.md";
+  slug: "es/rehearsing-a-sick-life-in-a-promised";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/rental-family-review-intimacy-as.md": {
+	id: "es/rental-family-review-intimacy-as.md";
+  slug: "es/rental-family-review-intimacy-as";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/scoop-the-asteroids-are-comedy-kings.md": {
+	id: "es/scoop-the-asteroids-are-comedy-kings.md";
+  slug: "es/scoop-the-asteroids-are-comedy-kings";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/sentimental-value-review-turning.md": {
+	id: "es/sentimental-value-review-turning.md";
+  slug: "es/sentimental-value-review-turning";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/sinners-review-a-marvel-of-cultural.md": {
+	id: "es/sinners-review-a-marvel-of-cultural.md";
+  slug: "es/sinners-review-a-marvel-of-cultural";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-american-bridges-of-saltburn.md": {
+	id: "es/the-american-bridges-of-saltburn.md";
+  slug: "es/the-american-bridges-of-saltburn";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-apocalypse-is-now-not-in-the.md": {
+	id: "es/the-apocalypse-is-now-not-in-the.md";
+  slug: "es/the-apocalypse-is-now-not-in-the";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-apprentice-review-more-than-just.md": {
+	id: "es/the-apprentice-review-more-than-just.md";
+  slug: "es/the-apprentice-review-more-than-just";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-arrogance-of-the-sighted-lessons.md": {
+	id: "es/the-arrogance-of-the-sighted-lessons.md";
+  slug: "es/the-arrogance-of-the-sighted-lessons";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-beast-in-me-when-strong-bones.md": {
+	id: "es/the-beast-in-me-when-strong-bones.md";
+  slug: "es/the-beast-in-me-when-strong-bones";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-brutalist.md": {
+	id: "es/the-brutalist.md";
+  slug: "es/the-brutalist";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-case-of-bridget-jones-vs-shogun.md": {
+	id: "es/the-case-of-bridget-jones-vs-shogun.md";
+  slug: "es/the-case-of-bridget-jones-vs-shogun";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-coherent-reality-of-blackberry.md": {
+	id: "es/the-coherent-reality-of-blackberry.md";
+  slug: "es/the-coherent-reality-of-blackberry";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-curious-case-of-hbo-max-when.md": {
+	id: "es/the-curious-case-of-hbo-max-when.md";
+  slug: "es/the-curious-case-of-hbo-max-when";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-day-a-head-exploded.md": {
+	id: "es/the-day-a-head-exploded.md";
+  slug: "es/the-day-a-head-exploded";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-fallout-of-arcane-wastelands.md": {
+	id: "es/the-fallout-of-arcane-wastelands.md";
+  slug: "es/the-fallout-of-arcane-wastelands";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-rehearsal-season-2-simulations.md": {
+	id: "es/the-rehearsal-season-2-simulations.md";
+  slug: "es/the-rehearsal-season-2-simulations";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-room-next-door-2024.md": {
+	id: "es/the-room-next-door-2024.md";
+  slug: "es/the-room-next-door-2024";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-secret-agent-review-surviving.md": {
+	id: "es/the-secret-agent-review-surviving.md";
+  slug: "es/the-secret-agent-review-surviving";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-short-and-lovely-curse-of-the.md": {
+	id: "es/the-short-and-lovely-curse-of-the.md";
+  slug: "es/the-short-and-lovely-curse-of-the";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-studio-season-1-review-behind.md": {
+	id: "es/the-studio-season-1-review-behind.md";
+  slug: "es/the-studio-season-1-review-behind";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-three-muppets-problems-a-furiosa.md": {
+	id: "es/the-three-muppets-problems-a-furiosa.md";
+  slug: "es/the-three-muppets-problems-a-furiosa";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-white-lotus-season-3-review-more.md": {
+	id: "es/the-white-lotus-season-3-review-more.md";
+  slug: "es/the-white-lotus-season-3-review-more";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/there-and-back-again-bringing-the.md": {
+	id: "es/there-and-back-again-bringing-the.md";
+  slug: "es/there-and-back-again-bringing-the";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/tolkien-and-riddles-in-the-dark-the.md": {
+	id: "es/tolkien-and-riddles-in-the-dark-the.md";
+  slug: "es/tolkien-and-riddles-in-the-dark-the";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/weapons-film-review-a-promising-start.md": {
+	id: "es/weapons-film-review-a-promising-start.md";
+  slug: "es/weapons-film-review-a-promising-start";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/welcome-the-slam-dunk-of-wrexham.md": {
+	id: "es/welcome-the-slam-dunk-of-wrexham.md";
+  slug: "es/welcome-the-slam-dunk-of-wrexham";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/wicked-and-wickedfor-good-when-explaining.md": {
+	id: "es/wicked-and-wickedfor-good-when-explaining.md";
+  slug: "es/wicked-and-wickedfor-good-when-explaining";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/yellowstone.md": {
+	id: "es/yellowstone.md";
+  slug: "es/yellowstone";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
 "evocl-report-of-20240124.md": {
 	id: "evocl-report-of-20240124.md";
   slug: "evocl-report-of-20240124";

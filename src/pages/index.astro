@@ -49,8 +49,9 @@ const iconMap: Record<string, string> = {
         <a class="btn ghost" href="#about">More about me</a>
       </div>
     </div>
-    <div class="wrap hero-orn"><div class="fleuron"><span>&#10086;</span></div></div>
   </header>
+
+  <div class="section-bridge"><div class="fleuron"><span>&#10086;</span></div></div>
 
   <section class="cream" id="notebook">
     <div class="wrap">
@@ -60,9 +61,9 @@ const iconMap: Record<string, string> = {
       <div class="cards">
         {articles.map((article) => (
           <a class="card" href={`/notebook/${article.slug}`}>
-            {article.data.cover && (
-              <img class="thumb" src={article.data.cover} alt={article.data.title} loading="lazy" />
-            )}
+            <div class="thumb">
+              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+            </div>
             <div class="cbody">
               <span class="meta">{article.data.category}</span>
               <h3>{article.data.title}</h3>
@@ -73,7 +74,7 @@ const iconMap: Record<string, string> = {
         ))}
       </div>
       <div style="text-align:center;margin-top:30px;">
-        <a class="textlink" href="/notebook">All writing →</a>
+        <a class="btn ghost" href="/notebook">All writing →</a>
       </div>
     </div>
   </section>
@@ -112,9 +113,9 @@ const iconMap: Record<string, string> = {
               </div>
             </div>
           </div>
-          <div class="cta-row" style="margin-top:36px;">
+          <div class="cta-row" style="margin-top:36px; justify-content:flex-start;">
             <a class="btn primary" href="https://www.evo.cl/#contacto" target="_blank" rel="noopener">Start a conversation</a>
-            <a class="btn ghost evo-ghost" href="https://www.evo.cl" target="_blank" rel="noopener">How we work →</a>
+            <a class="btn evo-ghost" href="https://www.evo.cl" target="_blank" rel="noopener">How we work →</a>
           </div>
         </div>
       </div>
@@ -171,26 +172,33 @@ const iconMap: Record<string, string> = {
       <h2>From the <span class="o">archive</span><span class="dot">.</span></h2>
       <div class="cards">
         <div class="card">
-          <img class="thumb" src="/assets/inzider.jpg" alt="Inzider Magazine" loading="lazy" />
+          <div class="thumb"><img src="/assets/inzider.jpg" alt="Inzider Magazine" loading="lazy" /></div>
           <div class="cbody"><span class="meta">Editorial &middot; 2014–2019</span><h3>Inzider Magazine</h3><p>A print magazine I founded and edited at Zmart: covers, features, advertising, multiple editions across five years.</p></div>
         </div>
         <a class="card" href="/notebook/case-study-zmartcl-leading-the-gaming">
-          <img class="thumb" src="/assets/zmart.jpg" alt="Zmart.cl" loading="lazy" />
+          <div class="thumb"><img src="/assets/zmart.jpg" alt="Zmart.cl" loading="lazy" /></div>
           <div class="cbody"><span class="meta">Brand &amp; Digital &middot; 2013–2024</span><h3>Zmart.cl</h3><p>A decade leading the brand and customer experience: omnichannel, console launches, and a Great Place to Work culture.</p><span class="more">Read case study →</span></div>
         </a>
         <a class="card" href="/notebook/mi-factoria-from-functional-store">
-          <img class="thumb" src="/assets/mifactoria.jpg" alt="Mi Factoria" loading="lazy" />
+          <div class="thumb"><img src="/assets/mifactoria.jpg" alt="Mi Factoria" loading="lazy" /></div>
           <div class="cbody"><span class="meta">Brand &amp; Ecommerce &middot; 2024</span><h3>Mi Factoria</h3><p>A brand and Shopify storefront, turning a functional shop into a coherent identity.</p><span class="more">Read case study →</span></div>
         </a>
       </div>
     </div>
   </section>
 
-  <section class="brandstrip center" id="record">
+  <section id="about">
     <div class="wrap">
-      <div class="eyebrow">Along the way</div>
-      <p>I've had the luck to work with <b>Zmart, Metro de Santiago, Sodimac, Tetra Pak, Codelco, Nintendo, PlayStation,</b> and <b>Xbox.</b></p>
-      <a class="ll" href="https://www.linkedin.com/in/felipeaguilera">Full history on LinkedIn →</a>
+      <div class="eyebrow">Who I am</div>
+      <div class="about">
+        <div class="about-photo">
+          <img class="portrait" src="/assets/portrait.png" alt="Felipe Aguilera" />
+        </div>
+        <div>
+          <h2>Brand strategist. <span class="o">Twenty-five years</span> of making things clear<span class="dot">.</span></h2>
+          <p class="lead dropcap">I led marketing and customer experience at <strong>Zmart</strong> for a decade, and built and edited its magazine, <strong>Inzider</strong>, along the way. Before that, digital projects for <strong>Metro de Santiago, Sodimac, Tetra Pak,</strong> and <strong>Codelco</strong>. Today I work independently through <strong>EVO Communication Lab</strong>, taking on brand strategy, content, and digital work for clients across sectors. I'm in Santiago, bilingual, and built for remote work, and I write because it's how I think.</p>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -216,21 +224,17 @@ const iconMap: Record<string, string> = {
           <div class="exp-row-role">Early career: design, digital &amp; brand<span>Brand content &middot; Multimedia design &middot; Community building</span></div>
         </div>
       </div>
-      <a class="textlink" href="/cv">Full CV →</a>
+      <div class="cta-row" style="margin-top:28px; justify-content:flex-start;">
+        <a class="btn primary" href="https://www.linkedin.com/in/felipeaguilera" target="_blank" rel="noopener">LinkedIn →</a>
+        <a class="btn ghost" href="/cv">Download CV (PDF) →</a>
+      </div>
     </div>
   </section>
 
-  <section id="about">
+  <section class="brandstrip" id="record">
     <div class="wrap">
-      <div class="eyebrow">The longer story</div>
-      <div class="about">
-        <div>
-          <h2>Long enough at this to know what <span class="o">actually matters</span><span class="dot">.</span></h2>
-          <p class="lead dropcap">I led marketing and customer experience at <strong>Zmart</strong> for a decade, and built and edited its magazine, <strong>Inzider</strong>, along the way. Before that, digital projects for <strong>Metro de Santiago, Sodimac, Tetra Pak,</strong> and <strong>Codelco</strong>. Today I work independently through <strong>EVO Communication Lab</strong>, taking on brand strategy, content, and digital work for clients across sectors. I'm in Santiago, bilingual, and built for remote work, and I write because it's how I think.</p>
-          <a class="textlink" href="#">Read the full story →</a>
-        </div>
-        <img class="portrait" src="/assets/portrait.png" alt="Felipe Aguilera" />
-      </div>
+      <div class="eyebrow">Along the way</div>
+      <div class="brandnames">Zmart &middot; Metro de Santiago &middot; Sodimac &middot; Tetra Pak &middot; Codelco &middot; Nintendo &middot; PlayStation &middot; Xbox</div>
     </div>
   </section>
 

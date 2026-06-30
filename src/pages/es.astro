@@ -3,17 +3,9 @@ import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import currently from '../data/currently.json';
 
-// Spanish articles — if none exist yet, falls back to EN articles
-const esArticles = await getCollection('notebook', ({ data }) =>
+const articles = (await getCollection('notebook', ({ data }) =>
   !data.draft && data.lang === 'es'
-);
-const enArticles = await getCollection('notebook', ({ data }) =>
-  !data.draft && data.lang === 'en'
-);
-// Show ES articles if they exist, otherwise show EN articles with ES labels
-const articles = (esArticles.length > 0 ? esArticles : enArticles)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 3);
+)).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
 
 const iconMap: Record<string, string> = {
   'book': 'assets/icons/book.svg',
@@ -61,8 +53,9 @@ const iconMap: Record<string, string> = {
         <a class="btn ghost" href="#about">Sobre mí</a>
       </div>
     </div>
-    <div class="wrap hero-orn"><div class="fleuron"><span>&#10086;</span></div></div>
   </header>
+
+  <div class="section-bridge"><div class="fleuron"><span>&#10086;</span></div></div>
 
   <section class="cream" id="notebook">
     <div class="wrap">
@@ -71,10 +64,10 @@ const iconMap: Record<string, string> = {
       <p class="lead">Escribo sobre el cruce entre <strong>cultura, tecnología y marca</strong>, casi siempre partiendo de algo que no puedo dejar de pensar: una película, un lanzamiento, un pequeño cambio en cómo vivimos, y lo sigo hasta que dice algo útil. Me interesan menos las opiniones rápidas que <strong>pensar en voz alta y a la vista</strong>. Es como pienso, y la parte de la semana que más disfruto. Publico algo nuevo casi todos los viernes.</p>
       <div class="cards">
         {articles.map((article) => (
-          <a class="card" href={`/notebook/${article.slug}`}>
-            {article.data.cover && (
-              <div class="thumb" style={`background-image:url('${article.data.cover}')`}></div>
-            )}
+          <a class="card" href={`/es/notebook/${article.slug.replace(/^es\//, '')}`}>
+            <div class="thumb">
+              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+            </div>
             <div class="cbody">
               <span class="meta">{article.data.category}</span>
               <h3>{article.data.title}</h3>
@@ -85,7 +78,50 @@ const iconMap: Record<string, string> = {
         ))}
       </div>
       <div style="text-align:center;margin-top:30px;">
-        <a class="textlink" href="https://felipeaguilera.substack.com">Todo el cuaderno →</a>
+        <a class="btn ghost" href="/es/notebook">Todo el cuaderno →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="evo-home" id="hello">
+    <div class="wrap">
+      <div class="evo-home-inner">
+        <div class="evo-home-left">
+          <img src="/assets/EVO-logo-white.svg" alt="EVO Communication Lab" class="evo-home-logo" />
+          <p class="evo-home-sub">Communication Lab</p>
+        </div>
+        <div class="evo-home-right">
+          <div class="eyebrow evo-eyebrow">Trabajar juntos</div>
+          <h2 class="evo-home-heading">Claridad sobre el ruido.<br/>Para empresas que necesitan comunicar mejor.</h2>
+          <p class="evo-home-text">EVO construye sistemas de comunicación: identidad de marca, canales digitales y materiales que una empresa puede operar sola. Si tienes un proyecto, un problema, o simplemente quieres mejorar cómo comunica tu marca, por aquí se empieza.</p>
+          <div class="evo-home-services">
+            <div class="evo-service">
+              <span class="evo-service-num">01</span>
+              <div>
+                <strong>Diagnóstico EVO</strong>
+                <p>Sesión de 90 minutos más informe escrito. Qué funciona, qué no, y dónde concentrarse primero.</p>
+              </div>
+            </div>
+            <div class="evo-service">
+              <span class="evo-service-num">02</span>
+              <div>
+                <strong>Proyecto de alcance fijo</strong>
+                <p>Entregable definido, precio fijo, plazo cerrado. Sin scope creep, sin horas abiertas.</p>
+              </div>
+            </div>
+            <div class="evo-service">
+              <span class="evo-service-num">03</span>
+              <div>
+                <strong>Retainer mensual</strong>
+                <p>Horas dedicadas y soporte estratégico continuo. Para empresas que necesitan continuidad sin contratar internamente.</p>
+              </div>
+            </div>
+          </div>
+          <div class="cta-row" style="margin-top:36px; justify-content:flex-start;">
+            <a class="btn primary" href="https://www.evo.cl/#contacto" target="_blank" rel="noopener">Iniciar una conversación</a>
+            <a class="btn evo-ghost" href="https://www.evo.cl" target="_blank" rel="noopener">Cómo trabajamos →</a>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -140,26 +176,33 @@ const iconMap: Record<string, string> = {
       <h2>Del <span class="o">archivo</span><span class="dot">.</span></h2>
       <div class="cards">
         <div class="card">
-          <div class="thumb" style="background-image:url('/assets/inzider.jpg')"></div>
-          <div class="cbody"><span class="meta">EXP-204417 &middot; Editorial</span><h3>Revista Inzider</h3><p>Una revista impresa que fundé y edité en Zmart: portadas, reportajes, publicidad, múltiples ediciones a lo largo de cinco años.</p></div>
+          <div class="thumb"><img src="/assets/inzider.jpg" alt="Revista Inzider" loading="lazy" /></div>
+          <div class="cbody"><span class="meta">Editorial &middot; 2014–2019</span><h3>Revista Inzider</h3><p>Una revista impresa que fundé y edité en Zmart: portadas, reportajes, publicidad, múltiples ediciones a lo largo de cinco años.</p></div>
         </div>
         <div class="card">
-          <div class="thumb" style="background-image:url('/assets/zmart.jpg')"></div>
-          <div class="cbody"><span class="meta">EXP-118235 &middot; Marca y digital</span><h3>Zmart.cl</h3><p>Una década liderando la marca y la experiencia del cliente: omnicanalidad, lanzamientos de consolas y una cultura Great Place to Work.</p></div>
+          <div class="thumb"><img src="/assets/zmart.jpg" alt="Zmart.cl" loading="lazy" /></div>
+          <div class="cbody"><span class="meta">Marca y digital &middot; 2013–2024</span><h3>Zmart.cl</h3><p>Una década liderando la marca y la experiencia del cliente: omnicanalidad, lanzamientos de consolas y una cultura Great Place to Work.</p></div>
         </div>
         <div class="card">
-          <div class="thumb" style="background-image:url('/assets/mifactoria.jpg')"></div>
-          <div class="cbody"><span class="meta">EXP-339061 &middot; Ecommerce</span><h3>Mi Factoria</h3><p>Una marca y tienda Shopify: convertir una tienda funcional en una identidad coherente.</p></div>
+          <div class="thumb"><img src="/assets/mifactoria.jpg" alt="Mi Factoria" loading="lazy" /></div>
+          <div class="cbody"><span class="meta">Marca y Ecommerce &middot; 2024</span><h3>Mi Factoria</h3><p>Una marca y tienda Shopify: convertir una tienda funcional en una identidad coherente.</p></div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="brandstrip center" id="record">
+  <section id="about">
     <div class="wrap">
-      <div class="eyebrow">En el camino</div>
-      <p>Tuve la suerte de trabajar con <b>Zmart, Metro de Santiago, Sodimac, Tetra Pak, Codelco, Nintendo, PlayStation</b> y <b>Xbox.</b></p>
-      <a class="ll" href="https://www.linkedin.com/in/felipeaguilera">Historial completo en LinkedIn →</a>
+      <div class="eyebrow">Quién soy</div>
+      <div class="about">
+        <div class="about-photo">
+          <img class="portrait" src="/assets/portrait.png" alt="Felipe Aguilera" />
+        </div>
+        <div>
+          <h2>Estratega de marca. <span class="o">Veinticinco años</span> haciendo las cosas claras<span class="dot">.</span></h2>
+          <p class="lead dropcap">Lideré marketing y experiencia de cliente en <strong>Zmart</strong> por una década, y fundé y edité su revista, <strong>Inzider</strong>, en el camino. Antes, proyectos digitales para <strong>Metro de Santiago, Sodimac, Tetra Pak</strong> y <strong>Codelco</strong>. Hoy trabajo de forma independiente a través de <strong>EVO Communication Lab</strong>, en estrategia de marca, contenido y digital para clientes de distintos sectores. Estoy en Santiago, bilingüe, y hecho para el trabajo remoto. Escribo porque así pienso.</p>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -169,7 +212,7 @@ const iconMap: Record<string, string> = {
       <h2>El recorrido <span class="o">detrás del trabajo</span><span class="dot">.</span></h2>
       <div class="exp-list">
         <div class="exp-row">
-          <div class="exp-row-meta">2024 &mdash; Hoy<br />EVO Creative Lab &middot; Remoto</div>
+          <div class="exp-row-meta">2024 &mdash; Hoy<br />EVO Communication Lab &middot; Remoto</div>
           <div class="exp-row-role">Fundador y Consultor Creativo<span>Estrategia de marca &middot; Contenido &middot; Digital &middot; Clientes en LATAM y Europa</span></div>
         </div>
         <div class="exp-row">
@@ -185,34 +228,17 @@ const iconMap: Record<string, string> = {
           <div class="exp-row-role">Primeros años: diseño, digital y marca<span>Contenido de marca &middot; Diseño multimedia &middot; Comunidades digitales</span></div>
         </div>
       </div>
-      <a class="textlink" href="/cv-es">CV completo →</a>
+      <div class="cta-row" style="margin-top:28px; justify-content:flex-start;">
+        <a class="btn primary" href="https://www.linkedin.com/in/felipeaguilera" target="_blank" rel="noopener">LinkedIn →</a>
+        <a class="btn ghost" href="/cv-es">CV completo (PDF) →</a>
+      </div>
     </div>
   </section>
 
-  <section id="about">
+  <section class="brandstrip" id="record">
     <div class="wrap">
-      <div class="eyebrow">La historia larga</div>
-      <div class="about">
-        <div>
-          <h2>Los suficientes años como para saber qué <span class="o">realmente importa</span><span class="dot">.</span></h2>
-          <p class="lead dropcap">Lideré marketing y experiencia de cliente en <strong>Zmart</strong> por una década, y fundé y edité su revista, <strong>Inzider</strong>, en el camino. Antes, proyectos digitales para <strong>Metro de Santiago, Sodimac, Tetra Pak</strong> y <strong>Codelco</strong>. Hoy trabajo de forma independiente a través de <strong>EVO Creative Lab</strong>, en estrategia de marca, contenido y digital para clientes de distintos sectores. Estoy en Santiago, bilingüe, y hecho para el trabajo remoto. Escribo porque así pienso.</p>
-          <a class="textlink" href="#">La historia completa →</a>
-        </div>
-        <img class="portrait" src="/assets/portrait.png" alt="Felipe Aguilera" />
-      </div>
-    </div>
-  </section>
-
-  <section class="cream center" id="hello">
-    <div class="wrap narrow">
-      <div class="fleuron"><span>&#10086;</span></div>
-      <div class="eyebrow" style="margin-top:30px;">Escríbeme</div>
-      <h2>¿Tienes un proyecto o simplemente quieres <span class="o">conversar</span><span class="dot">?</span></h2>
-      <p class="lead">Si tienes un proyecto, para eso está <strong>EVO Creative Lab</strong>, donde ayudo a las empresas a entender qué necesitan de verdad: <strong>primero el diagnóstico, después la estrategia</strong>. Si prefieres solo seguir los escritos o saludar, también es bienvenido.</p>
-      <div class="cta-row" style="margin-top:30px;">
-        <a class="btn primary" href="https://evo.cl">Visitar EVO Creative Lab</a>
-        <a class="btn ghost" href="mailto:felipe@faguilera.com">Escríbeme</a>
-      </div>
+      <div class="eyebrow">En el camino</div>
+      <div class="brandnames">Zmart &middot; Metro de Santiago &middot; Sodimac &middot; Tetra Pak &middot; Codelco &middot; Nintendo &middot; PlayStation &middot; Xbox</div>
     </div>
   </section>
 

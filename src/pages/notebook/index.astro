@@ -52,10 +52,9 @@ function fmt(date: Date) {
       <div class="cards">
         {latest.map((article) => (
           <a class="card" href={`/notebook/${article.slug}`}>
-            {article.data.cover
-              ? <img class="thumb" src={article.data.cover} alt={article.data.title} loading="lazy" />
-              : <div class="thumb thumb-placeholder"></div>
-            }
+            <div class="thumb">
+              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+            </div>
             <div class="cbody">
               <span class="meta">{article.data.category} &middot; {fmt(article.data.date)}</span>
               <h3>{article.data.title}</h3>
@@ -75,10 +74,9 @@ function fmt(date: Date) {
       <div class="cards">
         {older.map((article) => (
           <a class="card" href={`/notebook/${article.slug}`}>
-            {article.data.cover
-              ? <img class="thumb" src={article.data.cover} alt={article.data.title} loading="lazy" />
-              : <div class="thumb thumb-placeholder"></div>
-            }
+            <div class="thumb">
+              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+            </div>
             <div class="cbody">
               <span class="meta">{article.data.category} &middot; {fmt(article.data.date)}</span>
               <h3>{article.data.title}</h3>
