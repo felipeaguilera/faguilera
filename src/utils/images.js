@@ -37,12 +37,12 @@ const CDN     = '/.netlify/images';
  * @param {number}  [opts.w]       - Output width in pixels
  * @param {number}  [opts.h]       - Output height in pixels
  * @param {string}  [opts.fit]     - 'cover' | 'contain' | 'fill' | 'inside' | 'outside'
- * @param {string}  [opts.format]  - 'auto' (default) | 'webp' | 'avif' | 'jpg' | 'png'
- *                                   'auto' lets Netlify pick best format per browser.
+ * @param {string}  [opts.format]  - 'webp' (default) | 'avif' | 'jpg' | 'png' | 'gif'
+ *                                   WebP has ~99% browser support. Use 'avif' for better
  * @param {number}  [opts.q]       - Quality 1–100
  * @returns {string}
  */
-export function netlifyImg(src, { w, h, fit, format = 'auto', q } = {}) {
+export function netlifyImg(src, { w, h, fit, format = 'webp', q } = {}) {
   if (!src) return '';
   // In dev, or for external URLs (http*): return as-is
   if (!IS_PROD || src.startsWith('http')) return src;
