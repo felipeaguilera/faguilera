@@ -358,9 +358,23 @@ declare module 'astro:content' {
   collection: "notebook";
   data: any
 } & { render(): Render[".md"] };
+"es/affinity-a-different-kind-of-free.md": {
+	id: "es/affinity-a-different-kind-of-free.md";
+  slug: "es/affinity-a-different-kind-of-free";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
 "es/anora-a-dance-of-raw-tension.md": {
 	id: "es/anora-a-dance-of-raw-tension.md";
   slug: "es/anora-a-dance-of-raw-tension";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/beautiful-nonsense-when-prompting.md": {
+	id: "es/beautiful-nonsense-when-prompting.md";
+  slug: "es/beautiful-nonsense-when-prompting";
   body: string;
   collection: "notebook";
   data: any
@@ -414,6 +428,13 @@ declare module 'astro:content' {
   collection: "notebook";
   data: any
 } & { render(): Render[".md"] };
+"es/case-study-zmartcl-leading-the-gaming.md": {
+	id: "es/case-study-zmartcl-leading-the-gaming.md";
+  slug: "es/case-study-zmartcl-leading-the-gaming";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
 "es/civil-war-in-america-the-pop-tart.md": {
 	id: "es/civil-war-in-america-the-pop-tart.md";
   slug: "es/civil-war-in-america-the-pop-tart";
@@ -456,9 +477,37 @@ declare module 'astro:content' {
   collection: "notebook";
   data: any
 } & { render(): Render[".md"] };
+"es/design-in-the-age-of-dialogue-how.md": {
+	id: "es/design-in-the-age-of-dialogue-how.md";
+  slug: "es/design-in-the-age-of-dialogue-how";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
 "es/erasing-the-memory-of-some-perfect.md": {
 	id: "es/erasing-the-memory-of-some-perfect.md";
   slug: "es/erasing-the-memory-of-some-perfect";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/evocl-report-of-20240124.md": {
+	id: "es/evocl-report-of-20240124.md";
+  slug: "es/evocl-report-of-20240124";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/evocl.md": {
+	id: "es/evocl.md";
+  slug: "es/evocl";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/from-prompt-to-product-how-i-actually.md": {
+	id: "es/from-prompt-to-product-how-i-actually.md";
+  slug: "es/from-prompt-to-product-how-i-actually";
   body: string;
   collection: "notebook";
   data: any
@@ -519,6 +568,13 @@ declare module 'astro:content' {
   collection: "notebook";
   data: any
 } & { render(): Render[".md"] };
+"es/mi-factoria-from-functional-store.md": {
+	id: "es/mi-factoria-from-functional-store.md";
+  slug: "es/mi-factoria-from-functional-store";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
 "es/mickey-17-sci-fi-clones-and-the-problem.md": {
 	id: "es/mickey-17-sci-fi-clones-and-the-problem.md";
   slug: "es/mickey-17-sci-fi-clones-and-the-problem";
@@ -547,9 +603,23 @@ declare module 'astro:content' {
   collection: "notebook";
   data: any
 } & { render(): Render[".md"] };
+"es/openai-apps-from-chat-to-platform.md": {
+	id: "es/openai-apps-from-chat-to-platform.md";
+  slug: "es/openai-apps-from-chat-to-platform";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
 "es/paradise-season-1-a-thrill-ride-with.md": {
 	id: "es/paradise-season-1-a-thrill-ride-with.md";
   slug: "es/paradise-season-1-a-thrill-ride-with";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/passkeys-sound-cool-but-heres-why.md": {
+	id: "es/passkeys-sound-cool-but-heres-why.md";
+  slug: "es/passkeys-sound-cool-but-heres-why";
   body: string;
   collection: "notebook";
   data: any
@@ -582,6 +652,13 @@ declare module 'astro:content' {
   collection: "notebook";
   data: any
 } & { render(): Render[".md"] };
+"es/samsungs-color-e-paper-is-nice-but.md": {
+	id: "es/samsungs-color-e-paper-is-nice-but.md";
+  slug: "es/samsungs-color-e-paper-is-nice-but";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
 "es/scoop-the-asteroids-are-comedy-kings.md": {
 	id: "es/scoop-the-asteroids-are-comedy-kings.md";
   slug: "es/scoop-the-asteroids-are-comedy-kings";
@@ -606,6 +683,13 @@ declare module 'astro:content' {
 "es/the-american-bridges-of-saltburn.md": {
 	id: "es/the-american-bridges-of-saltburn.md";
   slug: "es/the-american-bridges-of-saltburn";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/the-antidote-to-slop-why-im-trading.md": {
+	id: "es/the-antidote-to-slop-why-im-trading.md";
+  slug: "es/the-antidote-to-slop-why-im-trading";
   body: string;
   collection: "notebook";
   data: any
@@ -753,6 +837,13 @@ declare module 'astro:content' {
 "es/welcome-the-slam-dunk-of-wrexham.md": {
 	id: "es/welcome-the-slam-dunk-of-wrexham.md";
   slug: "es/welcome-the-slam-dunk-of-wrexham";
+  body: string;
+  collection: "notebook";
+  data: any
+} & { render(): Render[".md"] };
+"es/why-2fa-still-matters-even-when-it.md": {
+	id: "es/why-2fa-still-matters-even-when-it.md";
+  slug: "es/why-2fa-still-matters-even-when-it";
   body: string;
   collection: "notebook";
   data: any

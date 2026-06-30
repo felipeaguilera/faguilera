@@ -69,6 +69,40 @@ const hasEn = enArticles.some(a => a.slug === cleanSlug);
     </div>
   </header>
 
+  <div class="article-actions-bar">
+    <div class="article-actions">
+      <span class="aa-label">Leer en</span>
+      {hasEn
+        ? <a href={`/notebook/${cleanSlug}`} class="aa-btn">EN</a>
+        : <span class="aa-btn aa-disabled">EN</span>
+      }
+      <span class="aa-sep">/</span>
+      <a href={`/es/notebook/${cleanSlug}`} class="aa-btn active">ES</a>
+      <span class="aa-divider"></span>
+      <button class="aa-btn" onclick="window.print()">PDF</button>
+      <a class="aa-btn" id="share-x" href="#" target="_blank" rel="noopener" title="Compartir en X">&#120143;</a>
+      <a class="aa-btn" id="share-li" href="#" target="_blank" rel="noopener" title="Compartir en LinkedIn">in</a>
+      <a class="aa-btn" id="share-wa" href="#" target="_blank" rel="noopener" title="Compartir en WhatsApp">WA</a>
+      <button class="aa-btn" id="copy-url" title="Copiar enlace">Enlace</button>
+    </div>
+  </div>
+  <script>
+  (function(){
+    var u=encodeURIComponent(window.location.href);
+    var t=encodeURIComponent(document.title);
+    document.getElementById('share-x').href='https://twitter.com/intent/tweet?url='+u+'&text='+t;
+    document.getElementById('share-li').href='https://www.linkedin.com/sharing/share-offsite/?url='+u;
+    document.getElementById('share-wa').href='https://api.whatsapp.com/send?text='+t+'%20'+u;
+    var c=document.getElementById('copy-url');
+    c.addEventListener('click',function(){
+      navigator.clipboard.writeText(window.location.href).then(function(){
+        c.textContent='Copiado';
+        setTimeout(function(){c.textContent='Enlace';},1800);
+      }).catch(function(){});
+    });
+  })();
+  </script>
+
   <section class="article-body">
     <div class="wrap">
       <div class="prose">
