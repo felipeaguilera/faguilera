@@ -47,13 +47,15 @@ export function netlifyImg(src, { w, h, fit, format = 'auto', q } = {}) {
   // In dev, or for external URLs (http*): return as-is
   if (!IS_PROD || src.startsWith('http')) return src;
 
-  const p = new URLSearchParams({ url: src, format });
-  if (w)   p.set('w',   String(w));
-  if (h)   p.set('h',   String(h));
-  if (fit) p.set('fit', fit);
-  if (q)   p.set('q',   String(q));
+  // Build query manually — URLSearchParams encodes "/" as "%2F" which
+  // breaks Netlify Image CDN. The url parameter needs literal slashes.
+  const parts = [`url=${src}`, `format=${format}`];
+  if (w)   parts.push(`w=${w}`);
+  if (h)   parts.push(`h=${h}`);
+  if (fit) parts.push(`fit=${fit}`);
+  if (q)   parts.push(`q=${q}`);
 
-  return `${CDN}?${p.toString()}`;
+  return `${CDN}?${parts.join('&')}`;
 }
 
 /**
