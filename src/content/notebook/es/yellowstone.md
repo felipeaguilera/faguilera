@@ -3,7 +3,7 @@ title: "Yellowstone"
 date: 2025-02-21
 description: "Una saga familiar intensa y cautivadora que nos invita a enamorarnos de un estilo de vida vaquero en peligro de extinción."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/3450da84-11c4-46ae-952d-d40a4f4feb08_3840x2160.jpeg"
+cover: "/assets/images/3450da84-11c4-46ae-952d-d40a4f4feb08.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/yellowstone"

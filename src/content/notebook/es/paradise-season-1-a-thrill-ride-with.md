@@ -3,7 +3,7 @@ title: "'Paradise' (Temporada 1): una montaña rusa con un destino familiar"
 date: 2025-05-16
 description: "Un thriller de ciencia ficción corto y ágil que entretiene, incluso cuando no termina de aterrizar del todo."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/255004e5-416c-4a8c-8ab6-617f5b68c804_3840x2160.png"
+cover: "/assets/images/255004e5-416c-4a8c-8ab6-617f5b68c804.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/paradise-season-1-a-thrill-ride-with"

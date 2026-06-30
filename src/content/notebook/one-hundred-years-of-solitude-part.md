@@ -3,7 +3,7 @@ title: "One Hundred Years of Solitude (Part 1) Review."
 date: 2025-01-10
 description: "This ambitious adaptation of a highly influential 20th-century novel is visually stunning, with a surprising pace and a fantastic universe. Unfortunately, it fails to maintain consistency throughout."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/7d55649b-75b3-4ac7-af07-71bf795d13f9_2048x1152.jpeg"
+cover: "/assets/images/7d55649b-75b3-4ac7-af07-71bf795d13f9.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/one-hundred-years-of-solitude-part"

@@ -3,7 +3,7 @@ title: "The Curious Case of HBO Max: When a Brand is Too Powerful to Ignore"
 date: 2025-05-14
 description: "What the HBO Max rebranding saga reveals about brand equity, audience trust, and strategic missteps in the streaming era."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/8bab99cc-eba4-47fe-9643-84ac8de4fe34_1536x1024.png"
+cover: "/assets/images/8bab99cc-eba4-47fe-9643-84ac8de4fe34.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-curious-case-of-hbo-max-when"

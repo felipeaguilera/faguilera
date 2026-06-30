@@ -3,7 +3,7 @@ title: "The Day a Head Exploded"
 date: 2025-07-18
 description: "A memory of VHS, Cronenberg, and the moment cinema became something else"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/a6bab443-effc-4985-acb9-e4a713d7485a_1600x900.webp"
+cover: "/assets/images/a6bab443-effc-4985-acb9-e4a713d7485a.webp"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-day-a-head-exploded"
@@ -51,7 +51,7 @@ Learning something I wouldn’t fully understand for years.
 
 ---
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/2a532e0e-7f96-4160-98d7-16ffe1b567a8_1600x2400.jpeg)](https://substackcdn.com/image/fetch/$s_!xlG_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a532e0e-7f96-4160-98d7-16ffe1b567a8_1600x2400.jpeg)
+[![](/assets/images/2a532e0e-7f96-4160-98d7-16ffe1b567a8.jpg)](/assets/images/2a532e0e-7f96-4160-98d7-16ffe1b567a8.jpg)
 
 ---
 

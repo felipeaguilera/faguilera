@@ -3,7 +3,7 @@ title: "Bottoms up: The Volcanic Love of Lobsters"
 date: 2024-04-27
 description: "Also known as EVO.cl Film report #6 of 2024.04.27"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/d575386b-52ed-4ea7-a959-19be41c69274_1920x1080.png"
+cover: "/assets/images/d575386b-52ed-4ea7-a959-19be41c69274.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/bottoms-up-the-volcanic-love-of-lobsters"
@@ -29,7 +29,7 @@ However, beyond the fascinating images and data about volcanoes, this fantastic 
 
 # 🎥Bottoms (2023) 🏫👊🩸
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/c75b8e19-292d-4569-8ede-568a14d79e27_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!_mI0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc75b8e19-292d-4569-8ede-568a14d79e27_1920x1080.png)
+[![](/assets/images/c75b8e19-292d-4569-8ede-568a14d79e27.png)](/assets/images/c75b8e19-292d-4569-8ede-568a14d79e27.png)
 
 A few years back, I deeply appreciated the splendid *Shiva Baby*, a comedy directed by *Emma Seligman* and featuring *Rachel Sennott*. In this latest collaboration, they present “Bottoms”, a college comedy with a queer focus, without resorting to a crude quest for identity justice.
 
@@ -45,7 +45,7 @@ As with any good college comedy, things gradually become complex, and circumstan
 
 # 🎥The Lobster (2015) 🦞💀💔
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/33ed92db-45c2-407d-bbfb-6c0708a35f9e_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!DOQP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33ed92db-45c2-407d-bbfb-6c0708a35f9e_1920x1080.png)
+[![](/assets/images/33ed92db-45c2-407d-bbfb-6c0708a35f9e.png)](/assets/images/33ed92db-45c2-407d-bbfb-6c0708a35f9e.png)
 
 In the wake of Yorgos Lanthimos's great success with "Poor Things", I decided to revisit one of his films to which I had not paid much attention, "The Lobster" from 2015. This is a dark comedy set in a dystopian future where being single is illegal. As a result, David, after his wife leaves him, is taken to a hotel where he has 45 days to find a partner or be transformed into an animal of his choosing.
 

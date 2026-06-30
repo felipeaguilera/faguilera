@@ -3,7 +3,7 @@ title: "Why 2FA Still Matters (Even When It Feels Like a Hassle)"
 date: 2025-05-05
 description: "The second key to your digital life isn’t optional anymore. Here’s why it matters—and how I rebuilt my setup after everything collapsed."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2cb8d048-17f8-41e0-8643-4ad73fa228c2_1536x1024.png"
+cover: "/assets/images/2cb8d048-17f8-41e0-8643-4ad73fa228c2.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/why-2fa-still-matters-even-when-it"

@@ -3,7 +3,7 @@ title: "The Apprentice Review: More than just a Trump movie"
 date: 2025-04-04
 description: "A sharp, gripping look at the forces that shaped Donald Trump, The Apprentice unpacks ambition, mentorship, and the price of power."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/d8106bd0-1eca-467c-9395-26d160e2bb23_3840x2160.jpeg"
+cover: "/assets/images/d8106bd0-1eca-467c-9395-26d160e2bb23.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-apprentice-review-more-than-just"

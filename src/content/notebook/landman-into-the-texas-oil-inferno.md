@@ -3,7 +3,7 @@ title: "Landman: Into the Texas Oil Inferno."
 date: 2025-03-21
 description: "Taylor Sheridan's \"Landman\" plunges viewers into the volatile world of the Texas oil industry, exploring the brutal realities, complex family dynamics, and compelling characters."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2a756fef-0acd-48e8-a6d3-fe8c2c40ffdc_3840x2160.jpeg"
+cover: "/assets/images/2a756fef-0acd-48e8-a6d3-fe8c2c40ffdc.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/landman-into-the-texas-oil-inferno"

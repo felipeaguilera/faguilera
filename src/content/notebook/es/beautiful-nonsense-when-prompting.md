@@ -3,7 +3,7 @@ title: "Bonita basura: cuando el prompting no entrega nada."
 date: 2025-05-26
 description: "El momento en que todo parece correcto pero se siente vacío. Por qué la IA a veces falla y cómo volver al buen camino."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/bc9d7e6b-ccd0-4281-9fcb-9c051ac3b36d_1536x1024.png"
+cover: "/assets/images/bc9d7e6b-ccd0-4281-9fcb-9c051ac3b36d.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/beautiful-nonsense-when-prompting"

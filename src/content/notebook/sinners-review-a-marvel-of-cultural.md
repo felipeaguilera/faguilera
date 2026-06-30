@@ -3,7 +3,7 @@ title: "Sinners' Review: A Perfect Cultural Drama Trapped in a Standard Action M
 date: 2026-01-30
 description: "Ryan Coogler builds a masterpiece of atmosphere and character, only to bury it under a generic vampire war."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/bd24a617-ff9c-4b99-b13d-a0fdc239da44_3840x2160.png"
+cover: "/assets/images/bd24a617-ff9c-4b99-b13d-a0fdc239da44.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/sinners-review-a-marvel-of-cultural"
@@ -27,7 +27,7 @@ In *Sinners*, Ryan Coogler takes us to 1930s Mississippi to tell the story of tw
 
 **The Vampire Distraction:** I found myself wondering if this movie actually needed the supernatural element at all. The setting, the characters, and the historical conflict were strong enough to carry a 10/10 drama. The vampires, while cool in concept, ultimately feel like a distraction that lowers the ceiling of what this story could have been.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/0017b5b9-f8b7-4fed-9ceb-4c68468ba338_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!bX2L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0017b5b9-f8b7-4fed-9ceb-4c68468ba338_3840x2160.png)
+[![](/assets/images/0017b5b9-f8b7-4fed-9ceb-4c68468ba338.png)](/assets/images/0017b5b9-f8b7-4fed-9ceb-4c68468ba338.png)
 
 # **My Insight**
 

@@ -3,7 +3,7 @@ title: "'Mountainhead': cuando el poder tecnológico olvida sentir"
 date: 2025-06-13
 description: "La película de HBO de Jesse Armstrong construye una sátira de la IA oportuna, pero deja atrás su humanidad."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/df8874f1-956d-4b3f-ad55-c4423bdc94ea_3840x2160.png"
+cover: "/assets/images/df8874f1-956d-4b3f-ad55-c4423bdc94ea.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/mountainhead-when-tech-power-forgets"

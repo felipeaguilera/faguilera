@@ -3,7 +3,7 @@ title: "Adolescence: A teenager crime unraveled in four unbroken shots."
 date: 2025-03-28
 description: "A gripping limited series that immerses viewers in a real-time murder accusation, exploring the struggles of modern adolescence."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2dd16405-a474-428e-8ded-3ec17518addf_3840x2160.jpeg"
+cover: "/assets/images/2dd16405-a474-428e-8ded-3ec17518addf.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/adolescence-a-teenager-crime-unraveled"

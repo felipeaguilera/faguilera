@@ -3,7 +3,7 @@ title: "Black Mirror: 'Common People': la salud como suscripción"
 date: 2025-04-18
 description: "Cuando la tecnología que te salva la vida viene con pagos mensuales."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/b6c3bae2-e00d-489c-bc89-d129aba2eddb_1280x640.png"
+cover: "/assets/images/b6c3bae2-e00d-489c-bc89-d129aba2eddb.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/black-mirror-common-people-review"

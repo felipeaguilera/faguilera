@@ -3,7 +3,7 @@ title: "A Real Pain"
 date: 2025-02-14
 description: "Entre risas y lágrimas, una reunión familiar en tierras de enorme peso histórico. Una invitación gentil a reconectarse."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/9706521e-4cc7-4577-ac5d-2aa2a667b063_3840x2160.jpeg"
+cover: "/assets/images/9706521e-4cc7-4577-ac5d-2aa2a667b063.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/a-real-pain"

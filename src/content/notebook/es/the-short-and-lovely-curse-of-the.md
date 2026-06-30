@@ -3,7 +3,7 @@ title: "La corta y adorable maldición de las tres Heathers."
 date: 2024-06-14
 description: "Esta semana nos adentramos en las cosas insensatas que podemos hacer por amor o por aprobación."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/a404d589-29f9-46b6-b5a8-5c489a17b6a3_1920x1080.jpeg"
+cover: "/assets/images/a404d589-29f9-46b6-b5a8-5c489a17b6a3.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-short-and-lovely-curse-of-the"
@@ -27,7 +27,7 @@ Altamente recomendada, con notas mágicas, absurdas y a veces hilarantes. The Cu
 
 # 🎥 Breve película sobre el amor 🔭💔
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/68181785-f9b9-44ec-abe2-99f6b520a824_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!-Jx5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68181785-f9b9-44ec-abe2-99f6b520a824_1920x1080.jpeg)
+[![](/assets/images/68181785-f9b9-44ec-abe2-99f6b520a824.jpg)](/assets/images/68181785-f9b9-44ec-abe2-99f6b520a824.jpg)
 
 No había tenido la oportunidad de ver una de las primeras adaptaciones cinematográficas de la serie "El Decálogo" de Kieslowski. En este caso, como es característico del prestigioso director polaco, se presenta una breve narración, pero con una experiencia placentera en la que los sentimientos humanos se convierten en protagonistas.
 
@@ -45,7 +45,7 @@ Una película que celebra los sentimientos, las relaciones humanas y donde la id
 
 # 🎥 Heathers 🖤💅
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/59e57612-ba8d-4738-b358-f5d6d5a7d465_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!0Q8w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59e57612-ba8d-4738-b358-f5d6d5a7d465_1920x1080.jpeg)
+[![](/assets/images/59e57612-ba8d-4738-b358-f5d6d5a7d465.jpg)](/assets/images/59e57612-ba8d-4738-b358-f5d6d5a7d465.jpg)
 
 Una película de 1988 dirigida por Michael Lehmann, Heathers es una sátira oscura de las comedias románticas universitarias. Protagonizada por una jovencísima Winona Ryder, Christian Slater, Shannen Doherty, Lisanne Falk y Kim Walker, nos movemos por los pasillos del instituto Westerburg. Veronica, una de las miembros más calladas del grupo popular, está perturbada por el comportamiento despiadado de sus compañeras, principalmente Heather Chandler, la líder del grupo.
 

@@ -3,7 +3,7 @@ title: "El cinismo es el enemigo de la comunidad"
 date: 2026-04-04
 description: "Las instituciones imperfectas son un problema real. Pero usarlas como excusa para dejar de juntarse es peor."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/ca92205c-f811-4574-898f-487480eecb9a_1408x768.png"
+cover: "/assets/images/ca92205c-f811-4574-898f-487480eecb9a.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/cynicism-is-the-enemy-of-community"

@@ -3,7 +3,7 @@ title: "El antídoto al 'slop': por qué cambio mi feed por la Comarca"
 date: 2025-12-19
 description: "Del 'brain rot' a Bolsón Cerrado: un retiro estratégico hacia la calidad."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4ac54e2d-bf59-4685-9740-eae021cbc72d_2400x1350.png"
+cover: "/assets/images/4ac54e2d-bf59-4685-9740-eae021cbc72d.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-antidote-to-slop-why-im-trading"

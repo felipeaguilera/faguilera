@@ -3,7 +3,7 @@ title: "Landman: adentro del infierno petrolero de Texas."
 date: 2025-03-21
 description: "\"Landman\" de Taylor Sheridan sumerge al espectador en el volátil mundo de la industria petrolera texana, explorando sus brutalidades, dinámicas familiares complejas y personajes cautivadores."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2a756fef-0acd-48e8-a6d3-fe8c2c40ffdc_3840x2160.jpeg"
+cover: "/assets/images/2a756fef-0acd-48e8-a6d3-fe8c2c40ffdc.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/landman-into-the-texas-oil-inferno"

@@ -3,7 +3,7 @@ title: "Coup de Chance Review"
 date: 2025-01-24
 description: "Woody Allen's new French film about love, betrayal, and fate disappoints despite beautiful scenery and an interesting premise."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/26ae6523-846a-4bd1-8f1b-cf8256a6decf_3840x2160.jpeg"
+cover: "/assets/images/26ae6523-846a-4bd1-8f1b-cf8256a6decf.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/coup-de-chance-review"

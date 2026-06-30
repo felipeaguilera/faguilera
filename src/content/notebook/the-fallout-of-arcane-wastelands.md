@@ -3,7 +3,7 @@ title: "The Fallout of Arcane wastelands are the hope for the Last of Us "
 date: 2024-07-05
 description: "The adaptations of successful video game franchises into series have had multiple successes recently, today I highlight some of my favorites. Fallout, The Last of Us and Arcane."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/eef83639-090e-4ea6-bb93-d0f4b6bdf69e_1920x1080.jpeg"
+cover: "/assets/images/eef83639-090e-4ea6-bb93-d0f4b6bdf69e.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-fallout-of-arcane-wastelands"
@@ -29,7 +29,7 @@ With the franchise faithfully represented and an excellent first installment, I 
 
 # 📺The Last of Us (2023)🧟🌿🦒🪓💉
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/70a13620-d65f-4c09-89d0-741d6d006ed6_3840x2160.jpeg)](https://substackcdn.com/image/fetch/$s_!Uf0j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70a13620-d65f-4c09-89d0-741d6d006ed6_3840x2160.jpeg)
+[![](/assets/images/70a13620-d65f-4c09-89d0-741d6d006ed6.jpg)](/assets/images/70a13620-d65f-4c09-89d0-741d6d006ed6.jpg)
 
 The series adaptation of one of the most awarded video games in history is undoubtedly a great success for HBO. In a reality where humanity is at the mercy of a tragic pandemic spread by a dangerous fungus that attacks the nervous system of humans and animals, causing tremendously violent reactions. Despite the weariness of the zombie genre, the proposal offered by this universe is fresh, intelligent, and very well achieved.
 
@@ -47,7 +47,7 @@ Given that it is not just another zombie adventure, and far above the narrative 
 
 # 📺Arcane (2021)🧪💣⚙️💔
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/373516f8-7483-43f6-9c06-791f9f224b05_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!o_1m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373516f8-7483-43f6-9c06-791f9f224b05_1920x1080.jpeg)
+[![](/assets/images/373516f8-7483-43f6-9c06-791f9f224b05.jpg)](/assets/images/373516f8-7483-43f6-9c06-791f9f224b05.jpg)
 
 The video game League of Legends is one of the most relevant competitions in esports year after year. With a wide variety of characters added periodically, the decision to adapt it into an animated work was undoubtedly difficult to understand. However, it is necessary to reflect for a couple of minutes on “Arcane” to understand that the result is not only surprising in the quality of the animation, music, and setting, but also in its enormous narrative. Making a series that amuses, amazes, and captivates.
 

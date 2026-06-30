@@ -3,7 +3,7 @@ title: "Civil War in America. The Pop-Tart War has broken a lot of Families"
 date: 2024-05-10
 description: "This week we are going deep in the American past and future. With Andrew Garland's \"Civil War\", \"Unfrosted\" with Jerry Seinfeld and the latest Copolla + Murray collaboration from 2020, \"On the Rocks"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/5406d240-fc58-4093-91e2-2ef66d4e4ebd_1920x1080.png"
+cover: "/assets/images/5406d240-fc58-4093-91e2-2ef66d4e4ebd.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/civil-war-in-america-the-pop-tart"
@@ -27,7 +27,7 @@ However, I also have the impression that his skill as a screenwriter leaves much
 
 # 🎥 Unfrosted (2024)🕵️‍♀️🥣
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!fwwv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67_1920x1080.png)
+[![](/assets/images/74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67.png)](/assets/images/74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67.png)
 
 I have always been and will probably always be a fan of Seinfeld, which I consider to be the best sitcom of all time. Therefore, anything that involves its creator, Jerry Seinfeld, piques my interest, even though I'm aware that it will never reach the same level of humor that he and Larry David created together in the past. That's a pedestal that only the series Curb Your Enthusiasm has managed to achieve.
 
@@ -45,7 +45,7 @@ With a setting that blends corporate comedy, espionage and international intrigu
 
 # 🎥 On the Rocks (2020)🍸💍
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/12a4336b-fa84-4081-b293-8869ef061214_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!jbSA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12a4336b-fa84-4081-b293-8869ef061214_1920x1080.png)
+[![](/assets/images/12a4336b-fa84-4081-b293-8869ef061214.png)](/assets/images/12a4336b-fa84-4081-b293-8869ef061214.png)
 
 Sofia Coppola's latest film, "On the Rocks," is a subtle comedy set in New York City. Bill Murray, reprising the success of "Lost in Translation," returns to a paternal role, this time with Rashida Jones as his co-star and daughter.
 

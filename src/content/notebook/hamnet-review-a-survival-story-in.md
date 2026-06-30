@@ -3,7 +3,7 @@ title: "“Hamnet” Review: A Survival Story in Shakespeare’s Shadow"
 date: 2026-02-06
 description: "A film that uses the Shakespeare name to grab attention, but in the intimacy of the screen shows an interesting more powerful story about a mother’s endurance."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6a5a413b-2d73-43f6-ac59-3d3d648504f8_3840x2160.png"
+cover: "/assets/images/6a5a413b-2d73-43f6-ac59-3d3d648504f8.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/hamnet-review-a-survival-story-in"
@@ -43,7 +43,7 @@ The label sells the art, but the truth is in the struggle. We live in an era whe
 
 Would you have watched this movie if it was just called *Agnes* and had no connection to Shakespeare? Does art always need a “famous hook” to survive in the modern market?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/2ec31104-27e7-401c-8d64-e8fb0beb8868_2500x1406.png)](https://substackcdn.com/image/fetch/$s_!qXhN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ec31104-27e7-401c-8d64-e8fb0beb8868_2500x1406.png)
+[![](/assets/images/2ec31104-27e7-401c-8d64-e8fb0beb8868.png)](/assets/images/2ec31104-27e7-401c-8d64-e8fb0beb8868.png)
 
 # **Related Works**
 

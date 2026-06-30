@@ -3,7 +3,7 @@ title: "‘Marty Supreme’ Review: The Exhausting, Brilliant Cost of Believing 
 date: 2026-02-27
 description: "Josh Safdie takes a story no one asked for and turns it into one of the most intense films of the year."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2d045f17-dbf0-4e1b-910e-8f727d84b935_3840x2160.png"
+cover: "/assets/images/2d045f17-dbf0-4e1b-910e-8f727d84b935.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/marty-supreme-review-the-exhausting"
@@ -43,7 +43,7 @@ I think we won’t remember this film the way we remember *Uncut Gems*. It doesn
 
 ***Recommendation:** Go in knowing it’s a Safdie film, not a sports movie.*
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/e5ee7ad3-c583-40fd-b100-94c4cf9b8768_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!-0et!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5ee7ad3-c583-40fd-b100-94c4cf9b8768_1920x1080.png)
+[![](/assets/images/e5ee7ad3-c583-40fd-b100-94c4cf9b8768.png)](/assets/images/e5ee7ad3-c583-40fd-b100-94c4cf9b8768.png)
 
 # For Discussion
 

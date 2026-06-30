@@ -3,7 +3,7 @@ title: "Samsung’s Color E-Paper Is Nice — But Will Small Businesses Actually
 date: 2025-05-12
 description: "An ultra-low power display with big promises, but are we ready to change how we show content?"
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/62bfbcc1-fbc2-4e6c-a152-70dc77e6668e_1536x1024.png"
+cover: "/assets/images/62bfbcc1-fbc2-4e6c-a152-70dc77e6668e.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/samsungs-color-e-paper-is-nice-but"
@@ -57,7 +57,7 @@ That’s where I see the magic of this kind of tech.
 
 ---
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/9844d355-d2dd-4cb7-adab-6396bda382fe_1000x666.jpeg)](https://substackcdn.com/image/fetch/$s_!SoPN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9844d355-d2dd-4cb7-adab-6396bda382fe_1000x666.jpeg)
+[![](/assets/images/9844d355-d2dd-4cb7-adab-6396bda382fe.jpg)](/assets/images/9844d355-d2dd-4cb7-adab-6396bda382fe.jpg)
 
 *More info:*
 

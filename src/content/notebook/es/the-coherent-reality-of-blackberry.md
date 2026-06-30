@@ -3,7 +3,7 @@ title: "La coherente realidad de BlackBerry."
 date: 2024-05-31
 description: "Las reseñas de esta semana: producciones pequeñas y el ascenso y caída del primer smartphone. Estilos interesantes y presentación creativa de Coherence, Reality y Blackberry."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/9ca21570-203a-4d19-b9ea-c37a9d8027cb_1920x1080.jpeg"
+cover: "/assets/images/9ca21570-203a-4d19-b9ea-c37a9d8027cb.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-coherent-reality-of-blackberry"
@@ -25,7 +25,7 @@ Lo que más me llamó la atención, además de su fascinante historia, es la amb
 
 # **🎥 Reality** (2023) 🤷‍♀️🤫
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/90c860c0-b359-4146-ba5f-791d63cd2e69_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!d5t8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c860c0-b359-4146-ba5f-791d63cd2e69_1920x1080.jpeg)
+[![](/assets/images/90c860c0-b359-4146-ba5f-791d63cd2e69.jpg)](/assets/images/90c860c0-b359-4146-ba5f-791d63cd2e69.jpg)
 
 Esta película nos ofrece una mirada en tiempo real al interrogatorio del FBI a Reality Winner, interpretada por Sydney Sweeney, la ex experta en inteligencia interrogada por filtrar información clasificada.
 
@@ -43,7 +43,7 @@ Una película muy interesante que, sin caer en un patriotismo excesivo y gracias
 
 # **🎥 Coherence** (2013) ☄️🤯👥
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/1ac6538b-dad7-4a2a-8e53-56825d723737_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!t46-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac6538b-dad7-4a2a-8e53-56825d723737_1920x1080.jpeg)
+[![](/assets/images/1ac6538b-dad7-4a2a-8e53-56825d723737.jpg)](/assets/images/1ac6538b-dad7-4a2a-8e53-56825d723737.jpg)
 
 Una interesante película de suspenso que nos mantendrá pegados a la acción, tanto para explorar el enigma como para seguir los diversos cambios, giros y versiones que ofrece. El director Jim Byrkit nos presenta una cena entre amigos en un espacio muy limitado, el día en que, aparentemente, el paso del Cometa Miller provoca eventos inexplicables donde se mezclan múltiples versiones de la realidad, los personajes y los puntos de desconexión.
 

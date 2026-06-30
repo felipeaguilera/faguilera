@@ -3,7 +3,7 @@ title: "Convertirse en el ladrón: lo que Bilbo Bolsón me está enseñando sobr
 date: 2026-01-02
 description: "Por qué mi mayor activo no es un plan a 20 años, sino el coraje de salir corriendo sin pañuelo."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/c0a81e38-4fdb-4174-b44c-3d3aca970ac0_2400x1350.png"
+cover: "/assets/images/c0a81e38-4fdb-4174-b44c-3d3aca970ac0.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/becoming-the-burglar-what-bilbo-baggins"

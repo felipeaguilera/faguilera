@@ -3,7 +3,7 @@ title: "Primeras impresiones de 'Pluribus': cuando la unidad se convierte en el 
 date: 2025-11-19
 description: "Lo que la serie más lenta de Vince Gilligan nos dice sobre la IA, la velocidad y lo que perdemos cuando todos están de acuerdo."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/b1602b00-2439-427e-ade9-b62d83c2d05f_3840x2160.png"
+cover: "/assets/images/b1602b00-2439-427e-ade9-b62d83c2d05f.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/pluribus-first-impressions-when-unity"
@@ -41,7 +41,7 @@ Creo que Gilligan está diciendo que el desorden es el punto. Que la lucha, el d
 
 En un mundo que recompensa la velocidad y el consenso, ¿qué hace que algo valga el tiempo que demanda? Y si avanzamos hacia herramientas que ofrecen satisfacción instantánea, ¿qué pasa con el arte que te pide esperar?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/cd66863d-5c7a-4342-a0e8-54730aedfee8_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!T8A-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd66863d-5c7a-4342-a0e8-54730aedfee8_3840x2160.png)
+[![](/assets/images/cd66863d-5c7a-4342-a0e8-54730aedfee8.png)](/assets/images/cd66863d-5c7a-4342-a0e8-54730aedfee8.png)
 
 ## **Obras relacionadas**
 

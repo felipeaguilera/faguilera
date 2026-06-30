@@ -3,7 +3,7 @@ title: "Adolescence: un crimen adolescente desenvuelto en cuatro tomas continuas
 date: 2025-03-28
 description: "Una miniserie absorbente que sumerge al espectador en tiempo real en una acusación de asesinato, explorando las luchas de la adolescencia moderna."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2dd16405-a474-428e-8ded-3ec17518addf_3840x2160.jpeg"
+cover: "/assets/images/2dd16405-a474-428e-8ded-3ec17518addf.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/adolescence-a-teenager-crime-unraveled"

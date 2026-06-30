@@ -3,7 +3,7 @@ title: "From Prompt to Product: How I Actually Build with AI"
 date: 2025-06-02
 description: "Using AI as a creative partner, not a decision-maker — and why clarity still leads the way."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6f29681d-944d-4c30-a54a-71b2953465e2_1536x1024.png"
+cover: "/assets/images/6f29681d-944d-4c30-a54a-71b2953465e2.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/from-prompt-to-product-how-i-actually"

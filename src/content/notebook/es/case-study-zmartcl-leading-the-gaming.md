@@ -3,7 +3,7 @@ title: "🎮 Caso de estudio: ZMART.cl, liderando la revolución del retail game
 date: 2025-06-05
 description: "Cómo un equipo compacto y una voz clara convirtieron a Zmart en el destino preferido de los gamers chilenos."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/68679b3b-bb4a-458d-8380-9d1c804bc49b_1280x720.png"
+cover: "/assets/images/68679b3b-bb4a-458d-8380-9d1c804bc49b.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/case-study-zmartcl-leading-the-gaming"
@@ -26,7 +26,7 @@ Necesitábamos:
 - Crear un tono e identidad únicos en atención al cliente y voz de marca
 - Competir con grandes retailers manteniéndonos ágiles
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/bf38a18c-326d-4d12-baa6-2ce0c45df0dc_1280x4200.png)](https://substackcdn.com/image/fetch/$s_!BsmQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf38a18c-326d-4d12-baa6-2ce0c45df0dc_1280x4200.png)
+[![](/assets/images/bf38a18c-326d-4d12-baa6-2ce0c45df0dc.png)](/assets/images/bf38a18c-326d-4d12-baa6-2ce0c45df0dc.png)
 
 ---
 
@@ -50,7 +50,7 @@ Lideré tanto el **equipo de diseño** como el **equipo de atención al cliente*
 - **Mayor engagement de seguidores** en el espacio del retail gamer de Chile
 - Certificados como **"Great Place to Work" 3 años seguidos**
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/403639df-f0e0-47ae-b290-a55cc447054e_1280x900.png)](https://substackcdn.com/image/fetch/$s_!c_DS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F403639df-f0e0-47ae-b290-a55cc447054e_1280x900.png)
+[![](/assets/images/403639df-f0e0-47ae-b290-a55cc447054e.png)](/assets/images/403639df-f0e0-47ae-b290-a55cc447054e.png)
 
 Sitio web móvil de ZMART.cl
 

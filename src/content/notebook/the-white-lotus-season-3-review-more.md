@@ -3,7 +3,7 @@ title: "The White Lotus Season 3' Review: More Mystery Than Meaning"
 date: 2025-04-11
 description: "While visually gorgeous with a killer score, the latest season struggles with underdeveloped plots and unsatisfying payoffs."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/e2c10f4b-8a56-42b1-980c-9438904697c6_3840x2160.png"
+cover: "/assets/images/e2c10f4b-8a56-42b1-980c-9438904697c6.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-white-lotus-season-3-review-more"

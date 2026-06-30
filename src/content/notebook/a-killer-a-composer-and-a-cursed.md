@@ -3,7 +3,7 @@ title: "A Killer, A Composer and a Cursed Hand."
 date: 2024-03-29
 description: "Also known as EVO.cl Film Report #2 of 2024.03.29"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/c8e7ed28-4413-4f99-baff-c80a2c95a8f3_1920x1080.png"
+cover: "/assets/images/c8e7ed28-4413-4f99-baff-c80a2c95a8f3.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/a-killer-a-composer-and-a-cursed"
@@ -21,7 +21,7 @@ David Fincher is one of my favourite directors because he draws inspiration from
 
 ---
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/810e38b1-ca0b-4c80-90fe-83f29c843004_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!QHj0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F810e38b1-ca0b-4c80-90fe-83f29c843004_1920x1080.png)
+[![](/assets/images/810e38b1-ca0b-4c80-90fe-83f29c843004.png)](/assets/images/810e38b1-ca0b-4c80-90fe-83f29c843004.png)
 
 # 🎬 Tár (2022) 🎼
 
@@ -33,7 +33,7 @@ Todd Field immerses us in the world of top-tier classical music, where Lydia Tá
 
 ---
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/b427dfe5-ef0e-40b8-9c5e-95b16142ffd1_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!3HE9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb427dfe5-ef0e-40b8-9c5e-95b16142ffd1_1920x1080.png)
+[![](/assets/images/b427dfe5-ef0e-40b8-9c5e-95b16142ffd1.png)](/assets/images/b427dfe5-ef0e-40b8-9c5e-95b16142ffd1.png)
 
 # 🎥Talk to me (2023)🫳
 

@@ -3,7 +3,7 @@ title: "Bobo: The End of a Good Cycle"
 date: 2025-12-02
 description: "We put Bobo to rest yesterday. It was a sad, yet necessary act that closes a long, kind, and at times, absurd chapter of life for my family and me."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/29744e88-ff2b-4609-b8b1-fcf1ee722547_1920x1080.png"
+cover: "/assets/images/29744e88-ff2b-4609-b8b1-fcf1ee722547.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/bobo-the-end-of-a-good-cycle"
@@ -19,7 +19,7 @@ One night, Lupita gently scratched at the door, seeking a safe place. Despite ou
 
 She had given birth alone, in the night, with no help other than, perhaps, the stupidity of my oversight. I felt an overwhelming guilt, an honest self-anger for being so obtuse and negligent toward the life unfolding right in front of me. I rushed to tell my parents, and we scrambled to care for the new family. Of the five, one did not survive, found alone beneath the tree where Lupita had desperately tried to protect him.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/4e5f868e-b6ac-483a-99c5-2caca90a0d27_1871x1031.png)](https://substackcdn.com/image/fetch/$s_!fUFN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e5f868e-b6ac-483a-99c5-2caca90a0d27_1871x1031.png)
+[![](/assets/images/4e5f868e-b6ac-483a-99c5-2caca90a0d27.png)](/assets/images/4e5f868e-b6ac-483a-99c5-2caca90a0d27.png)
 
 ### The Odd One Out
 
@@ -29,7 +29,7 @@ I named him “Bobo” in honor of *The Simpsons* episode where Mr. Burns franti
 
 Bobo grew up following Lupita everywhere. He was her enthusiastic and calm shadow—always ready for a walk, a game, or simply to accompany her. Their life together was one of continuous, cheerful companionship.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/855d5405-3297-471e-906a-0824bf9d86d0_1870x1031.png)](https://substackcdn.com/image/fetch/$s_!HVfv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F855d5405-3297-471e-906a-0824bf9d86d0_1870x1031.png)
+[![](/assets/images/855d5405-3297-471e-906a-0824bf9d86d0.png)](/assets/images/855d5405-3297-471e-906a-0824bf9d86d0.png)
 
 ### A New Chapter of Responsibility
 
@@ -37,7 +37,7 @@ Life changed over the years. My father passed away, my brother moved out, and ev
 
 After Lupita passed away at 19, effectively closing her chapter as “Lupita the Immortal,” Bobo’s life changed. He became quieter, slower, taking his walks and his life with a distinct stillness. I believe he became more melancholic, too, and was left to explore the yard he inherited at his own pace. He transitioned from being a cheerful enthusiast to a **good companion**, unwaveringly gentle and kind. I always referred to him as a “Good Hound,” and honestly, I have never known a dog so gentle.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/db26b4b2-daea-4b10-b762-71739dcf4f15_1871x1031.png)](https://substackcdn.com/image/fetch/$s_!mrbt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb26b4b2-daea-4b10-b762-71739dcf4f15_1871x1031.png)
+[![](/assets/images/db26b4b2-daea-4b10-b762-71739dcf4f15.png)](/assets/images/db26b4b2-daea-4b10-b762-71739dcf4f15.png)
 
 ### The Finality of Care
 

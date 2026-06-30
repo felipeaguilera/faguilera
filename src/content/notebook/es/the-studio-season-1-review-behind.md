@@ -3,7 +3,7 @@ title: "Reseña de The Studio Temporada 1: detrás del caos, absurdo, cameos y v
 date: 2025-05-23
 description: "La sátira de Seth Rogen explora la insanidad de hacer películas modernas con humor, energía y justo la dosis de corazón necesaria."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/1e1d94ce-96e7-4f1e-a381-4869ea914926_3840x2160.png"
+cover: "/assets/images/1e1d94ce-96e7-4f1e-a381-4869ea914926.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-studio-season-1-review-behind"

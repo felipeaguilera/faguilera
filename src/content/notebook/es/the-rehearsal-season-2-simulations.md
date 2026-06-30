@@ -3,7 +3,7 @@ title: "'The Rehearsal' Temporada 2: Simulaciones, desastres a√©reos y la ilusi√
 date: 2025-06-06
 description: "Nathan Fielder convierte el fracaso humano en teatro experimental, y de alguna manera, funciona."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/07cc9945-76e4-48ab-96f5-ebc1b6acee65_3840x2160.png"
+cover: "/assets/images/07cc9945-76e4-48ab-96f5-ebc1b6acee65.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-rehearsal-season-2-simulations"

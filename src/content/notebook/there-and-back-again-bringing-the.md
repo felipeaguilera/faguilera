@@ -3,7 +3,7 @@ title: "There and back again: Bringing the Adventurer Wisdom back to the Shire."
 date: 2026-01-09
 description: "Beyond Smaug: Why the most valuable consulting breakthroughs are the ones we bring home to our daily \"Shire."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/b216355b-38b0-4de2-8501-8e18df4df8a0_2400x1350.png"
+cover: "/assets/images/b216355b-38b0-4de2-8501-8e18df4df8a0.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/there-and-back-again-bringing-the"

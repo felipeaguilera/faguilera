@@ -3,7 +3,7 @@ title: "\"Sinners\": un drama cultural perfecto atrapado en una película de acc
 date: 2026-01-30
 description: "Ryan Coogler construye una obra maestra de atmósfera y personajes, solo para enterrarla bajo una guerra de vampiros genérica."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/bd24a617-ff9c-4b99-b13d-a0fdc239da44_3840x2160.png"
+cover: "/assets/images/bd24a617-ff9c-4b99-b13d-a0fdc239da44.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/sinners-review-a-marvel-of-cultural"
@@ -27,7 +27,7 @@ En Sinners, Ryan Coogler nos lleva al Mississippi de los años treinta para cont
 
 **La distracción vampírica.** Me quedé preguntando si esta película realmente necesitaba el elemento sobrenatural. El escenario, los personajes y el conflicto histórico eran suficientemente fuertes para sostener un drama de 10/10. Los vampiros, aunque interesantes en concepto, terminan pareciendo una distracción que baja el techo de lo que esta historia podría haber sido.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/0017b5b9-f8b7-4fed-9ceb-4c68468ba338_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!bX2L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0017b5b9-f8b7-4fed-9ceb-4c68468ba338_3840x2160.png)
+[![](/assets/images/0017b5b9-f8b7-4fed-9ceb-4c68468ba338.png)](/assets/images/0017b5b9-f8b7-4fed-9ceb-4c68468ba338.png)
 
 # Mi lectura
 

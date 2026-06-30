@@ -3,7 +3,7 @@ title: "Black Mirror: 'Eulogy': una mirada a la memoria, el arrepentimiento y un
 date: 2025-05-02
 description: "Un episodio tranquilo de Black Mirror sobre el duelo, la memoria y la complicada belleza de mirar atrás."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/0749a4b0-1b21-4ddd-86b7-70c4eb4c81d0_2400x1350.png"
+cover: "/assets/images/0749a4b0-1b21-4ddd-86b7-70c4eb4c81d0.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/black-mirror-eulogy-a-look-into-memory"

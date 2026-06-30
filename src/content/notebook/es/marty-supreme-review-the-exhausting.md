@@ -3,7 +3,7 @@ title: "\"Marty Supreme\": el agotador y brillante costo de creer en uno mismo"
 date: 2026-02-27
 description: "Josh Safdie toma una historia que nadie pidió y la convierte en una de las películas más intensas del año."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2d045f17-dbf0-4e1b-910e-8f727d84b935_3840x2160.png"
+cover: "/assets/images/2d045f17-dbf0-4e1b-910e-8f727d84b935.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/marty-supreme-review-the-exhausting"
@@ -43,7 +43,7 @@ No creo que recordemos esta película como recordamos Uncut Gems. No tiene el ho
 
 ***Recomendación:** Entra sabiendo que es una película de Safdie, no una película de deportes.*
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/e5ee7ad3-c583-40fd-b100-94c4cf9b8768_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!-0et!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5ee7ad3-c583-40fd-b100-94c4cf9b8768_1920x1080.png)
+[![](/assets/images/e5ee7ad3-c583-40fd-b100-94c4cf9b8768.png)](/assets/images/e5ee7ad3-c583-40fd-b100-94c4cf9b8768.png)
 
 # Para la conversación
 

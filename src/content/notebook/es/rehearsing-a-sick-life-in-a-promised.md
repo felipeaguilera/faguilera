@@ -3,7 +3,7 @@ title: "Ensayando una vida enferma en una tierra prometida"
 date: 2024-05-17
 description: "Esta semana el foco está en tres producciones: la película danesa \"La tierra prometida\", la comedia sueca \"Sick of Myself\" y la miniserie de Nathan Fielder \"The Rehearsal\". Las tres comparten un tema común."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2bd64691-eea2-46f9-9d28-0d3e4072efc2_1920x1080.jpeg"
+cover: "/assets/images/2bd64691-eea2-46f9-9d28-0d3e4072efc2.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/rehearsing-a-sick-life-in-a-promised"
@@ -25,7 +25,7 @@ Su lucha se desarrolla contra un telón de fondo de paisajes épicos y cinematog
 
 # 🎥 Sick of Myself (2022) 💊💀
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/7cad612e-9f8d-451d-9029-4b3c3f6737c5_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!9tdh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cad612e-9f8d-451d-9029-4b3c3f6737c5_1920x1080.jpeg)
+[![](/assets/images/7cad612e-9f8d-451d-9029-4b3c3f6737c5.jpg)](/assets/images/7cad612e-9f8d-451d-9029-4b3c3f6737c5.jpg)
 
 Sick of Myself es una comedia negra noruega que sigue a Signe, una joven que, frustrada por su novio Thomas, un artista novato e inmaduro, se induce una grave enfermedad crónica consumiendo un medicamento cuestionable en grandes cantidades. El propósito es claro: ganarse la simpatía y la admiración de su entorno gracias a su adversa situación de salud.
 
@@ -39,7 +39,7 @@ Con numerosas críticas a la cultura de la victimización, el narcisismo y la ob
 
 # 🎥 The Rehearsal (2020) 🎭🏠
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/4d819148-b411-4ac1-8e0e-c4a632ece4fe_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!ZsZs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d819148-b411-4ac1-8e0e-c4a632ece4fe_1920x1080.jpeg)
+[![](/assets/images/4d819148-b411-4ac1-8e0e-c4a632ece4fe.jpg)](/assets/images/4d819148-b411-4ac1-8e0e-c4a632ece4fe.jpg)
 
 Nathan Fielder, a quien conocí a través de "The Curse" (más sobre eso pronto), protagoniza esta docu-comedia que explora el concepto de los ensayos para evitar los errores e incertidumbres de situaciones difíciles de la vida. En seis episodios de una hora, Nathan ayuda a personajes con "Ensayos" que llevan el concepto de crear una realidad falsa a un nivel absurdo, hilarante y a menudo perturbador.
 

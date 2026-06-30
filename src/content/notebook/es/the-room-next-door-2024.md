@@ -3,7 +3,7 @@ title: "La habitación de al lado (2024)"
 date: 2024-12-16
 description: "\"La habitación de al lado\" de Pedro Almodóvar aborda el fin de la vida y la autodeterminación. A pesar de sus protagonistas estelares, la película carece de la chispa audaz que alguna vez definió su obra."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4f3d4715-1fa7-4043-aa3d-6bc5747f76e2_3840x2160.jpeg"
+cover: "/assets/images/4f3d4715-1fa7-4043-aa3d-6bc5747f76e2.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-room-next-door-2024"
@@ -62,6 +62,6 @@ En los últimos años, un par de directores legendarios han entregado películas
 
 <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/FLHSOFsZICk?rel=0&autoplay=0&showinfo=0&enablejsapi=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/8400d69d-3d27-4eb3-831c-ed177f9eb2e6_1365x2048.jpeg)](https://substackcdn.com/image/fetch/$s_!Qjm8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8400d69d-3d27-4eb3-831c-ed177f9eb2e6_1365x2048.jpeg)
+[![](/assets/images/8400d69d-3d27-4eb3-831c-ed177f9eb2e6.jpg)](/assets/images/8400d69d-3d27-4eb3-831c-ed177f9eb2e6.jpg)
 
 ---

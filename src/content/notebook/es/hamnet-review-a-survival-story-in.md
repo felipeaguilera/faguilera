@@ -3,7 +3,7 @@ title: "\"Hamnet\": una historia de supervivencia a la sombra de Shakespeare"
 date: 2026-02-06
 description: "Una película que usa el nombre de Shakespeare para captar atención, pero que en la intimidad de la pantalla muestra una historia más poderosa: la resistencia de una madre."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6a5a413b-2d73-43f6-ac59-3d3d648504f8_3840x2160.png"
+cover: "/assets/images/6a5a413b-2d73-43f6-ac59-3d3d648504f8.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/hamnet-review-a-survival-story-in"
@@ -43,7 +43,7 @@ La etiqueta vende el arte, pero la verdad está en la lucha. Vivimos en una era 
 
 ¿Hubieras visto esta película si simplemente se llamara Agnes y no tuviera conexión con Shakespeare? ¿Siempre necesita el arte un "gancho famoso" para sobrevivir en el mercado moderno?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/2ec31104-27e7-401c-8d64-e8fb0beb8868_2500x1406.png)](https://substackcdn.com/image/fetch/$s_!qXhN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ec31104-27e7-401c-8d64-e8fb0beb8868_2500x1406.png)
+[![](/assets/images/2ec31104-27e7-401c-8d64-e8fb0beb8868.png)](/assets/images/2ec31104-27e7-401c-8d64-e8fb0beb8868.png)
 
 # Películas relacionadas
 

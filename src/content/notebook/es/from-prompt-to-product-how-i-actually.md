@@ -3,7 +3,7 @@ title: "Del prompt al producto: cómo construyo realmente con IA"
 date: 2025-06-02
 description: "Usar la IA como socio creativo, no como tomador de decisiones. Y por qué la claridad sigue siendo lo primero."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6f29681d-944d-4c30-a54a-71b2953465e2_1536x1024.png"
+cover: "/assets/images/6f29681d-944d-4c30-a54a-71b2953465e2.png"
 lang: es
 draft: true
 substackUrl: "https://felipeaguilera.substack.com/p/from-prompt-to-product-how-i-actually"

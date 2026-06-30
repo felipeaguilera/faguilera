@@ -3,7 +3,7 @@ title: "\"One Battle After Another\": la energía cinética de la confianza pura
 date: 2026-01-16
 description: "Un despliegue implacable de ritmo, sonido y el arte de la 'experiencia cinematográfica' que solo un director en quien se confía puede entregar."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/242f4c62-9abd-4d8d-bc2f-7c8c346f23c2_3840x2160.png"
+cover: "/assets/images/242f4c62-9abd-4d8d-bc2f-7c8c346f23c2.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/one-battle-after-another-review-the"

@@ -3,7 +3,7 @@ title: "Los puentes americanos de Saltburn."
 date: 2024-04-13
 description: "También conocido como EVO.cl Film Report #4 de 2024.04.12"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/5e80be37-f85b-4467-861e-8880edd389d1_1920x1080.png"
+cover: "/assets/images/5e80be37-f85b-4467-861e-8880edd389d1.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-american-bridges-of-saltburn"
@@ -25,7 +25,7 @@ Thelonius "Monk" Ellison, un escritor afroamericano culto, ha enfrentado el rech
 
 # 🎬 Saltburn (2023)
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/1b6f5142-047f-4651-85bd-429ed0cbd9e8_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!I4ZF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b6f5142-047f-4651-85bd-429ed0cbd9e8_1920x1080.png)
+[![](/assets/images/1b6f5142-047f-4651-85bd-429ed0cbd9e8.png)](/assets/images/1b6f5142-047f-4651-85bd-429ed0cbd9e8.png)
 
 Emerald Fennell, conocida por su trabajo en "Promising Young Woman", nos trae este film de suspenso. Profundiza en la infiltración y obsesión de Oliver, un estudiante de Oxford, en la vida de Félix Catton y su aristocrática familia inglesa. Bajo las capas de traición, pasión y una red de engaños hay una historia de identidad sexual, clase y privilegio. Desafortunadamente, a pesar de su cinematografía brillante, la película se esfuerza por ser irreverente, vanguardista y disruptiva, priorizando estos aspectos por encima del desarrollo de personajes y un buen guión. El resultado cae plano, sin profundidad ni sofisticación. Me deja la impresión de intentar ser una versión moderna de "El talentoso Mr. Ripley" (Anthony Minghella, 1999), pero sin el talento genuino ni el verdadero desarrollo de una buena película.
 
@@ -37,7 +37,7 @@ Emerald Fennell, conocida por su trabajo en "Promising Young Woman", nos trae es
 
 # 🎬 Los Puentes de Madison County (1995) 🌹🎥
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/69bd01fe-370e-4482-b29c-257b55c3ef3e_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!To7W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69bd01fe-370e-4482-b29c-257b55c3ef3e_1920x1080.png)
+[![](/assets/images/69bd01fe-370e-4482-b29c-257b55c3ef3e.png)](/assets/images/69bd01fe-370e-4482-b29c-257b55c3ef3e.png)
 
 Una conversación reciente me inspiró a revisitar esta película de 1995 protagonizada por Clint Eastwood y Meryl Streep, quien entregó una actuación excepcional en el film. Es, sin duda, una de las películas más románticas de los años noventa. Es una historia de amor intensa y poderosa que se desarrolla durante una visita de cuatro días a un pequeño pueblo americano. El romance es tanto desgarrador como cautivador, y reflexionar sobre su pasado y futuro se convierte en una realidad dolorosa.
 

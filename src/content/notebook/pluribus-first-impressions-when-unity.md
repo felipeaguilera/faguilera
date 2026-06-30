@@ -3,7 +3,7 @@ title: "“Pluribus” First Impressions: When Unity Becomes the Enemy"
 date: 2025-11-19
 description: "What Vince Gilligan’s slowest show yet says about AI, speed, and what we lose when everyone agrees."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/b1602b00-2439-427e-ade9-b62d83c2d05f_3840x2160.png"
+cover: "/assets/images/b1602b00-2439-427e-ade9-b62d83c2d05f.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/pluribus-first-impressions-when-unity"
@@ -41,7 +41,7 @@ I think Gilligan is saying the mess is the point. That struggle, disagreement, a
 
 In a world that rewards speed and consensus, what makes something worth the time it demands? And if we’re moving toward tools that deliver instant satisfaction, what happens to the art that asks you to wait?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/cd66863d-5c7a-4342-a0e8-54730aedfee8_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!T8A-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd66863d-5c7a-4342-a0e8-54730aedfee8_3840x2160.png)
+[![](/assets/images/cd66863d-5c7a-4342-a0e8-54730aedfee8.png)](/assets/images/cd66863d-5c7a-4342-a0e8-54730aedfee8.png)
 
 ## **Related Works**
 

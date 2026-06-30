@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import { netlifyImg, netlifyImgSrcset } from '../../utils/images.js';
 
 export async function getStaticPaths() {
   const articles = await getCollection('notebook', ({ data }) => !data.draft && data.lang === 'en');
@@ -55,7 +56,14 @@ const hasEs = esArticles.some(a => a.slug === `es/${article.slug}`);
 
   {article.data.cover && (
     <div class="article-hero-wrap">
-      <img src={article.data.cover} alt={article.data.title} />
+      <img
+        src={netlifyImg(article.data.cover, { w: 1280 })}
+        srcset={netlifyImgSrcset(article.data.cover, [640, 960, 1280, 1920, 2560])}
+        sizes="(max-width: 1280px) 100vw, 1280px"
+        alt={article.data.title}
+        loading="eager"
+        fetchpriority="high"
+      />
     </div>
   )}
 

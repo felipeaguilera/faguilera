@@ -3,7 +3,7 @@ title: "Becoming the Burglar: What Bilbo Baggins is Teaching Me About Scrappy Co
 date: 2026-01-02
 description: "Why my greatest asset isn't a 20-year plan, but the courage to run out the door without a handkerchief."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/c0a81e38-4fdb-4174-b44c-3d3aca970ac0_2400x1350.png"
+cover: "/assets/images/c0a81e38-4fdb-4174-b44c-3d3aca970ac0.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/becoming-the-burglar-what-bilbo-baggins"

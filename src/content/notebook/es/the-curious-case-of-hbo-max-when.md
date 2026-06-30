@@ -3,7 +3,7 @@ title: "El curioso caso de HBO Max: cuando una marca es demasiado poderosa para 
 date: 2025-05-14
 description: "Lo que la saga del rebranding de HBO Max revela sobre el valor de marca, la confianza del público y los errores estratégicos en la era del streaming."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/8bab99cc-eba4-47fe-9643-84ac8de4fe34_1536x1024.png"
+cover: "/assets/images/8bab99cc-eba4-47fe-9643-84ac8de4fe34.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-curious-case-of-hbo-max-when"

@@ -3,7 +3,7 @@ title: "‘Wicked’ and 'Wicked:For Good'. When Explaining the Magic Kills the 
 date: 2025-12-05
 description: "A dazzling musical that eventually suffocates under the weight of its own lore."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/cd8a2300-f1e2-4455-bef2-8dcd94049ddd_3840x2160.jpeg"
+cover: "/assets/images/cd8a2300-f1e2-4455-bef2-8dcd94049ddd.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/wicked-and-wickedfor-good-when-explaining"
@@ -37,7 +37,7 @@ We see this often in modern franchises: the belief that the audience cares more 
 
 ## A visually stunning musical that forgets that its greatest strength was its joy, not its connection to Dorothy.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/be8a07b2-f378-4385-9bbc-8985188e7394_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!9zMa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe8a07b2-f378-4385-9bbc-8985188e7394_3840x2160.png)
+[![](/assets/images/be8a07b2-f378-4385-9bbc-8985188e7394.png)](/assets/images/be8a07b2-f378-4385-9bbc-8985188e7394.png)
 
 ## **For Discussion**
 

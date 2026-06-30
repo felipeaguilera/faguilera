@@ -3,7 +3,7 @@ title: "David Lynch "
 date: 2025-01-31
 description: "The Unsettling Beauty of Life"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/51a5c2d4-b71f-43ed-9e5c-f7f5c81f2892_2560x1509.jpeg"
+cover: "/assets/images/51a5c2d4-b71f-43ed-9e5c-f7f5c81f2892.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/david-lynch"
@@ -64,6 +64,6 @@ Twin Peaks: The Return (2017) - TV Series - Co-created with Mark Frost
 
 ---
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/f54170fb-5fdb-4781-b3f1-13fcce065649_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!bwjq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff54170fb-5fdb-4781-b3f1-13fcce065649_1920x1080.jpeg)
+[![](/assets/images/f54170fb-5fdb-4781-b3f1-13fcce065649.jpg)](/assets/images/f54170fb-5fdb-4781-b3f1-13fcce065649.jpg)
 
 ---

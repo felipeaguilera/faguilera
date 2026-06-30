@@ -3,7 +3,7 @@ title: "Reseña de 'The Brutalist': construir un sueño, ladrillo a ladrillo"
 date: 2025-03-07
 description: "Un testimonio tremendo de los sueños humanos en un mundo de concreto implacable."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6c2d6445-51d0-4771-aae9-748562690843_3840x2160.jpeg"
+cover: "/assets/images/6c2d6445-51d0-4771-aae9-748562690843.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-brutalist"

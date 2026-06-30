@@ -3,7 +3,7 @@ title: "Conclave"
 date: 2025-02-07
 description: "Una experiencia tensa dentro del Vaticano, pero con una mezcla de aciertos y errores."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/06e5d406-e66c-4704-8e69-d71a309b51ab_2000x1125.jpeg"
+cover: "/assets/images/06e5d406-e66c-4704-8e69-d71a309b51ab.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/conclave"

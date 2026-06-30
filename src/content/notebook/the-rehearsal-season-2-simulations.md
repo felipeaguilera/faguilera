@@ -3,7 +3,7 @@ title: "The Rehearsal' Season 2: Simulations, Flight Disasters, and the Illusion
 date: 2025-06-06
 description: "Nathan Fielder turns human failure into experimental theater, and somehow, it works."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/07cc9945-76e4-48ab-96f5-ebc1b6acee65_3840x2160.png"
+cover: "/assets/images/07cc9945-76e4-48ab-96f5-ebc1b6acee65.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-rehearsal-season-2-simulations"

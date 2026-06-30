@@ -3,7 +3,7 @@ title: "Grave of the Fireflies\" Review: The war has no villains, only victims"
 date: 2026-03-06
 description: "A 1988 Studio Ghibli movie that refuses to romanticize war, and is more devastating for it."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6f6784c3-114d-4444-bef6-3b1867f12a32_3840x2160.png"
+cover: "/assets/images/6f6784c3-114d-4444-bef6-3b1867f12a32.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/grave-of-the-fireflies-review-the"
@@ -17,7 +17,7 @@ The film is set in Kobe, 1945, during the American firebombing campaigns that sw
 
 The story centers on Seita, a fourteen-year-old boy, and his four-year-old sister Setsuko, who lose their mother in one of the early attacks. Their father is serving in the Navy and unreachable. Taken in by an aunt who grows increasingly resentful of the children’s inability to contribute, the siblings eventually strike out on their own, finding shelter in an abandoned cave near a lake. What follows is a 90-minute descent that is impossible to stop and equally impossible to shake when is over.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/ac8315ac-98b6-4128-bba1-319e90a00d00_2560x1440.png)](https://substackcdn.com/image/fetch/$s_!ZXYJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac8315ac-98b6-4128-bba1-319e90a00d00_2560x1440.png)
+[![](/assets/images/ac8315ac-98b6-4128-bba1-319e90a00d00.png)](/assets/images/ac8315ac-98b6-4128-bba1-319e90a00d00.png)
 
 # **What I liked**
 
@@ -55,7 +55,7 @@ I came away from this film thinking about what it means to appreciate what you h
 
 The film suggests that a society built on collective duty and contribution can still fail the most vulnerable individuals within it. Japan rebuilt itself from this period into one of the most functional societies on earth. Does that recovery change how you read the tragedy at the center of this story, or does it make it harder to dismiss?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/74018a47-a98a-4206-93ec-70497887bb14_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!tlZG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74018a47-a98a-4206-93ec-70497887bb14_1920x1080.png)
+[![](/assets/images/74018a47-a98a-4206-93ec-70497887bb14.png)](/assets/images/74018a47-a98a-4206-93ec-70497887bb14.png)
 
 ---
 

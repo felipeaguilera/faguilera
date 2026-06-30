@@ -3,7 +3,7 @@ title: "The Brutalist' Review: Building a Dream, Brick by Brick"
 date: 2025-03-07
 description: "A tremendous testament to human dreams in a harsh concrete world."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6c2d6445-51d0-4771-aae9-748562690843_3840x2160.jpeg"
+cover: "/assets/images/6c2d6445-51d0-4771-aae9-748562690843.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-brutalist"

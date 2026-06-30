@@ -3,7 +3,7 @@ title: "Mi Factoría' From Functional Store to Family-Friendly Brand"
 date: 2025-07-16
 description: "How I redesigned a Shopify site to better connect with curious kids and practical parents."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/1caba8c1-3050-435c-b323-f3edcdd5e3eb_1920x1080.png"
+cover: "/assets/images/1caba8c1-3050-435c-b323-f3edcdd5e3eb.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/mi-factoria-from-functional-store"
@@ -13,7 +13,7 @@ substackUrl: "https://felipeaguilera.substack.com/p/mi-factoria-from-functional-
 
 > [MiFactoría.cl](http://www.mifactoria.cl) is an e-commerce project run by Ignacio León, offering educational and creative toys for kids - with the goal of encouraging parents and children to play, explore, and learn together. The original Shopify store worked, but lacked visual consistency, intuitive structure, and the emotional warmth that defines the brand. First impressions felt generic, and the product discovery wasn’t as smooth as it could be.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/ca2d93b4-4b84-4043-bb28-9ae92ffab633_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!K6qx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca2d93b4-4b84-4043-bb28-9ae92ffab633_1920x1080.png)
+[![](/assets/images/ca2d93b4-4b84-4043-bb28-9ae92ffab633.png)](/assets/images/ca2d93b4-4b84-4043-bb28-9ae92ffab633.png)
 
 E-commerce Mi Factoria homepage Before & After
 
@@ -30,19 +30,19 @@ My role was to guide and implement a complete visual and structural refresh - wi
 
 *This was done in an iterative, fast-paced way — making value visible from day one.*
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/524d6536-579d-4ab0-8aa2-28c62b82b8d7_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!U4UB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F524d6536-579d-4ab0-8aa2-28c62b82b8d7_1920x1080.png)
+[![](/assets/images/524d6536-579d-4ab0-8aa2-28c62b82b8d7.png)](/assets/images/524d6536-579d-4ab0-8aa2-28c62b82b8d7.png)
 
 Mi Factoria Brand Kit Express: Typography
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/168b5c40-9b5e-4ddf-b605-beeb45bb0a6f_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!2ftV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F168b5c40-9b5e-4ddf-b605-beeb45bb0a6f_1920x1080.png)
+[![](/assets/images/168b5c40-9b5e-4ddf-b605-beeb45bb0a6f.png)](/assets/images/168b5c40-9b5e-4ddf-b605-beeb45bb0a6f.png)
 
 Mi Factoria Brand Kit Express: Color Palette
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/aa3ee2c1-d7b0-486d-8918-3802596b9160_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!oFLZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa3ee2c1-d7b0-486d-8918-3802596b9160_1920x1080.png)
+[![](/assets/images/aa3ee2c1-d7b0-486d-8918-3802596b9160.png)](/assets/images/aa3ee2c1-d7b0-486d-8918-3802596b9160.png)
 
 Mi Factoría Brand Kit Express: New Logo
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/6f4a7752-1dcd-4d0f-b1d3-3a57aa7d3902_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!v5j0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f4a7752-1dcd-4d0f-b1d3-3a57aa7d3902_1920x1080.png)
+[![](/assets/images/6f4a7752-1dcd-4d0f-b1d3-3a57aa7d3902.png)](/assets/images/6f4a7752-1dcd-4d0f-b1d3-3a57aa7d3902.png)
 
 Mi Factoría Brand Kit Express: Logo Variations and Applications
 
@@ -55,7 +55,7 @@ Mi Factoría Brand Kit Express: Logo Variations and Applications
 
 “Customers now stay longer and explore more - especially from mobile.”
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/96ef6716-56ae-49a2-a79d-f1ec72386df8_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!gXve!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96ef6716-56ae-49a2-a79d-f1ec72386df8_1920x1080.png)
+[![](/assets/images/96ef6716-56ae-49a2-a79d-f1ec72386df8.png)](/assets/images/96ef6716-56ae-49a2-a79d-f1ec72386df8.png)
 
 New ways to show the mix of content of the site. All around the entertainment, education and having fun in the family.
 
@@ -65,7 +65,7 @@ Shopify can be surprisingly powerful — but visually rigid unless you dig into 
 
 ---
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/9849486f-9540-4c0b-80a8-63353e2e957a_1080x1080.png)](https://substackcdn.com/image/fetch/$s_!rIHC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9849486f-9540-4c0b-80a8-63353e2e957a_1080x1080.png)
+[![](/assets/images/9849486f-9540-4c0b-80a8-63353e2e957a.png)](/assets/images/9849486f-9540-4c0b-80a8-63353e2e957a.png)
 
 ### 
 

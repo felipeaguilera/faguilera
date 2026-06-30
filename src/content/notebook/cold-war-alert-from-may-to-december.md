@@ -3,7 +3,7 @@ title: "Cold War alert: From May to December, People just love the Stalking of R
 date: 2024-05-24
 description: "This week reviews are all about unconventional and somewhat uncomfortable relationships. And with May December, Baby Reindeer and Cold War I have experienced a lot of that remarkable thing humans do."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/0a71eb91-eb48-4314-9657-a83d5246a6b4_1920x1080.jpeg"
+cover: "/assets/images/0a71eb91-eb48-4314-9657-a83d5246a6b4.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/cold-war-alert-from-may-to-december"
@@ -25,7 +25,7 @@ Todd Haynes leaves us with an experience that, although difficult to fully compr
 
 # 📺Baby Reindeer (2024) 🦌👁️
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/1dc5a538-f18a-42b3-8829-885310613f77_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!1lST!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dc5a538-f18a-42b3-8829-885310613f77_1920x1080.jpeg)
+[![](/assets/images/1dc5a538-f18a-42b3-8829-885310613f77.jpg)](/assets/images/1dc5a538-f18a-42b3-8829-885310613f77.jpg)
 
 After resisting for weeks the wave of recommendations and comments, I succumbed to Baby Reindeer, the "trendy" Netflix series. After watching the 7 episodes of this adventure set in Scotland and London, the main dynamic of this series is the unhealthy stalking relationship between Donny, a failed comedian who works in a cafe, and Martha, a seemingly nice woman with serious problems, who, after a kind offer of a free cup of coffee, turns Donny into her main human being and constant obsession.
 
@@ -41,7 +41,7 @@ I understand the social issue it raises and why the series has given so much to 
 
 # **🎥** Cold War (2018)💔🎶
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/13fa14ad-63c2-43db-a246-a058aa3090d6_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!amfY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13fa14ad-63c2-43db-a246-a058aa3090d6_1920x1080.jpeg)
+[![](/assets/images/13fa14ad-63c2-43db-a246-a058aa3090d6.jpg)](/assets/images/13fa14ad-63c2-43db-a246-a058aa3090d6.jpg)
 
 A fascinating Polish film set in the late 1940s to early 1960s, where we follow the lives of Wiktor, a music director, and Zula, a young singer he discovers during a series of government-funded European folk music auditions.
 

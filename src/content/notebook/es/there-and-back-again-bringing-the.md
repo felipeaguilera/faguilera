@@ -3,7 +3,7 @@ title: "Allá y de vuelta: traer la sabiduría del aventurero de regreso a la Co
 date: 2026-01-09
 description: "Más allá de Smaug: por qué los avances más valiosos de la consultoría son los que llevamos de vuelta a nuestra \"Comarca\" cotidiana."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/b216355b-38b0-4de2-8501-8e18df4df8a0_2400x1350.png"
+cover: "/assets/images/b216355b-38b0-4de2-8501-8e18df4df8a0.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/there-and-back-again-bringing-the"

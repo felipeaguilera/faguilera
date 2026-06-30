@@ -3,7 +3,7 @@ title: "📢 Una pequeña nota sobre lo que viene"
 date: 2025-04-26
 description: "Expandiendo esta publicación hacia comunicación, diseño, productividad y reflexiones digitales."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/cd3f60f4-18c1-4902-9fbe-d708f7950110_1536x1024.png"
+cover: "/assets/images/cd3f60f4-18c1-4902-9fbe-d708f7950110.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/a-small-note-about-whats-next"

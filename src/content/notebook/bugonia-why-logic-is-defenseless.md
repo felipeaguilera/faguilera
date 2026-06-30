@@ -3,7 +3,7 @@ title: "Bugonia': Why Logic is Defenseless Against a Fanatic Mind."
 date: 2026-01-23
 description: "Yorgos Lanthimos returns to prove that ignorance is the most dangerous thing in the world. Especially when it has a plan."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4dfebd82-90ed-4221-b36a-46cb7d8a00e1_3840x2160.png"
+cover: "/assets/images/4dfebd82-90ed-4221-b36a-46cb7d8a00e1.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/bugonia-why-logic-is-defenseless"

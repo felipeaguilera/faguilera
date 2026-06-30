@@ -3,7 +3,7 @@ title: "Tolkien y \"Acertijos en la oscuridad\": las \"notas de parche\" de 20 a
 date: 2025-12-24
 description: "Cómo la evolución de la Tierra Media demuestra que no existe una \"edición final\" en la vida ni en los negocios."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/7b50b6df-ea95-4a75-8e2f-8e1b8946e8fe_2419x1350.png"
+cover: "/assets/images/7b50b6df-ea95-4a75-8e2f-8e1b8946e8fe.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/tolkien-and-riddles-in-the-dark-the"

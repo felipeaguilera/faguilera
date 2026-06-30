@@ -3,7 +3,7 @@ title: "Anora: una danza de tensión pura"
 date: 2025-03-14
 description: "Una protagonista magnética navegando una historia de giros impredecibles. Un retrato fantástico de intensidad acumulada y realismo."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4420228f-eab7-45db-82f2-d5f6638a0eb9_3840x2160.jpeg"
+cover: "/assets/images/4420228f-eab7-45db-82f2-d5f6638a0eb9.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/anora-a-dance-of-raw-tension"

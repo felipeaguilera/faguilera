@@ -3,7 +3,7 @@ title: "\"El agente secreto\": sobrevivir una sociedad rota"
 date: 2026-02-20
 description: "Un drama político tenso sobre esconderse a plena vista durante la dictadura brasileña."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/89be5880-febc-4084-bbb7-35950ec365e9_3840x2160.png"
+cover: "/assets/images/89be5880-febc-4084-bbb7-35950ec365e9.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-secret-agent-review-surviving"
@@ -47,7 +47,7 @@ Parece imposible separar el cine latinoamericano del trauma político. ¿Por qu�
 
 ¿Y cuán fundamental es entender la historia política específica de un país para captar el peso emocional de una película como esta? ¿Puede un espectador sin conocimiento del Brasil de los setenta apreciar verdaderamente lo que está en juego?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/3313da35-13e1-427e-9caf-08a920b26011_3200x1800.png)](https://substackcdn.com/image/fetch/$s_!5GLm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3313da35-13e1-427e-9caf-08a920b26011_3200x1800.png)
+[![](/assets/images/3313da35-13e1-427e-9caf-08a920b26011.png)](/assets/images/3313da35-13e1-427e-9caf-08a920b26011.png)
 
 # Películas relacionadas
 

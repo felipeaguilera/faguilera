@@ -3,7 +3,7 @@ title: "Reseña de 'Casablanca' (1942): el mito, la memoria y el romance revisit
 date: 2025-04-25
 description: "Una de las historias de amor más icónicas del cine me recordó cómo el tiempo cambia tanto la percepción como el impacto."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/a4f45a87-55ef-461a-87a8-97b938acfe01_3840x2157.png"
+cover: "/assets/images/a4f45a87-55ef-461a-87a8-97b938acfe01.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/casablanca-1942-review-the-myth-the"

@@ -3,7 +3,7 @@ title: "El caso de Bridget Jones vs. Shogun, 1985."
 date: 2024-05-04
 description: "El reporte de esta semana es todo historia. Una épica saga oriental renacida, un momento intenso y trascendental en Argentina y, por último pero no menos importante, cuando Bridget Jones empezó su diario en Londres."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6284d5fe-afe3-44de-8a8a-01a2a1e2730b_1920x1080.png"
+cover: "/assets/images/6284d5fe-afe3-44de-8a8a-01a2a1e2730b.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-case-of-bridget-jones-vs-shogun"
@@ -27,7 +27,7 @@ Shogun tiene el nivel de producción, la intensidad bélica y un guión cuidados
 
 # 🎥 Argentina, 1985 (2022) ⚖️🇦🇷
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/efa4c319-f5fe-4a67-be8e-6898d3675015_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!BSHr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefa4c319-f5fe-4a67-be8e-6898d3675015_1920x1080.png)
+[![](/assets/images/efa4c319-f5fe-4a67-be8e-6898d3675015.png)](/assets/images/efa4c319-f5fe-4a67-be8e-6898d3675015.png)
 
 Me fascinan los "Dramas de Sala de Tribunal", pero este también es un relato histórico sobre la primera vez que la justicia civil argentina acusó a exmilitares involucrados en abusos durante la dictadura. Con Ricardo Darín como Julio Strassera y Peter Lanzani como Luis Moreno Ocampo, la película muestra cómo el joven equipo legal enfrentó este desafío, transportándonos a la crudeza, intensidad e importancia histórica de este momento en la historia argentina.
 
@@ -41,7 +41,7 @@ Es un viaje fascinante hacia un pasado latinoamericano no tan lejano, donde conc
 
 # 🎥 El diario de Bridget Jones (2001) 📙💞
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/b2d2108a-c3b2-45f6-ac40-502f7a95ad69_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!FC3f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2d2108a-c3b2-45f6-ac40-502f7a95ad69_1920x1080.png)
+[![](/assets/images/b2d2108a-c3b2-45f6-ac40-502f7a95ad69.png)](/assets/images/b2d2108a-c3b2-45f6-ac40-502f7a95ad69.png)
 
 Apenas recordaba nada de esta icónica comedia romántica de principios de los 2000. Ambientada en Londres, con situaciones hilarantes y una sensación que ahora disfruto con cierta ternura, en un mundo donde la comedia, el romance y las sonrisas, creo, eran más sutiles pero reconfortantes.
 

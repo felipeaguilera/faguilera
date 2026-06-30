@@ -3,7 +3,7 @@ title: "Jay Kelly' Review: The Fragile Ecosystem of a Hollywood Star"
 date: 2025-12-12
 description: "A mature and clever exposition on the people who try to edit a life that refuses to be scripted."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/ab267906-983f-4de3-8ea7-a690679d9c1b_2400x1350.png"
+cover: "/assets/images/ab267906-983f-4de3-8ea7-a690679d9c1b.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/jay-kelly-review-the-fragile-ecosystem"
@@ -42,7 +42,7 @@ The tragedy of Jay Kelly is that he lives as if he is in a movie where everythin
 
 *Is it possible to have a genuine friendship when one person pays the other’s salary? At what point does loyalty become self-sabotage?*
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/edab0ac9-ea81-4525-a83d-7b93bb807932_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!dvI7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedab0ac9-ea81-4525-a83d-7b93bb807932_3840x2160.png)
+[![](/assets/images/edab0ac9-ea81-4525-a83d-7b93bb807932.png)](/assets/images/edab0ac9-ea81-4525-a83d-7b93bb807932.png)
 
 ---
 

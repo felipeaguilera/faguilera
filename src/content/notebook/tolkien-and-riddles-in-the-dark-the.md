@@ -3,7 +3,7 @@ title: "Tolkien and \"Riddles in the Dark\": The 20-Year \"Patch Notes"
 date: 2025-12-24
 description: "How the evolution of Middle-Earth proves that there is no \"final edit\" in life or business."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/7b50b6df-ea95-4a75-8e2f-8e1b8946e8fe_2419x1350.png"
+cover: "/assets/images/7b50b6df-ea95-4a75-8e2f-8e1b8946e8fe.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/tolkien-and-riddles-in-the-dark-the"

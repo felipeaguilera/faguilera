@@ -3,7 +3,7 @@ title: "Welcome the Slam Dunk of Wrexham and Survive."
 date: 2024-08-30
 description: "This week, we dive into the world of sports, hearing tales of growth, camaraderie, and unwavering pursuit of goals, as seen through the eyes of its main characters. "
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/938c136a-2072-48a0-b433-36bc56c965fe_3840x2160.jpeg"
+cover: "/assets/images/938c136a-2072-48a0-b433-36bc56c965fe.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/welcome-the-slam-dunk-of-wrexham"
@@ -29,7 +29,7 @@ The movie is very emotional and goes beyond sports. It talks about things like f
 
 # **📺 Welcome to Wrexham (2022-…) ⚽🥅**
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/4ab1f130-3481-476d-8239-ae5be743c90f_3840x2160.jpeg)](https://substackcdn.com/image/fetch/$s_!rCh0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ab1f130-3481-476d-8239-ae5be743c90f_3840x2160.jpeg)
+[![](/assets/images/4ab1f130-3481-476d-8239-ae5be743c90f.jpg)](/assets/images/4ab1f130-3481-476d-8239-ae5be743c90f.jpg)
 
 Wrexham AFC is a Welsh football team that was acquired in 2024 by Ryan Reynolds (Deadpool) and Rob McElhenney (Always Sunny in Philadelphia) with the purpose of supporting the club and the enthusiastic community that surrounds it. The documentary series “Welcome to Wrexham” is already in its third season, and we're immersed in the incredible journey of the new owners, their members, and their surroundings.
 
@@ -45,7 +45,7 @@ The experience of Wrexham and its ascendancy through the English Football League
 
 # **📺 Formula 1: Drive to Survive (2019-...) 🏎️🏁**
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/b79d498b-7482-42dd-ae6b-c1e53f059c56_2048x1152.jpeg)](https://substackcdn.com/image/fetch/$s_!MIz_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb79d498b-7482-42dd-ae6b-c1e53f059c56_2048x1152.jpeg)
+[![](/assets/images/b79d498b-7482-42dd-ae6b-c1e53f059c56.jpg)](/assets/images/b79d498b-7482-42dd-ae6b-c1e53f059c56.jpg)
 
 Years ago, I remember having the impression that there was no sport more boring than Formula 1. In fact, I made fun of people who spent hours watching fast cars do the same lap 60, 70 times to win a race. I got the impression that it didn’t have depth, was considering it monotonous and without enough value to be worth following. All this changed abruptly when I decided to watch “Formula 1: Drive to Survive.” The Netflix docuseries.
 

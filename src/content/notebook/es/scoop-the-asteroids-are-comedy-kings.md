@@ -3,7 +3,7 @@ title: "Scoop: los asteroides son reyes de la comedia."
 date: 2024-04-20
 description: "También conocido como EVO.cl Film Report #5 de 2024.04.20"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/158e3447-0db6-438d-baee-bcb3054df53f_1920x1080.png"
+cover: "/assets/images/158e3447-0db6-438d-baee-bcb3054df53f.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/scoop-the-asteroids-are-comedy-kings"
@@ -29,7 +29,7 @@ En el futuro, espero poder "sentir" una película de Wes Anderson de nuevo, tal 
 
 # 🎥 Scoop (2024) 🕵️‍♂️🔍
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/7d25dace-52d8-4cf2-96e3-f51391b77917_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!c3NO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d25dace-52d8-4cf2-96e3-f51391b77917_1920x1080.png)
+[![](/assets/images/7d25dace-52d8-4cf2-96e3-f51391b77917.png)](/assets/images/7d25dace-52d8-4cf2-96e3-f51391b77917.png)
 
 Scoop es una película sobre uno de los eventos periodísticos más relevantes y controvertidos de los últimos años. Se centra en cómo se generó y desarrolló una entrevista con el Príncipe Andrés, y su conexión con los actos del conocido abusador sexual Jeffrey Epstein.
 
@@ -43,7 +43,7 @@ Es interesante entender, desde la perspectiva de la cadena de televisión britá
 
 # 🎥 The King of Comedy (1982) 🤡👑
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/fdd5a846-9a57-43d9-a435-7b64a726fa1a_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!ajxm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdd5a846-9a57-43d9-a435-7b64a726fa1a_1920x1080.png)
+[![](/assets/images/fdd5a846-9a57-43d9-a435-7b64a726fa1a.png)](/assets/images/fdd5a846-9a57-43d9-a435-7b64a726fa1a.png)
 
 Tenía esta película pendiente, que llegó a mi radar cuando fue comparada con "JOKER". Dejando eso de lado y confirmando que efectivamente hay similitudes en el guión, está lejos de ser un plagio o algo similar. Por otro lado, esta película de Martin Scorsese de 1982 nos presenta a Rupert Pupkin (interpretado por Robert De Niro) en un rol extraordinario. Pupkin es un comediante obsesionado con alcanzar la fama, y se acerca a Jerry Langford (Jerry Lewis) con la esperanza de aparecer en su Late Show.
 

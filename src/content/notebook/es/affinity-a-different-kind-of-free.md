@@ -3,7 +3,7 @@ title: "Affinity: una clase diferente de gratuito"
 date: 2025-10-30
 description: "Esta semana ocurrió un cambio silencioso. Affinity, la suite de diseño que se vendía como la alternativa a Adobe Creative Cloud, ahora es completamente gratuita. Sin suscripción. Sin prueba. Sin límites."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/e17bc630-ced0-42df-9087-51f57e099e69_3200x978.png"
+cover: "/assets/images/e17bc630-ced0-42df-9087-51f57e099e69.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/affinity-a-different-kind-of-free"

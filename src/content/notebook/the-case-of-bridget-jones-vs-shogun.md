@@ -3,7 +3,7 @@ title: "The Case of Bridget Jones vs Shogun, 1985."
 date: 2024-05-04
 description: "This week's report, it's all about history. An epic oriental saga reborn, an intense and groundbreaking moment in Argentina and last but not least, when Bridget Jones started her diary in London."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6284d5fe-afe3-44de-8a8a-01a2a1e2730b_1920x1080.png"
+cover: "/assets/images/6284d5fe-afe3-44de-8a8a-01a2a1e2730b.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-case-of-bridget-jones-vs-shogun"
@@ -27,7 +27,7 @@ Shogun has the level of production, the war intensity and a carefully developed 
 
 # 🎥 Argentina, 1985 (2022) ⚖️🇦🇷
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/efa4c319-f5fe-4a67-be8e-6898d3675015_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!BSHr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefa4c319-f5fe-4a67-be8e-6898d3675015_1920x1080.png)
+[![](/assets/images/efa4c319-f5fe-4a67-be8e-6898d3675015.png)](/assets/images/efa4c319-f5fe-4a67-be8e-6898d3675015.png)
 
 I am fascinated by "Courtroom Dramas," but this is also a historical account of the first time the Argentine civilian justice system accused former military officers involved in abuses during the dictatorship. Starring Ricardo Darín as Julio Strassera and Peter Lanzani as Luis Moreno Ocampo, the film shows how the young legal team faced this challenge, transporting us to the rawness, intensity, and historical importance of this moment in Argentine history.
 
@@ -41,7 +41,7 @@ It is a fascinating journey into a not-so-distant Latin American past, where con
 
 # 🎥 Bridget Jones Diary (2001) 📙💞
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/b2d2108a-c3b2-45f6-ac40-502f7a95ad69_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!FC3f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2d2108a-c3b2-45f6-ac40-502f7a95ad69_1920x1080.png)
+[![](/assets/images/b2d2108a-c3b2-45f6-ac40-502f7a95ad69.png)](/assets/images/b2d2108a-c3b2-45f6-ac40-502f7a95ad69.png)
 
 I barely remembered anything about this iconic romantic comedy from the early 2000s. Set in London, with hilarious situations and a feeling that I now enjoy with a certain tenderness, in a world where comedy, romance, and smiles, I believe, were more subtle but comforting.
 

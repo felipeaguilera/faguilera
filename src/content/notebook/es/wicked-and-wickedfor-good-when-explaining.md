@@ -3,7 +3,7 @@ title: "'Wicked' y 'Wicked: For Good'. Cuando explicar la magia mata la alegría
 date: 2025-12-05
 description: "Un musical deslumbrante que acaba sofocado bajo el peso de su propia mitología."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/cd8a2300-f1e2-4455-bef2-8dcd94049ddd_3840x2160.jpeg"
+cover: "/assets/images/cd8a2300-f1e2-4455-bef2-8dcd94049ddd.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/wicked-and-wickedfor-good-when-explaining"
@@ -37,7 +37,7 @@ Vemos esto con frecuencia en las franquicias modernas: la creencia de que al pú
 
 ## Un musical visualmente impresionante que olvida que su mayor fortaleza era su alegría, no su conexión con Dorothy.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/be8a07b2-f378-4385-9bbc-8985188e7394_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!9zMa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe8a07b2-f378-4385-9bbc-8985188e7394_3840x2160.png)
+[![](/assets/images/be8a07b2-f378-4385-9bbc-8985188e7394.png)](/assets/images/be8a07b2-f378-4385-9bbc-8985188e7394.png)
 
 ## **Para la conversación**
 

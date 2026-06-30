@@ -3,7 +3,7 @@ title: "“The Secret Agent” Review: Surviving a Broken Society"
 date: 2026-02-20
 description: "A tense political drama about hiding in plain sight during the Brazilian dictatorship."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/89be5880-febc-4084-bbb7-35950ec365e9_3840x2160.png"
+cover: "/assets/images/89be5880-febc-4084-bbb7-35950ec365e9.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-secret-agent-review-surviving"
@@ -47,7 +47,7 @@ It seems impossible to separate Latin American cinema from political trauma. Why
 
 And how crucial is it to understand the specific political history of a country to fully grasp the emotional weight of a film like this? Can a viewer without knowledge of 1970s Brazil truly appreciate the stakes?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/3313da35-13e1-427e-9caf-08a920b26011_3200x1800.png)](https://substackcdn.com/image/fetch/$s_!5GLm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3313da35-13e1-427e-9caf-08a920b26011_3200x1800.png)
+[![](/assets/images/3313da35-13e1-427e-9caf-08a920b26011.png)](/assets/images/3313da35-13e1-427e-9caf-08a920b26011.png)
 
 # **Related Works**
 

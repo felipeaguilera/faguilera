@@ -3,7 +3,7 @@ title: "Rehearsing a Sick Life in a Promised Land "
 date: 2024-05-17
 description: "This week's focus is on three productions: the Danish movie \"The Promised Land,\" the Swedish comedy \"Sick of Myself,\" and Nathan Fielder's miniseries \"The Rehearsal.\" All three share a common theme of"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2bd64691-eea2-46f9-9d28-0d3e4072efc2_1920x1080.jpeg"
+cover: "/assets/images/2bd64691-eea2-46f9-9d28-0d3e4072efc2.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/rehearsing-a-sick-life-in-a-promised"
@@ -25,7 +25,7 @@ Their struggle unfolds against a backdrop of epic landscapes and stunning cinema
 
 # 🎥Sick of Myself **(2022) 💊💀**
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/7cad612e-9f8d-451d-9029-4b3c3f6737c5_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!9tdh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cad612e-9f8d-451d-9029-4b3c3f6737c5_1920x1080.jpeg)
+[![](/assets/images/7cad612e-9f8d-451d-9029-4b3c3f6737c5.jpg)](/assets/images/7cad612e-9f8d-451d-9029-4b3c3f6737c5.jpg)
 
 Sick of Myself is a Norwegian dark comedy that follows Signe, a young woman who, feeling frustrated by her boyfriend Thomas, a novice and immature artist, induces a serious chronic illness after consuming a questionable drug in large quantities. The purpose is clear: to gain sympathy and admiration from her environment due to her adverse health situation.
 
@@ -39,7 +39,7 @@ With numerous critiques of victimhood culture, narcissism, and social media obse
 
 # 🎥The Rehearsal **(2020) 🎭🏠**
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/4d819148-b411-4ac1-8e0e-c4a632ece4fe_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!ZsZs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d819148-b411-4ac1-8e0e-c4a632ece4fe_1920x1080.jpeg)
+[![](/assets/images/4d819148-b411-4ac1-8e0e-c4a632ece4fe.jpg)](/assets/images/4d819148-b411-4ac1-8e0e-c4a632ece4fe.jpg)
 
 Nathan Fielder, who I met through "The Curse" (more on that soon), is this docu-comedy that explores the concept of rehearsals in order to avoid the mistakes and uncertainties of difficult life situations. In six hour-long episodes, Nathan helps characters with "Rehearsals," which take the concept of creating a fake reality to an absurd, hilarious, and often disturbing level.
 

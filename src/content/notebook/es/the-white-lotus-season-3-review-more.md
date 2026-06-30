@@ -3,7 +3,7 @@ title: "Reseña de 'The White Lotus' Temporada 3: más misterio que significado"
 date: 2025-04-11
 description: "Visualmente preciosa y con una banda sonora extraordinaria, la última temporada lucha con tramas poco desarrolladas y desenlaces insatisfactorios."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/e2c10f4b-8a56-42b1-980c-9438904697c6_3840x2160.png"
+cover: "/assets/images/e2c10f4b-8a56-42b1-980c-9438904697c6.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-white-lotus-season-3-review-more"

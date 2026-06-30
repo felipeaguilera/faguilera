@@ -3,7 +3,7 @@ title: "One Battle After Another' Review: The Kinetic Energy of Pure Confidence"
 date: 2026-01-16
 description: "A relentless display of rhythm, sound, and the art of the 'Cinematic Experience' that only a trusted director can deliver."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/242f4c62-9abd-4d8d-bc2f-7c8c346f23c2_3840x2160.png"
+cover: "/assets/images/242f4c62-9abd-4d8d-bc2f-7c8c346f23c2.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/one-battle-after-another-review-the"

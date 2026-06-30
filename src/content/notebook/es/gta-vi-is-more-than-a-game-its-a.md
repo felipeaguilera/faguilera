@@ -3,7 +3,7 @@ title: "GTA VI es más que un juego. Es un espejo, y Rockstar lo sabe."
 date: 2025-05-06
 description: "Un tráiler de dos minutos sobre crimen, caos y cocodrilos nos enseñó a todos cómo lanzar un evento cultural en 2026."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/48b8e205-9aa3-403a-ba8d-416bf13f40e9_1280x720.jpeg"
+cover: "/assets/images/48b8e205-9aa3-403a-ba8d-416bf13f40e9.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/gta-vi-is-more-than-a-game-its-a"

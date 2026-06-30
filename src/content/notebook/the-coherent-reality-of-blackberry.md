@@ -3,7 +3,7 @@ title: "The Coherent reality of BlackBerry."
 date: 2024-05-31
 description: "This week's reviews: small productions & the rise & fall of the first smartphone. Interesting styles & creative presentation of Coherence, Reality & Blackberry."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/9ca21570-203a-4d19-b9ea-c37a9d8027cb_1920x1080.jpeg"
+cover: "/assets/images/9ca21570-203a-4d19-b9ea-c37a9d8027cb.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-coherent-reality-of-blackberry"
@@ -25,7 +25,7 @@ What struck me the most, besides its fascinating story, is the setting and the u
 
 # **🎥 Reality** (2023) 🤷‍♀️🤫
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/90c860c0-b359-4146-ba5f-791d63cd2e69_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!d5t8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c860c0-b359-4146-ba5f-791d63cd2e69_1920x1080.jpeg)
+[![](/assets/images/90c860c0-b359-4146-ba5f-791d63cd2e69.jpg)](/assets/images/90c860c0-b359-4146-ba5f-791d63cd2e69.jpg)
 
 This film gives us a real-time look at the FBI interrogation of Reality Winner, played by Sydney Sweeney, the former intelligence expert questioned for leaking classified information.
 
@@ -43,7 +43,7 @@ A very interesting film, which, without falling into excessive patriotism, thank
 
 # **🎥 Coherence** (2013) ☄️🤯👥
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/1ac6538b-dad7-4a2a-8e53-56825d723737_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!t46-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac6538b-dad7-4a2a-8e53-56825d723737_1920x1080.jpeg)
+[![](/assets/images/1ac6538b-dad7-4a2a-8e53-56825d723737.jpg)](/assets/images/1ac6538b-dad7-4a2a-8e53-56825d723737.jpg)
 
 An interesting suspense film that will keep us glued to the action, both to explore the enigma and to follow the various changes, twists, and versions it offers. Director Jim Byrkit presents us with a dinner among friends in a very limited space, on the day when, apparently, the visit of Comet Miller causes inexplicable events where multiple versions of reality, characters, and points of disconnection are mixed.
 

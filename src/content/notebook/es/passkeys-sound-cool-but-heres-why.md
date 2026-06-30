@@ -3,7 +3,7 @@ title: "Las passkeys suenan bien, pero aquí está por qué las contraseñas tod
 date: 2025-04-28
 description: "Las passkeys prometen un futuro sin contraseñas. Pero antes de dar el salto, esto es por qué las contraseñas con 2FA siguen siendo el camino más seguro en 2025."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/9823b632-9d50-46c9-8257-bb9702118d8e_1536x1024.png"
+cover: "/assets/images/9823b632-9d50-46c9-8257-bb9702118d8e.png"
 lang: es
 draft: true
 substackUrl: "https://felipeaguilera.substack.com/p/passkeys-sound-cool-but-heres-why"

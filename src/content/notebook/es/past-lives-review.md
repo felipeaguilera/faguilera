@@ -3,7 +3,7 @@ title: "Reseña de Past Lives"
 date: 2025-01-17
 description: "Un viaje sincero a través del tiempo y la cultura que explora qué pasa cuando dos compañeros de infancia se reencuentran años después."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/f382db18-4b27-4337-bd4e-bda1792b010d_3840x2160.jpeg"
+cover: "/assets/images/f382db18-4b27-4337-bd4e-bda1792b010d.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/past-lives-review"

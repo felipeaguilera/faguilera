@@ -3,7 +3,7 @@ title: "La arrogancia del que ve. Lecciones de H. G. Wells sobre experiencia de 
 date: 2025-10-20
 description: "Todos hemos oído el dicho: 'En el país de los ciegos, el tuerto es rey'. Suena obvio. Quien ve más está destinado a liderar. En un mundo de ignorantes, no es difícil destacar."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/233f69a1-a2e9-4dd7-8006-8996ee90c15c_1248x832.png"
+cover: "/assets/images/233f69a1-a2e9-4dd7-8006-8996ee90c15c.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-arrogance-of-the-sighted-lessons"

@@ -3,7 +3,7 @@ title: "El Fallout de las tierras baldías de Arcane son la esperanza de The Las
 date: 2024-07-05
 description: "Las adaptaciones de franquicias exitosas de videojuegos en series han tenido múltiples éxitos recientemente. Hoy destaco algunos de mis favoritos: Fallout, The Last of Us y Arcane."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/eef83639-090e-4ea6-bb93-d0f4b6bdf69e_1920x1080.jpeg"
+cover: "/assets/images/eef83639-090e-4ea6-bb93-d0f4b6bdf69e.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-fallout-of-arcane-wastelands"
@@ -29,7 +29,7 @@ Con la franquicia fielmente representada y una excelente primera entrega, solo p
 
 # 📺 The Last of Us (2023) 🧟🌿🦒🪓💉
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/70a13620-d65f-4c09-89d0-741d6d006ed6_3840x2160.jpeg)](https://substackcdn.com/image/fetch/$s_!Uf0j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70a13620-d65f-4c09-89d0-741d6d006ed6_3840x2160.jpeg)
+[![](/assets/images/70a13620-d65f-4c09-89d0-741d6d006ed6.jpg)](/assets/images/70a13620-d65f-4c09-89d0-741d6d006ed6.jpg)
 
 La adaptación en serie de uno de los videojuegos más premiados de la historia es, sin duda, un gran éxito para HBO. En una realidad donde la humanidad está a merced de una trágica pandemia propagada por un peligroso hongo que ataca el sistema nervioso de humanos y animales, causando reacciones tremendamente violentas. A pesar del cansancio del género zombi, la propuesta que ofrece este universo es fresca, inteligente y muy bien lograda.
 
@@ -47,7 +47,7 @@ Dado que no es solo otra aventura zombi, y muy por encima del nivel narrativo de
 
 # 📺 Arcane (2021) 🧪💣⚙️💔
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/373516f8-7483-43f6-9c06-791f9f224b05_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!o_1m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F373516f8-7483-43f6-9c06-791f9f224b05_1920x1080.jpeg)
+[![](/assets/images/373516f8-7483-43f6-9c06-791f9f224b05.jpg)](/assets/images/373516f8-7483-43f6-9c06-791f9f224b05.jpg)
 
 El videojuego League of Legends es una de las competencias más relevantes en los esports año tras año. Con una amplia variedad de personajes añadidos periódicamente, la decisión de adaptarlo en una obra animada era, sin duda, difícil de entender. Sin embargo, es necesario reflexionar un par de minutos sobre "Arcane" para comprender que el resultado no solo es sorprendente en cuanto a la calidad de la animación, la música y el escenario, sino también en su enorme narrativa. Una serie que divierte, asombra y cautiva.
 

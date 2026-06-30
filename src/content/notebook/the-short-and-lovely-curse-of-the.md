@@ -3,7 +3,7 @@ title: "The Short and Lovely Curse of the three Heathers. "
 date: 2024-06-14
 description: "This week we are going to go deep into the insane things can do for love or peer appreciation. "
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/a404d589-29f9-46b6-b5a8-5c489a17b6a3_1920x1080.jpeg"
+cover: "/assets/images/a404d589-29f9-46b6-b5a8-5c489a17b6a3.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-short-and-lovely-curse-of-the"
@@ -27,7 +27,7 @@ Strongly recommended, with magical, absurd, and sometimes hilarious notes. The C
 
 # 🎥 A short film about love 🔭💔
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/68181785-f9b9-44ec-abe2-99f6b520a824_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!-Jx5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68181785-f9b9-44ec-abe2-99f6b520a824_1920x1080.jpeg)
+[![](/assets/images/68181785-f9b9-44ec-abe2-99f6b520a824.jpg)](/assets/images/68181785-f9b9-44ec-abe2-99f6b520a824.jpg)
 
 I hadn't had the chance to see one of the first film adaptations of Kieslowski's “The Decalogue” series. In this instance, as it is characteristic of the prestigious Polish director, a brief narrative is presented, yet with a pleasant experience in which human feelings become the protagonists.
 
@@ -45,7 +45,7 @@ A film that celebrates feelings, human relationships, and where idealization, th
 
 # 🎥 Heathers 🖤💅
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/59e57612-ba8d-4738-b358-f5d6d5a7d465_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!0Q8w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59e57612-ba8d-4738-b358-f5d6d5a7d465_1920x1080.jpeg)
+[![](/assets/images/59e57612-ba8d-4738-b358-f5d6d5a7d465.jpg)](/assets/images/59e57612-ba8d-4738-b358-f5d6d5a7d465.jpg)
 
 A 1998 film directed by Michael Lehmann, Heathers is a dark satire of college romantic comedies. Starring a very young Winona Ryder, Christian Slater, Shannen Doherty, Lisanne Falk, and Kim Walker, we move through the halls of Westerburg High School. Veronica, one of the quietest members of the popular clique, is troubled by the ruthless behavior of her peers, mainly Heather Chandler, the leader of the group.
 

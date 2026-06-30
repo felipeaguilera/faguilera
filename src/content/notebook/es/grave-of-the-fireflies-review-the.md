@@ -3,7 +3,7 @@ title: "\"La tumba de las luciérnagas\": la guerra no tiene villanos, solo víc
 date: 2026-03-06
 description: "Una película de Studio Ghibli de 1988 que se niega a romantizar la guerra, y es más devastadora por eso."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6f6784c3-114d-4444-bef6-3b1867f12a32_3840x2160.png"
+cover: "/assets/images/6f6784c3-114d-4444-bef6-3b1867f12a32.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/grave-of-the-fireflies-review-the"
@@ -17,7 +17,7 @@ La película está ambientada en Kobe, en 1945, durante los bombardeos incendiar
 
 La historia gira en torno a Seita, un muchacho de catorce años, y su hermana de cuatro, Setsuko, que pierden a su madre en uno de los primeros ataques. Su padre sirve en la Marina y es inalcanzable. Acogidos por una tía que se vuelve cada vez más resentida con los niños por no poder contribuir, los hermanos terminan por valerse solos, encontrando refugio en una cueva abandonada junto a un lago. Lo que sigue es un descenso de noventa minutos que es imposible detener e igualmente imposible de sacudir cuando termina.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/ac8315ac-98b6-4128-bba1-319e90a00d00_2560x1440.png)](https://substackcdn.com/image/fetch/$s_!ZXYJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac8315ac-98b6-4128-bba1-319e90a00d00_2560x1440.png)
+[![](/assets/images/ac8315ac-98b6-4128-bba1-319e90a00d00.png)](/assets/images/ac8315ac-98b6-4128-bba1-319e90a00d00.png)
 
 # Lo que me gustó
 
@@ -55,7 +55,7 @@ Salí de esta película pensando en lo que significa valorar lo que tienes. Pero
 
 La película sugiere que una sociedad construida sobre el deber colectivo y la contribución puede igualmente fallarle a sus individuos más vulnerables. Japón se reconstruyó desde ese período hasta convertirse en una de las sociedades más funcionales del planeta. ¿Esa recuperación cambia cómo lees la tragedia en el centro de esta historia, o hace que sea más difícil descartarla?
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/74018a47-a98a-4206-93ec-70497887bb14_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!tlZG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74018a47-a98a-4206-93ec-70497887bb14_1920x1080.png)
+[![](/assets/images/74018a47-a98a-4206-93ec-70497887bb14.png)](/assets/images/74018a47-a98a-4206-93ec-70497887bb14.png)
 
 ---
 

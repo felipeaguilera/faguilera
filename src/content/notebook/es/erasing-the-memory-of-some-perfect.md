@@ -3,7 +3,7 @@ title: "Borrar el recuerdo de algunos días perfectos"
 date: 2024-04-06
 description: "También conocido como EVO.cl Film Report #3 de 2024.04.06"
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/a35852b4-ca39-4f02-9657-c05829aadebc_1920x1080.png"
+cover: "/assets/images/a35852b4-ca39-4f02-9657-c05829aadebc.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/erasing-the-memory-of-some-perfect"
@@ -27,7 +27,7 @@ La música juega un rol extremadamente importante: a diferencia de una banda son
 
 # 🎥 The Zone of Interest (2023) 🖤
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/82b6e2f3-3dd9-4119-8fb0-e1450258635b_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!xFYD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82b6e2f3-3dd9-4119-8fb0-e1450258635b_1920x1080.png)
+[![](/assets/images/82b6e2f3-3dd9-4119-8fb0-e1450258635b.png)](/assets/images/82b6e2f3-3dd9-4119-8fb0-e1450258635b.png)
 
 El director Jonathan Glazer nos sumerge en la vida del General Rudolf Höss, el comandante a cargo del progreso del campo de concentración de Auschwitz en el momento de la masacre de miles de judíos.
 
@@ -43,7 +43,7 @@ La dualidad constante donde la terrible presencia de la muerte y el perturbador 
 
 # 🎥 Eternal Sunshine of the Spotless Mind (2004) 🧠
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/402c3096-610a-499b-ac32-95fc1a5b5c58_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!fpwE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F402c3096-610a-499b-ac32-95fc1a5b5c58_1920x1080.png)
+[![](/assets/images/402c3096-610a-499b-ac32-95fc1a5b5c58.png)](/assets/images/402c3096-610a-499b-ac32-95fc1a5b5c58.png)
 
 Suelo ver películas más de una vez, especialmente cuando ha pasado tanto tiempo que ya no recuerdo todo con claridad. Creo que con los años mi percepción cambia. La mayoría de las veces me gustan más, pero también hay veces, como con Garden State, también de 2004, en que no debería haber cambiado los buenos recuerdos de una película que amé en su momento para terminar concluyendo que hoy es solo un bonito recuerdo de una película no tan buena.
 

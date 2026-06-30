@@ -3,7 +3,7 @@ title: "The Eagle Time "
 date: 2024-03-24
 description: "Opinions about Movies, series, books and sometimes, life. "
 category: "Notebook"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/ad77a8db-0ceb-4298-a11d-ae7e07e990a7_800x800.png"
+cover: "/assets/images/ad77a8db-0ceb-4298-a11d-ae7e07e990a7.png"
 lang: en
 draft: true
 substackUrl: "https://felipeaguilera.substack.com/p/evocl"

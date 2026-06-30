@@ -3,7 +3,7 @@ title: "'La bestia en mí': cuando los cimientos sólidos no son suficientes"
 date: 2025-11-28
 description: "Un thriller psicológico que hace casi todo bien, hasta que no."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/09c7c0ba-acad-4ead-8b69-328d4c8ab58a_3840x2160.png"
+cover: "/assets/images/09c7c0ba-acad-4ead-8b69-328d4c8ab58a.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-beast-in-me-when-strong-bones"
@@ -68,7 +68,7 @@ Lo mismo pasa en diseño o estrategia: si la última interacción se siente gen�
 
 *¿Pueden la gran actuación y la tensión psicológica sostener una serie cuando el final opta por la convención en lugar de la revelación? ¿Y en qué punto un final predecible cambia el valor de lo que vino antes?*
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/7d1b19ef-f95a-42b3-92ca-6db97b24ef43_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!BIlr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d1b19ef-f95a-42b3-92ca-6db97b24ef43_1920x1080.png)
+[![](/assets/images/7d1b19ef-f95a-42b3-92ca-6db97b24ef43.png)](/assets/images/7d1b19ef-f95a-42b3-92ca-6db97b24ef43.png)
 
 ---
 

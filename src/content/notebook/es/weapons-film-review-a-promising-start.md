@@ -3,7 +3,7 @@ title: "Reseña de Weapons: un comienzo prometedor arruinado por un desenlace de
 date: 2025-08-26
 description: "Cómo un misterio inesperado sobre niños desaparecidos se desintegra en una explicación vacía e irresponsable."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4ddeeba3-4322-4669-a135-53d2bd51230b_3840x2160.webp"
+cover: "/assets/images/4ddeeba3-4322-4669-a135-53d2bd51230b.webp"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/weapons-film-review-a-promising-start"

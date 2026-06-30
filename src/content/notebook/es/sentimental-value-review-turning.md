@@ -3,7 +3,7 @@ title: "\"Sentimental Value\": convertir el trauma familiar en arte"
 date: 2026-02-13
 description: "Joachim Trier explora el egoísmo despiadado que requiere hacer una 'obra maestra', y las huellas profundas de lo que dejó atrás."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/613369e4-4e06-4d4b-bfcd-d983fc19fc5a_1920x1080.png"
+cover: "/assets/images/613369e4-4e06-4d4b-bfcd-d983fc19fc5a.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/sentimental-value-review-turning"

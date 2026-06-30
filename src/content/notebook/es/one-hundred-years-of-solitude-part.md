@@ -3,7 +3,7 @@ title: "Reseña de Cien años de soledad (Parte 1)."
 date: 2025-01-10
 description: "Esta ambiciosa adaptación de una de las novelas más influyentes del siglo XX es visualmente impactante, con un ritmo sorprendente y un universo fantástico. Desafortunadamente, no logra mantener la consistencia a lo largo de toda la entrega."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/7d55649b-75b3-4ac7-af07-71bf795d13f9_2048x1152.jpeg"
+cover: "/assets/images/7d55649b-75b3-4ac7-af07-71bf795d13f9.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/one-hundred-years-of-solitude-part"

@@ -3,7 +3,7 @@ title: "El papel electrónico a color de Samsung es bonito, pero ¿lo usarán re
 date: 2025-05-12
 description: "Una pantalla de ultra bajo consumo con grandes promesas, pero ¿estamos listos para cambiar cómo mostramos contenido?"
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/62bfbcc1-fbc2-4e6c-a152-70dc77e6668e_1536x1024.png"
+cover: "/assets/images/62bfbcc1-fbc2-4e6c-a152-70dc77e6668e.png"
 lang: es
 draft: true
 substackUrl: "https://felipeaguilera.substack.com/p/samsungs-color-e-paper-is-nice-but"
@@ -51,7 +51,7 @@ Ahí es donde veo la magia de este tipo de tecnología.
 
 ---
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/9844d355-d2dd-4cb7-adab-6396bda382fe_1000x666.jpeg)](https://substackcdn.com/image/fetch/$s_!SoPN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9844d355-d2dd-4cb7-adab-6396bda382fe_1000x666.jpeg)
+[![](/assets/images/9844d355-d2dd-4cb7-adab-6396bda382fe.jpg)](/assets/images/9844d355-d2dd-4cb7-adab-6396bda382fe.jpg)
 
 *Más información:*
 

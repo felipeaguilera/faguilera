@@ -3,7 +3,7 @@ title: "Black Mirror: Common People' Review: Healthcare as a Subscription"
 date: 2025-04-18
 description: "When Life-Saving Tech Comes with Monthly Payments."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/b6c3bae2-e00d-489c-bc89-d129aba2eddb_1280x640.png"
+cover: "/assets/images/b6c3bae2-e00d-489c-bc89-d129aba2eddb.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/black-mirror-common-people-review"

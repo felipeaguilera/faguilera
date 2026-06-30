@@ -3,7 +3,7 @@ title: "Reseña de 'Rental Family': la intimidad como servicio"
 date: 2026-02-03
 description: "Hikari usa una agencia de alquiler para explorar la naturaleza transaccional de la conexión humana en el Japón moderno."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4c74f128-982a-4014-9b4d-2255a7cf96fa_3840x2160.png"
+cover: "/assets/images/4c74f128-982a-4014-9b4d-2255a7cf96fa.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/rental-family-review-intimacy-as"
@@ -51,7 +51,7 @@ Pagamos por terapeutas y cuidadores. ¿Pagar por un "amigo" o un "padre" es real
 
 **Lost in Translation** (2003): para la atmósfera de un occidental que encuentra conexión en los momentos silenciosos de Tokio.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/712e14a3-3468-4adb-80fb-56a6792c6e1c_1921x1080.png)](https://substackcdn.com/image/fetch/$s_!PAfu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F712e14a3-3468-4adb-80fb-56a6792c6e1c_1921x1080.png)
+[![](/assets/images/712e14a3-3468-4adb-80fb-56a6792c6e1c.png)](/assets/images/712e14a3-3468-4adb-80fb-56a6792c6e1c.png)
 
 ## Ficha técnica
 

@@ -3,7 +3,7 @@ title: "Por qué el 2FA todavía importa (aunque a veces sea una molestia)"
 date: 2025-05-05
 description: "La segunda llave de tu vida digital ya no es opcional. Aquí está por qué importa, y cómo reconstruí mi sistema después de que todo colapsó."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2cb8d048-17f8-41e0-8643-4ad73fa228c2_1536x1024.png"
+cover: "/assets/images/2cb8d048-17f8-41e0-8643-4ad73fa228c2.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/why-2fa-still-matters-even-when-it"

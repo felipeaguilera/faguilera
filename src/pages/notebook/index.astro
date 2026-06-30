@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import { netlifyImg, netlifyImgSrcset } from '../../utils/images.js';
 
 const articles = (await getCollection('notebook', ({ data }) =>
   !data.draft && data.lang === 'en'
@@ -53,7 +54,17 @@ function fmt(date: Date) {
         {latest.map((article) => (
           <a class="card" href={`/notebook/${article.slug}`}>
             <div class="thumb">
-              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+              {article.data.cover && (
+                <img
+                  src={netlifyImg(article.data.cover, { w: 800, h: 534, fit: 'cover' })}
+                  srcset={netlifyImgSrcset(article.data.cover, [400, 800, 1200], { fit: 'cover' })}
+                  sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 400px"
+                  alt={article.data.title}
+                  loading="lazy"
+                  width="800"
+                  height="534"
+                />
+              )}
             </div>
             <div class="cbody">
               <span class="meta">{article.data.category} &middot; {fmt(article.data.date)}</span>
@@ -75,7 +86,17 @@ function fmt(date: Date) {
         {older.map((article) => (
           <a class="card" href={`/notebook/${article.slug}`}>
             <div class="thumb">
-              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+              {article.data.cover && (
+                <img
+                  src={netlifyImg(article.data.cover, { w: 800, h: 534, fit: 'cover' })}
+                  srcset={netlifyImgSrcset(article.data.cover, [400, 800, 1200], { fit: 'cover' })}
+                  sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 400px"
+                  alt={article.data.title}
+                  loading="lazy"
+                  width="800"
+                  height="534"
+                />
+              )}
             </div>
             <div class="cbody">
               <span class="meta">{article.data.category} &middot; {fmt(article.data.date)}</span>

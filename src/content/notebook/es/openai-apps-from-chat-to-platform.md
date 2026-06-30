@@ -3,7 +3,7 @@ title: "OpenAI Apps: del chat a la plataforma"
 date: 2025-10-06
 description: "OpenAI ya no presenta ChatGPT como una herramienta. Lo está convirtiendo en una plataforma. Un espacio donde la interacción, la creación y las transacciones empiezan a fundirse en un solo flujo."
 category: "Technology"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/cc2e1ca2-d783-427f-ab63-810c818b3833_1920x1080.png"
+cover: "/assets/images/cc2e1ca2-d783-427f-ab63-810c818b3833.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/openai-apps-from-chat-to-platform"

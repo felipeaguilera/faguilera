@@ -3,7 +3,7 @@ title: "Salud: el amor volcánico de las langostas"
 date: 2024-04-27
 description: "También conocido como el Reporte de Cine EVO #6. Fire of Love, The Lobster y Bottoms en una sola entrega explosiva, violenta y romántica."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/d575386b-52ed-4ea7-a959-19be41c69274_1920x1080.png"
+cover: "/assets/images/d575386b-52ed-4ea7-a959-19be41c69274.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/bottoms-up-the-volcanic-love-of-lobsters"
@@ -29,7 +29,7 @@ Sin embargo, más allá de las fascinantes imágenes y datos sobre volcanes, est
 
 # 🎥 Bottoms (2023) 🏫👊🩸
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/c75b8e19-292d-4569-8ede-568a14d79e27_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!_mI0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc75b8e19-292d-4569-8ede-568a14d79e27_1920x1080.png)
+[![](/assets/images/c75b8e19-292d-4569-8ede-568a14d79e27.png)](/assets/images/c75b8e19-292d-4569-8ede-568a14d79e27.png)
 
 Hace unos años aprecié muchísimo la espléndida *Shiva Baby*, una comedia dirigida por *Emma Seligman* con *Rachel Sennott*. En esta nueva colaboración presentan "Bottoms", una comedia universitaria con enfoque queer que evita recurrir a una búsqueda burda de justicia identitaria.
 
@@ -45,7 +45,7 @@ Como en toda buena comedia universitaria, las cosas se complican gradualmente y 
 
 # 🎥 The Lobster (2015) 🦞💀💔
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/33ed92db-45c2-407d-bbfb-6c0708a35f9e_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!DOQP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33ed92db-45c2-407d-bbfb-6c0708a35f9e_1920x1080.png)
+[![](/assets/images/33ed92db-45c2-407d-bbfb-6c0708a35f9e.png)](/assets/images/33ed92db-45c2-407d-bbfb-6c0708a35f9e.png)
 
 Tras el gran éxito de Yorgos Lanthimos con "Poor Things", decidí revisitar una de sus películas a la que no le había prestado mucha atención: "The Lobster" de 2015. Es una comedia oscura ambientada en un futuro distópico donde estar soltero es ilegal. Como resultado, David, después de que su esposa lo deja, es llevado a un hotel donde tiene 45 días para encontrar pareja o ser transformado en el animal de su elección.
 

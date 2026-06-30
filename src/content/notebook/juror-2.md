@@ -3,7 +3,7 @@ title: "Juror #2 (2024)"
 date: 2025-01-03
 description: "Clint Eastwood's Thought-Provoking Courtroom Drama Explores the Complexities of Justice and Truth."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/2d58af54-51c8-4f7e-b952-3b3ab1e4bd0a_3840x2160.jpeg"
+cover: "/assets/images/2d58af54-51c8-4f7e-b952-3b3ab1e4bd0a.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/juror-2"

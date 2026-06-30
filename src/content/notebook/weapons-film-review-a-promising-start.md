@@ -3,7 +3,7 @@ title: "Weapons' Film Review: A promising start wasted by an underwhelming revea
 date: 2025-08-26
 description: "How an unexpected mystery about vanished children unravels into an empty, careless explanation."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4ddeeba3-4322-4669-a135-53d2bd51230b_3840x2160.webp"
+cover: "/assets/images/4ddeeba3-4322-4669-a135-53d2bd51230b.webp"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/weapons-film-review-a-promising-start"

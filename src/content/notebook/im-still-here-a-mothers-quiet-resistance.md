@@ -3,7 +3,7 @@ title: "🎬 I'm Still Here – A Mother's Quiet Resistance"
 date: 2025-05-09
 description: "A quiet, powerful look at how one family’s story helps us understand the long shadows of dictatorship—and the resilience it takes to carry on."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/955a389e-be4c-4c87-a0ae-e5f7c584fca7_3840x2160.png"
+cover: "/assets/images/955a389e-be4c-4c87-a0ae-e5f7c584fca7.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/im-still-here-a-mothers-quiet-resistance"

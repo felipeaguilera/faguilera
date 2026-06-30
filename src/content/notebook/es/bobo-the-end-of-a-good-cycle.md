@@ -3,7 +3,7 @@ title: "Bobo: el fin de un buen ciclo"
 date: 2025-12-02
 description: "Ayer despedimos a Bobo. Fue un acto triste pero necesario que cierra un largo, bueno y a veces absurdo capítulo de vida para mi familia y para mí."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/29744e88-ff2b-4609-b8b1-fcf1ee722547_1920x1080.png"
+cover: "/assets/images/29744e88-ff2b-4609-b8b1-fcf1ee722547.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/bobo-the-end-of-a-good-cycle"
@@ -19,7 +19,7 @@ Una noche, Lupita rascó suavemente la puerta, buscando un lugar seguro. A pesar
 
 Había dado a luz sola, en la noche, sin más ayuda que, quizás, mi estupidez y descuido. Sentí una culpa abrumadora, una rabia honesta conmigo mismo por ser tan obtuso y negligente ante la vida que se desarrollaba justo frente a mí. Corrí a avisar a mis padres y nos apresuramos a cuidar a la nueva familia. De los cinco, uno no sobrevivió, encontrado solo bajo el árbol donde Lupita había intentado desesperadamente protegerlo.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/4e5f868e-b6ac-483a-99c5-2caca90a0d27_1871x1031.png)](https://substackcdn.com/image/fetch/$s_!fUFN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e5f868e-b6ac-483a-99c5-2caca90a0d27_1871x1031.png)
+[![](/assets/images/4e5f868e-b6ac-483a-99c5-2caca90a0d27.png)](/assets/images/4e5f868e-b6ac-483a-99c5-2caca90a0d27.png)
 
 ### El raro de la camada
 
@@ -29,7 +29,7 @@ Lo nombré "Bobo" en honor al episodio de *Los Simpsons* donde el señor Burns b
 
 Bobo creció siguiendo a Lupita a todas partes. Era su entusiasta y tranquila sombra, siempre lista para un paseo, un juego, o simplemente acompañarla. Su vida juntos fue de compañía alegre y continua.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/855d5405-3297-471e-906a-0824bf9d86d0_1870x1031.png)](https://substackcdn.com/image/fetch/$s_!HVfv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F855d5405-3297-471e-906a-0824bf9d86d0_1870x1031.png)
+[![](/assets/images/855d5405-3297-471e-906a-0824bf9d86d0.png)](/assets/images/855d5405-3297-471e-906a-0824bf9d86d0.png)
 
 ### Un nuevo capítulo de responsabilidad
 
@@ -37,7 +37,7 @@ La vida cambió con los años. Mi padre falleció, mi hermano se fue, y eventual
 
 Después de que Lupita murió a los 19 años, cerrando efectivamente su capítulo como "Lupita la Inmortal", la vida de Bobo cambió. Se volvió más quieto, más lento, tomando sus paseos y su vida con una quietud particular. Creo que también se volvió más melancólico, y quedó libre de explorar el patio que heredó a su propio ritmo. Pasó de ser un entusiasta alegre a ser un **buen compañero**, incansablemente gentil y amable. Siempre me referí a él como un "Buen Sabueso", y honestamente, nunca conocí un perro tan gentil.
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/db26b4b2-daea-4b10-b762-71739dcf4f15_1871x1031.png)](https://substackcdn.com/image/fetch/$s_!mrbt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb26b4b2-daea-4b10-b762-71739dcf4f15_1871x1031.png)
+[![](/assets/images/db26b4b2-daea-4b10-b762-71739dcf4f15.png)](/assets/images/db26b4b2-daea-4b10-b762-71739dcf4f15.png)
 
 ### La finalidad del cuidado
 

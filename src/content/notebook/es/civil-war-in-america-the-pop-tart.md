@@ -3,7 +3,7 @@ title: "Guerra Civil en América. La guerra del Pop-Tart ha roto muchas familias
 date: 2024-05-10
 description: "Esta semana nos adentramos en el pasado y futuro americano. Con 'Civil War' de Alex Garland, 'Unfrosted' de Jerry Seinfeld y la colaboración Coppola-Murray de 2020, 'On the Rocks'."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/5406d240-fc58-4093-91e2-2ef66d4e4ebd_1920x1080.png"
+cover: "/assets/images/5406d240-fc58-4093-91e2-2ef66d4e4ebd.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/civil-war-in-america-the-pop-tart"
@@ -27,7 +27,7 @@ Sin embargo, también tengo la impresión de que su habilidad como guionista dej
 
 # 🎥 Unfrosted (2024) 🕵️‍♀️🥣
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!fwwv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67_1920x1080.png)
+[![](/assets/images/74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67.png)](/assets/images/74e9f48d-80a6-4ce6-8f91-ca6dfcafdd67.png)
 
 Siempre he sido y probablemente siempre seré fan de Seinfeld, que considero el mejor sitcom de todos los tiempos. Por lo tanto, cualquier cosa que involucre a su creador, Jerry Seinfeld, me llama la atención, aunque soy consciente de que nunca alcanzará el nivel de humor que él y Larry David crearon juntos en el pasado. Ese es un pedestal que solo la serie Curb Your Enthusiasm ha logrado alcanzar.
 
@@ -45,7 +45,7 @@ Con un escenario que mezcla comedia corporativa, tonos de espionaje e intriga in
 
 # 🎥 On the Rocks (2020) 🍸💍
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/12a4336b-fa84-4081-b293-8869ef061214_1920x1080.png)](https://substackcdn.com/image/fetch/$s_!jbSA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12a4336b-fa84-4081-b293-8869ef061214_1920x1080.png)
+[![](/assets/images/12a4336b-fa84-4081-b293-8869ef061214.png)](/assets/images/12a4336b-fa84-4081-b293-8869ef061214.png)
 
 La última película de Sofia Coppola, "On the Rocks", es una comedia sutil ambientada en Nueva York. Bill Murray, retomando el éxito de "Lost in Translation", vuelve a un rol paternal, esta vez con Rashida Jones como coprotagonista e hija.
 

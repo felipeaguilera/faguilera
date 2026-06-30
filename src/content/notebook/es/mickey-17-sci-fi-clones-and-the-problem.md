@@ -3,7 +3,7 @@ title: "MICKEY 17: ciencia ficción, clones y el problema de la libertad creativ
 date: 2025-05-30
 description: "El proyecto post-Parásito de Bong Joon-ho pierde el foco en una distopía a medias."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/a7fbf25b-8a5e-4aa8-9a15-04fd868a3128_3840x2160.png"
+cover: "/assets/images/a7fbf25b-8a5e-4aa8-9a15-04fd868a3128.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/mickey-17-sci-fi-clones-and-the-problem"

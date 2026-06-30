@@ -3,7 +3,7 @@ title: "The Three Muppets Problems: A Furiosa Saga. "
 date: 2024-06-07
 description: "A high-octane action in the Wasteland, a mind-bending Sci-Fi proposal, or a trip through the life of a creative genius. This week, we explore a captivating collection of visual prowess."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6fb71308-707b-4204-bf30-7cb7dbcf6dda_1920x1080.jpeg"
+cover: "/assets/images/6fb71308-707b-4204-bf30-7cb7dbcf6dda.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-three-muppets-problems-a-furiosa"
@@ -25,7 +25,7 @@ Although there's only a 30-minute difference between "Fury Road" and "Furiosa," 
 
 ## 🎥 Jim Henson Idea Man 🐸🌈✨
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/70ad2b1f-85f6-4431-86c1-e3d663e2aaf1_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!c-5g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70ad2b1f-85f6-4431-86c1-e3d663e2aaf1_1920x1080.jpeg)
+[![](/assets/images/70ad2b1f-85f6-4431-86c1-e3d663e2aaf1.jpg)](/assets/images/70ad2b1f-85f6-4431-86c1-e3d663e2aaf1.jpg)
 
 "Jim Henson: Idea Man" shows us the trajectory and work of the revolutionary and visionary artist known as the mind and personality behind the Muppets. With a wide variety of interviews, supporting material, and great admiration from director Ron Howard, this documentary provides us with information that goes far beyond the creation of Kermit the Frog and his group of puppets. It's a journey through the motivation, relentless work, perseverance, and great talent of a character who, along with his wife and team, always sought to surprise, innovate, and change the possibilities that television offered.
 
@@ -39,7 +39,7 @@ Jim Henson is undoubtedly a pillar of creativity and positive artistic attitude 
 
 ## 📺 The Three Body Problem 🌌🤔
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/32d7e014-a4e1-4f69-a37e-a05c0c8a0ca3_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!b_lx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32d7e014-a4e1-4f69-a37e-a05c0c8a0ca3_1920x1080.jpeg)
+[![](/assets/images/32d7e014-a4e1-4f69-a37e-a05c0c8a0ca3.jpg)](/assets/images/32d7e014-a4e1-4f69-a37e-a05c0c8a0ca3.jpg)
 
 "The Three-Body Problem" is a television adaptation of the renowned science fiction trilogy by Cixin Liu. Brought to us by the "Game of Thrones" team, this time for Netflix, the series boasts a high level of artistic quality and production, striving to set a new standard in the genre for years to come.
 

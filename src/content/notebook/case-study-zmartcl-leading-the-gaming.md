@@ -3,7 +3,7 @@ title: "🎮 Case Study: ZMART.cl, Leading the Gaming Retail Revolution in Chile
 date: 2025-06-05
 description: "How a tight-knit team and a clear voice turned Zmart into Chile’s go-to destination for gamers."
 category: "Brand & Culture"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/68679b3b-bb4a-458d-8380-9d1c804bc49b_1280x720.png"
+cover: "/assets/images/68679b3b-bb4a-458d-8380-9d1c804bc49b.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/case-study-zmartcl-leading-the-gaming"
@@ -26,7 +26,7 @@ We needed to:
 - Create a unique tone and identity in customer support and brand voice
 - Compete with giant retailers while staying lean
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/bf38a18c-326d-4d12-baa6-2ce0c45df0dc_1280x4200.png)](https://substackcdn.com/image/fetch/$s_!BsmQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf38a18c-326d-4d12-baa6-2ce0c45df0dc_1280x4200.png)
+[![](/assets/images/bf38a18c-326d-4d12-baa6-2ce0c45df0dc.png)](/assets/images/bf38a18c-326d-4d12-baa6-2ce0c45df0dc.png)
 
 ---
 
@@ -52,7 +52,7 @@ I led both the **design team** and the **customer support team**, developing the
 - **Top follower engagement** in Chile’s gaming retail space
 - Named **"Great Place to Work" 3 years in a row**
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/403639df-f0e0-47ae-b290-a55cc447054e_1280x900.png)](https://substackcdn.com/image/fetch/$s_!c_DS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F403639df-f0e0-47ae-b290-a55cc447054e_1280x900.png)
+[![](/assets/images/403639df-f0e0-47ae-b290-a55cc447054e.png)](/assets/images/403639df-f0e0-47ae-b290-a55cc447054e.png)
 
 ZMART.cl Mobile Website
 

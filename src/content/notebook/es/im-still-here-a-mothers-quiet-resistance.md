@@ -3,7 +3,7 @@ title: "Aún estoy aquí: la resistencia silenciosa de una madre"
 date: 2025-05-09
 description: "Una mirada serena y poderosa sobre cómo la historia de una familia nos ayuda a entender las largas sombras de la dictadura, y la resiliencia que hace falta para seguir adelante."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/955a389e-be4c-4c87-a0ae-e5f7c584fca7_3840x2160.png"
+cover: "/assets/images/955a389e-be4c-4c87-a0ae-e5f7c584fca7.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/im-still-here-a-mothers-quiet-resistance"

@@ -3,7 +3,7 @@ title: "El Apocalipsis es ahora, no en el futuro, según el informe de El Agente
 date: 2024-06-28
 description: "Esta semana presentamos tres películas muy distintas en términos narrativos, pero que confluyen en el núcleo de la conexión humana, la sensación de soledad y descubrimientos personales interesantes."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6b6c93f6-3386-4628-a50b-38a50f7de12a_1920x1080.jpeg"
+cover: "/assets/images/6b6c93f6-3386-4628-a50b-38a50f7de12a.jpg"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-apocalypse-is-now-not-in-the"
@@ -29,7 +29,7 @@ Durante 40 años, Apocalypse Now ha sido una obra brillante, extensa e intensa q
 
 # 🎥 El Agente Topo (2020) 🕵️‍♂️👴❤️
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/1718e525-8f7f-4717-8e5c-5e0b394823e7_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!1POJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1718e525-8f7f-4717-8e5c-5e0b394823e7_1920x1080.jpeg)
+[![](/assets/images/1718e525-8f7f-4717-8e5c-5e0b394823e7.jpg)](/assets/images/1718e525-8f7f-4717-8e5c-5e0b394823e7.jpg)
 
 Este documental se centra en Sergio Chamy, un adulto mayor de 83 años contratado por un investigador privado para infiltrarse en una residencia de ancianos. El objetivo es confirmar si la abuela de un cliente está siendo maltratada. Con una cámara oculta y un pequeño dispositivo espía, Sergio se convierte en otro miembro de la comunidad de la residencia, estableciendo lazos de confianza con los residentes y el personal. Ofrece una perspectiva realista, divertida y a veces triste sobre la vejez, la soledad, el amor y la capacidad de felicidad de quienes a veces son olvidados.
 
@@ -45,7 +45,7 @@ Un testimonio magnífico, con un notable mensaje sobre el paso del tiempo, la sa
 
 # 🎥 The Future (2011) 🤔🐱🤷‍♀️
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/716406fc-dccb-4eee-a0c4-351da4ce9719_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!Q73y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F716406fc-dccb-4eee-a0c4-351da4ce9719_1920x1080.jpeg)
+[![](/assets/images/716406fc-dccb-4eee-a0c4-351da4ce9719.jpg)](/assets/images/716406fc-dccb-4eee-a0c4-351da4ce9719.jpg)
 
 Dirigida y protagonizada por Miranda July, The Future nos presenta a Sophie y Jason. Tienen alrededor de 30 años y están en un punto de sus vidas donde, buscando una forma de traer nuevas experiencias a su relación, deciden adoptar un gato. Sin embargo, deben esperar un mes más antes de recibirlo. En consecuencia, comienza una cuenta regresiva en la que se enfocan en disfrutar la "libertad" de sus 30 días antes de enfrentar esta ardua responsabilidad. Esto impulsa no solo la posibilidad de descubrir nuevas experiencias o actividades, sino también actos extremos como renunciar a sus trabajos o desconectarse completamente de su entorno.
 

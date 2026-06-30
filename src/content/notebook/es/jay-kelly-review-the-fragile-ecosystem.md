@@ -3,7 +3,7 @@ title: "Reseña de 'Jay Kelly': el frágil ecosistema de una estrella de Hollywo
 date: 2025-12-12
 description: "Una exposición madura y sagaz sobre las personas que intentan editar una vida que se niega a seguir el guión."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/ab267906-983f-4de3-8ea7-a690679d9c1b_2400x1350.png"
+cover: "/assets/images/ab267906-983f-4de3-8ea7-a690679d9c1b.png"
 lang: es
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/jay-kelly-review-the-fragile-ecosystem"
@@ -42,7 +42,7 @@ La tragedia de Jay Kelly es que vive como si estuviera en una película donde to
 
 *¿Es posible tener una amistad genuina cuando una persona paga el sueldo de la otra? ¿En qué punto la lealtad se convierte en autosabotaje?*
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/edab0ac9-ea81-4525-a83d-7b93bb807932_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!dvI7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedab0ac9-ea81-4525-a83d-7b93bb807932_3840x2160.png)
+[![](/assets/images/edab0ac9-ea81-4525-a83d-7b93bb807932.png)](/assets/images/edab0ac9-ea81-4525-a83d-7b93bb807932.png)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Anora: A Dance of Raw Tension"
 date: 2025-03-14
 description: "A magnetic lead, navigating a story of unpredictable turns. A fantastic portrayal of a slow building intensity and realism."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/4420228f-eab7-45db-82f2-d5f6638a0eb9_3840x2160.jpeg"
+cover: "/assets/images/4420228f-eab7-45db-82f2-d5f6638a0eb9.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/anora-a-dance-of-raw-tension"

@@ -3,7 +3,7 @@ title: "‘Paradise’ (Season 1) – A Thrill Ride with a Familiar Destination"
 date: 2025-05-16
 description: "A short, sharp sci-fi thriller that entertains, even when it doesn’t fully land."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/255004e5-416c-4a8c-8ab6-617f5b68c804_3840x2160.png"
+cover: "/assets/images/255004e5-416c-4a8c-8ab6-617f5b68c804.png"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/paradise-season-1-a-thrill-ride-with"

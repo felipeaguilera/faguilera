@@ -3,7 +3,7 @@ title: "A Complete Unknown"
 date: 2025-02-28
 description: "Unveiling the highs and lows of Bob Dylan's early career. One verse, one relationship and one chord at a time."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6e75c6fe-375a-44df-a881-f0e7ca66983c_3840x2160.jpeg"
+cover: "/assets/images/6e75c6fe-375a-44df-a881-f0e7ca66983c.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/a-complete-unknown"

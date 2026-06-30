@@ -3,7 +3,7 @@ title: "A Barbarian's Red Eyes were lurking into an Evil Airbnb."
 date: 2024-06-21
 description: "There's a lot of scary stuff going on this week. A small town in Argentina, an Airbnb far away, or a Night flight to Miami. Not the most comfortable places, but definitely interesting for horror fans."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/73f1ca62-ba3c-4bab-860d-624e9e377291_1920x1080.jpeg"
+cover: "/assets/images/73f1ca62-ba3c-4bab-860d-624e9e377291.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/a-barbarians-red-eyes-were-lurking"
@@ -25,7 +25,7 @@ It is not a movie for everyone, and its bloody and violent action will not be en
 
 # 🎥 Barbarian (2022) 🏚️🚪🔪
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/2febd1be-8580-4f13-b171-bf6f4e2354dc_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!1ywM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2febd1be-8580-4f13-b171-bf6f4e2354dc_1920x1080.jpeg)
+[![](/assets/images/2febd1be-8580-4f13-b171-bf6f4e2354dc.jpg)](/assets/images/2febd1be-8580-4f13-b171-bf6f4e2354dc.jpg)
 
 Continuing in the fascinating world of the horror genre, this film is innovative and creative enough to be worth recommending. The plot presents a series of surprises, good performances, and a highly original storyline. The adventure begins when Tess heads to an Airbnb at night, only to discover that it is already occupied by a man named Keith. As it was late, and raining, and there didn't seem to be much choice, she decides to accept spending the night with the already established tenant, however, something strange is in the air. With secrets that gradually become clear, presenting and giving us various surprises related to the origins of the property.
 
@@ -39,7 +39,7 @@ Due to the multiple surprises in the film, I will not go into any detail. Howeve
 
 # 🎥 Red Eye (2005) 👁️✈️
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/1f9c4d89-d25c-4f7c-8796-88f2c2890097_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!7YLX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f9c4d89-d25c-4f7c-8796-88f2c2890097_1920x1080.jpeg)
+[![](/assets/images/1f9c4d89-d25c-4f7c-8796-88f2c2890097.jpg)](/assets/images/1f9c4d89-d25c-4f7c-8796-88f2c2890097.jpg)
 
 This Wes Craven thriller is short, precise, and has a good premise. It caught my attention because it stars the 2005 versions of Rachel McAdams and Cillian Murphy, both actors who would go on to have successful careers. During an airline flight, Cillian, a dangerous mercenary criminal, targets Rachel, a supervisor at a prestigious hotel. Rachel is trying to place a prominent and key politician in a room for a terrorist attack. However, during the trip, she will also try to save her father, the politician, her hotel colleagues, and her life. A tremendous challenge.
 

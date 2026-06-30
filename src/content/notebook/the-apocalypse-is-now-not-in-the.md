@@ -3,7 +3,7 @@ title: "The Apocalypse is Now, not in the Future, according to the report of The
 date: 2024-06-28
 description: "This week we present three very different films in terms of narrative, but that meet at the core of human connection, the feeling of loneliness, and interesting personal discoveries."
 category: "Film & Series"
-cover: "https://substack-post-media.s3.amazonaws.com/public/images/6b6c93f6-3386-4628-a50b-38a50f7de12a_1920x1080.jpeg"
+cover: "/assets/images/6b6c93f6-3386-4628-a50b-38a50f7de12a.jpg"
 lang: en
 draft: false
 substackUrl: "https://felipeaguilera.substack.com/p/the-apocalypse-is-now-not-in-the"
@@ -29,7 +29,7 @@ For 40 years, Apocalypse Now has been a brilliant, extensive, and intense work t
 
 # 🎥 The Mole Agent (2020) 🕵️‍♂️👴❤️
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/1718e525-8f7f-4717-8e5c-5e0b394823e7_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!1POJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1718e525-8f7f-4717-8e5c-5e0b394823e7_1920x1080.jpeg)
+[![](/assets/images/1718e525-8f7f-4717-8e5c-5e0b394823e7.jpg)](/assets/images/1718e525-8f7f-4717-8e5c-5e0b394823e7.jpg)
 
 This documentary focuses on Sergio Chamy, an 83-year-old senior citizen who is hired by a private investigator to go undercover in a nursing home. The goal is to confirm whether a client's grandmother is being mistreated. With a hidden camera and a small spy device, Sergio becomes another member of the home's community, establishing bonds of trust with the residents and staff of the place. Offering a realistic, funny, and sometimes sad perspective on old age, loneliness, love, and the capacity for happiness of those who are sometimes forgotten.
 
@@ -45,7 +45,7 @@ A magnificent testimony, with a remarkable message about the passage of time, wi
 
 # 🎥 The Future (2011) 🤔🐱🤷‍♀️
 
-[![](https://substack-post-media.s3.amazonaws.com/public/images/716406fc-dccb-4eee-a0c4-351da4ce9719_1920x1080.jpeg)](https://substackcdn.com/image/fetch/$s_!Q73y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F716406fc-dccb-4eee-a0c4-351da4ce9719_1920x1080.jpeg)
+[![](/assets/images/716406fc-dccb-4eee-a0c4-351da4ce9719.jpg)](/assets/images/716406fc-dccb-4eee-a0c4-351da4ce9719.jpg)
 
 Directed and starring Miranda July, The Future introduces us to Sophie and Jason. They are in their 30s who are at a point in their lives where, searching for a way to bring new experiences to their relationship, they decide to adopt a cat. However, they must wait another month before receiving it. Consequently, a countdown begins in which they focus on enjoying the “freedom” of their 30 days before facing this arduous responsibility. This drives not only the possibility of discovering new experiences or activities, but also extreme acts such as quitting their jobs or completely disconnecting from their surroundings.
 
