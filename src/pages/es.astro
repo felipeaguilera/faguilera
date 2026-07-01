@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import currently from '../data/currently.json';
+import { netlifyImg, netlifyImgSrcset } from '../utils/images.js';
 
 const articles = (await getCollection('notebook', ({ data }) =>
   !data.draft && data.lang === 'es'
@@ -66,7 +67,15 @@ const iconMap: Record<string, string> = {
         {articles.map((article) => (
           <a class="card" href={`/es/notebook/${article.slug.replace(/^es\//, '')}`}>
             <div class="thumb">
-              {article.data.cover && <img src={article.data.cover} alt={article.data.title} loading="lazy" />}
+              {article.data.cover && (
+                <img
+                  src={netlifyImg(article.data.cover, { w: 800 })}
+                  srcset={netlifyImgSrcset(article.data.cover, [400, 800, 1200])}
+                  sizes="(max-width: 600px) 100vw, (max-width: 900px) 50vw, 400px"
+                  alt={article.data.title}
+                  loading="lazy"
+                />
+              )}
             </div>
             <div class="cbody">
               <span class="meta">{article.data.category}</span>
@@ -179,14 +188,14 @@ const iconMap: Record<string, string> = {
           <div class="thumb"><img src="/assets/inzider.jpg" alt="Revista Inzider" loading="lazy" /></div>
           <div class="cbody"><span class="meta">Editorial &middot; 2014–2019</span><h3>Revista Inzider</h3><p>Una revista impresa que fundé y edité en Zmart: portadas, reportajes, publicidad, múltiples ediciones a lo largo de cinco años.</p></div>
         </div>
-        <div class="card">
+        <a class="card" href="/es/notebook/case-study-zmartcl-leading-the-gaming">
           <div class="thumb"><img src="/assets/zmart.jpg" alt="Zmart.cl" loading="lazy" /></div>
-          <div class="cbody"><span class="meta">Marca y digital &middot; 2013–2024</span><h3>Zmart.cl</h3><p>Una década liderando la marca y la experiencia del cliente: omnicanalidad, lanzamientos de consolas y una cultura Great Place to Work.</p></div>
-        </div>
-        <div class="card">
+          <div class="cbody"><span class="meta">Marca y digital &middot; 2013–2024</span><h3>Zmart.cl</h3><p>Una década liderando la marca y la experiencia del cliente: omnicanalidad, lanzamientos de consolas y una cultura Great Place to Work.</p><span class="more">Leer caso →</span></div>
+        </a>
+        <a class="card" href="/es/notebook/mi-factoria-from-functional-store">
           <div class="thumb"><img src="/assets/mifactoria.jpg" alt="Mi Factoria" loading="lazy" /></div>
-          <div class="cbody"><span class="meta">Marca y Ecommerce &middot; 2024</span><h3>Mi Factoria</h3><p>Una marca y tienda Shopify: convertir una tienda funcional en una identidad coherente.</p></div>
-        </div>
+          <div class="cbody"><span class="meta">Marca y Ecommerce &middot; 2024</span><h3>Mi Factoria</h3><p>Una marca y tienda Shopify: convertir una tienda funcional en una identidad coherente.</p><span class="more">Leer caso →</span></div>
+        </a>
       </div>
     </div>
   </section>
