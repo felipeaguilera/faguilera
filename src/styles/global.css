@@ -1,4 +1,4 @@
-/* faguilera.com — Global Styles */
+/* faguilera.com, Global Styles */
 :root {
   --orange: #c0461f;
   --ink: #1a1612;
@@ -114,7 +114,7 @@ h1.mast { font-family: var(--display); font-weight: 500; font-size: 74px; line-h
 .btn.primary:hover { background: #a93c1a; }
 .btn.ghost { background: transparent; color: var(--ink); }
 .btn.ghost:hover { background: var(--ink); color: var(--paper); }
-/* Ghost on dark backgrounds — higher specificity than .btn.ghost */
+/* Ghost on dark backgrounds, higher specificity than .btn.ghost */
 .btn.evo-ghost { border-color: #6a6055; color: #cabfae; background: transparent; }
 .btn.evo-ghost:hover { background: #2e2a26; color: #fff; border-color: #6a6055; }
 
@@ -423,7 +423,7 @@ footer { background: var(--ink); color: #cabfae; padding: 56px 0 40px; border-to
   .evo-cta-heading { font-size: 26px; }
 }
 
-/* Prose images — constrained within column */
+/* Prose images, constrained within column */
 .article-body .prose img {
   max-width: 100%;
   height: auto;
@@ -435,7 +435,7 @@ footer { background: var(--ink); color: #cabfae; padding: 56px 0 40px; border-to
 .article-body .prose figure { margin: 2em 0; max-width: 100%; }
 .article-body .prose figcaption { font-size: 15px; color: var(--muted); font-family: var(--body); font-style: italic; text-align: center; margin-top: 10px; letter-spacing: normal; }
 
-/* Discussion questions — callout box instead of italic body text */
+/* Discussion questions, callout box instead of italic body text */
 .article-body .prose .discussion-q {
   background: var(--cream);
   border-left: 3px solid var(--orange);
