@@ -436,6 +436,14 @@ footer { background: var(--ink); color: #cabfae; padding: 56px 0 40px; border-to
 }
 .article-body .prose figure { margin: 2em 0; max-width: 100%; }
 .article-body .prose figcaption { font-size: 15px; color: var(--muted); font-family: var(--body); font-style: italic; text-align: center; margin-top: 10px; letter-spacing: normal; }
+/* Related-reviews thumbnails sit inside .prose, so the generic prose img rule above
+   (3 classes) was winning over the plain .thumb img rule (2 classes) and stopping it
+   from filling the thumbnail box, that's the empty gray strip above each card image.
+   This selector is more specific (4 classes) and restores the intended fill-and-crop. */
+.article-body .prose .related-reviews .thumb img {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: cover; object-position: center; margin: 0; border: none; border-radius: 0;
+}
 
 /* Discussion questions, callout box instead of italic body text */
 .article-body .prose .discussion-q {
@@ -493,4 +501,34 @@ footer { background: var(--ink); color: #cabfae; padding: 56px 0 40px; border-to
 }
 @media (max-width: 700px) {
   .article-body .prose .related-reviews .cards { grid-template-columns: 1fr; }
+}
+
+/* Responsive YouTube embeds */
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 2em 0;
+  border-radius: 6px;
+  background: var(--ink);
+}
+.video-embed iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Responsive */
+@media (max-width: 820px) {
+  h1.mast { font-size: 48px; }
+  h2 { font-size: 30px; }
+  .cards { grid-template-columns: 1fr; }
+  .about { grid-template-columns: 1fr; gap: 28px; }
+  .portrait { height: 320px; }
+  .nowgrid { grid-template-columns: 1fr; gap: 24px; }
+  .nav-links a:not(.nav-cta), .lang { display: none; }
+  .exp-row { grid-template-columns: 1fr; gap: 4px; }
 }
