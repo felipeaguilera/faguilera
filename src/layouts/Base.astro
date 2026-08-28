@@ -11,7 +11,7 @@ interface Props {
 const {
   title = 'Felipe Aguilera · Strategist and writer',
   description = 'Brand and communication strategist. Writing about culture, technology, and the craft of making things clear.',
-  image = '/assets/og-default.png',
+  image = '/assets/portrait.png',
   lang = 'en',
 } = Astro.props;
 
@@ -27,6 +27,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalURL} />
+  <link rel="icon" type="image/svg+xml" href="/assets/mark-seal.svg" />
 
   <!-- Open Graph -->
   <meta property="og:title" content={title} />
