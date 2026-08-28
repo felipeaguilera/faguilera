@@ -3,8 +3,8 @@ import Base from '../layouts/Base.astro';
 ---
 
 <Base
-  title="CV · Felipe Aguilera"
-  description="Brand and communication strategist. Curriculum Vitae."
+  title="CV · Felipe Aguilera · Graphic Designer"
+  description="Graphic Designer. Brand, Retail & Commercial Material. Curriculum Vitae."
   lang="en"
 >
   <div class="topbar"></div>
@@ -33,10 +33,10 @@ import Base from '../layouts/Base.astro';
     <div class="wrap narrow">
       <div class="eyebrow">Curriculum Vitae</div>
       <h1 class="cv-name">Felipe Aguilera</h1>
-      <p class="cv-title">Brand and communication strategist.</p>
+      <p class="cv-title">Graphic Designer. Brand, Retail &amp; Commercial Material.</p>
       <div class="cv-contact">
         <span>Santiago, Chile</span>
-        <span>Remote · Open to global</span>
+        <span>+56 9 8239 3697</span>
         <a href="mailto:felipe@faguilera.com">felipe@faguilera.com</a>
         <a href="https://faguilera.com" target="_blank">faguilera.com</a>
         <a href="https://evo.cl" target="_blank">evo.cl</a>
@@ -44,15 +44,15 @@ import Base from '../layouts/Base.astro';
       </div>
       <div class="cv-actions">
         <button class="btn primary" onclick="window.print()">Print this page</button>
-        <a class="btn ghost" href="/#work">See portfolio</a>
+        <a class="btn ghost" href="/assets/cv/faguilera-cv-en.pdf" download>Download PDF ↓</a>
       </div>
 
       <div class="cv-downloads">
-        <div class="dl-label">Targeted versions</div>
+        <div class="dl-label">Direct PDF download</div>
         <div class="dl-links">
-          <a href="/assets/cv/faguilera-cv-en-marketing.pdf" download>Marketing Strategist (EN) ↓</a>
+          <a href="/assets/cv/faguilera-cv-en.pdf" download>English Version (PDF) ↓</a>
           <span class="dl-sep">·</span>
-          <a href="/assets/cv/faguilera-cv-es-marketing.pdf" download>Estratega de Marketing (ES) ↓</a>
+          <a href="/assets/cv/faguilera-cv-es.pdf" download>Versión en Español (PDF) ↓</a>
         </div>
       </div>
     </div>
@@ -66,6 +66,14 @@ import Base from '../layouts/Base.astro';
   <div class="cv-body">
     <div class="wrap narrow">
 
+      <!-- PROFILE -->
+      <div class="cv-section" style="padding-top:0;">
+        <div class="eyebrow">Profile</div>
+        <p style="font-size:18px; line-height:1.75; color:var(--ink);">
+          Graphic Designer from Duoc UC. For ten years, I directed brand, marketing, and retail design at Zmart, Chile's leading gaming retail chain, with over 25 stores and the local rollout of brand guidelines for PlayStation, Nintendo, Xbox, and Pokémon. I manage the full cycle: digital and social assets, technical datasheets and catalogs, POP material and merchandising, print-ready files, and supplier coordination. Since 2024, I operate independently with clients across Chile, Peru, and Europe.
+        </p>
+      </div>
+
       <!-- EXPERIENCE -->
       <div class="cv-section">
         <div class="eyebrow">Experience</div>
@@ -73,16 +81,15 @@ import Base from '../layouts/Base.astro';
         <div class="exp-block">
           <div class="exp-meta">
             <span class="exp-dates">2024 — Present</span>
-            <span class="exp-org">EVO Creative Lab<br />Santiago · Remote</span>
+            <span class="exp-org">EVO Communication Lab<br />(EVO SpA)<br />Santiago · Remote</span>
           </div>
           <div class="exp-content">
-            <div class="exp-role">Founder &amp; Creative Consultant</div>
+            <div class="exp-role">Founder &amp; Brand &amp; Communication Consultant</div>
             <div class="exp-body">
               <ul>
-                <li>Brand strategy, identity systems, and communication design for clients across industrial, retail, mining, editorial, and financial sectors.</li>
-                <li>CRM and email marketing programs built and operated via Brevo: automation flows, segmentation, and performance reporting.</li>
-                <li>Web properties managed on WordPress/WooCommerce and static stacks: content calendars, SEO structure, and social workflows.</li>
-                <li>Active clients: DGC Maquinarias, Acción Vintage, María Paz Jiménez, Saldipe, Alejandro Sagner SpA, Schiff Sovereign.</li>
+                <li>Identity systems and brand kits for industrial and consumer clients: DGC Maquinarias, Saldipe Ingeniería, Alejandro Sagner SpA, Croq' Délice, Eko3.</li>
+                <li>Continuous graphic production: product datasheets, catalogs, banners, campaign assets, signage, and booth materials for mining and industrial trade shows.</li>
+                <li>Visual content for e-commerce and social media: catalog imagery, product visuals, and publishing schedules with clear brand criteria.</li>
               </ul>
             </div>
           </div>
@@ -96,30 +103,17 @@ import Base from '../layouts/Base.astro';
           <div class="exp-content">
             <div class="exp-role">Marketing Manager &amp; UX Director</div>
             <div class="exp-body">
-              <p>A decade leading marketing, brand, and customer experience for Chile's leading gaming and geek retail chain.</p>
               <ul>
-                <li>Built and scaled zmart.cl into a 100k+ product omnichannel platform, directing UX, digital content, and platform operations.</li>
-                <li>Deployed a 4K dynamic content system synced across 25+ retail locations nationwide.</li>
-                <li>Founded and edited Inzider Magazine: a free print magazine sustained by publisher advertising (Nintendo, PlayStation, Xbox, Pokémon, Magic: The Gathering), multiple editions over several years.</li>
-                <li>Led culture and internal communication work recognized with a Great Place to Work certification.</li>
+                <li>Led the chain's visual identity and retail execution across 25+ mall and standalone stores: storefront displays, signage, promotional graphics, and POP collateral.</li>
+                <li>Local execution of brand guidelines for PlayStation, Nintendo, Xbox, Pokémon, and Magic: The Gathering for product launches and seasonal campaigns.</li>
+                <li>Design and maintenance of e-commerce visual content (100k+ products): product pages, banners, catalog images, and in-store promotional graphics.</li>
+                <li>Dynamic 4K in-store screen content system synchronized with the retail sales platform.</li>
+                <li>Founded and edited Inzider Magazine (2014–2019), a free print magazine funded by advertising from Nintendo, PlayStation, Xbox, and Pokémon. Art direction, layout, and prepress production.</li>
+                <li>Product photography production and editing for catalogs, campaigns, and retail points of sale.</li>
+                <li>Coordination with agencies, print houses, and rollout vendors with on-site supervision.</li>
               </ul>
             </div>
-            <span class="exp-note">Brand · CRM · E-commerce · Editorial · Retail rollout · UX direction</span>
-          </div>
-        </div>
-
-        <div class="exp-block">
-          <div class="exp-meta">
-            <span class="exp-dates">Mar 2024 — May 2025</span>
-            <span class="exp-org">Digno<br />Santiago · Concurrent</span>
-          </div>
-          <div class="exp-content">
-            <div class="exp-role">Senior Digital Strategy &amp; Client Management</div>
-            <div class="exp-body">
-              <ul>
-                <li>Strategic consulting across industries: digital transformation, brand and identity alignment, UX advisory.</li>
-              </ul>
-            </div>
+            <span class="exp-note">Brand · Retail design · E-commerce · Editorial · POP material · UX direction</span>
           </div>
         </div>
 
@@ -132,8 +126,9 @@ import Base from '../layouts/Base.astro';
             <div class="exp-role">Head of Digital Projects</div>
             <div class="exp-body">
               <ul>
-                <li>Led digital project delivery for Metro de Santiago, Tetra Pak, Suzuki, Sodimac, and Codelco: brand sites, intranets, and digital campaigns.</li>
-                <li>Managed cross-functional teams and client relationships across multiple concurrent enterprise projects.</li>
+                <li>Website and intranet design for Metro de Santiago, Tetra Pak, Suzuki, Sodimac, Codelco, and ABB.</li>
+                <li>Adaptation of corporate and international brand guidelines into digital assets and internal communications.</li>
+                <li>Cross-functional coordination between design, development, and enterprise clients under strict deadlines.</li>
               </ul>
             </div>
           </div>
@@ -142,16 +137,15 @@ import Base from '../layouts/Base.astro';
         <div class="exp-block">
           <div class="exp-meta">
             <span class="exp-dates">1998 — 2005</span>
-            <span class="exp-org">Entel · Lan-Z.net<br />VEEgroup · Intelec</span>
+            <span class="exp-org">Entel · Lan-Z.net<br />Intelec</span>
           </div>
           <div class="exp-content">
-            <div class="exp-role">Early Career: Design, Digital &amp; Brand</div>
+            <div class="exp-role">Early Career: Graphic Design, Digital &amp; Brand</div>
             <div class="exp-body">
               <ul>
-                <li>Multimedia and brand design for Entel's broadband and family portals.</li>
-                <li>Brand content, newsletters, and radio production for Chile's leading gamer community (Lan-Z.net).</li>
-                <li>Web and digital solutions for law firms, NGOs, and cultural organizations (VEEgroup).</li>
-                <li>Data visualization for Movistar network expansion reports (Intelec).</li>
+                <li>Entel S.A., specialist graphic designer (consultant): multimedia experiences for broadband and family web portals.</li>
+                <li>Lan-Z.net, creative director: UI design, newsletters, and brand content for Chile's leading gamer community.</li>
+                <li>Intelec S.A., data visualization: interactive reporting tools for mobile network expansion engineering teams.</li>
               </ul>
             </div>
           </div>
@@ -160,56 +154,16 @@ import Base from '../layouts/Base.astro';
 
     </div>
 
-    <!-- SUPPLEMENT GRID: Education + Skills + Certs -->
-    <div style="background:var(--cream);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:24px;">
+    <!-- SUPPLEMENT GRID -->
+    <div style="background:var(--cream);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:36px;">
       <div class="wrap narrow">
         <div class="supplement-grid">
 
           <div class="supp-col">
             <div class="eyebrow">Education</div>
             <div class="supp-item">
-              Diseñador Gráfico Profesional
+              Professional Graphic Designer
               <span class="sub">Duoc UC · 2000 – 2004</span>
-            </div>
-            <div class="eyebrow" style="margin-top:28px;">Certifications</div>
-            <div class="supp-item">Google UX Design Professional Certificate</div>
-            <div class="supp-item">Google Digital Marketing &amp; E-commerce</div>
-            <div class="supp-item">Google Project Management Fundamentals</div>
-            <div class="supp-item">Google AI Essentials</div>
-          </div>
-
-          <div class="supp-col">
-            <div class="eyebrow">Skills</div>
-            <div class="skill-wrap">
-              <span class="skill-pill">Brand Strategy</span>
-              <span class="skill-pill">Brand Identity</span>
-              <span class="skill-pill">Positioning</span>
-              <span class="skill-pill">Brand Voice</span>
-              <span class="skill-pill">Content Strategy</span>
-              <span class="skill-pill">Copywriting EN/ES</span>
-              <span class="skill-pill">Editorial Direction</span>
-              <span class="skill-pill">Campaign Planning</span>
-              <span class="skill-pill">Email Marketing</span>
-              <span class="skill-pill">CRM</span>
-              <span class="skill-pill">E-commerce</span>
-              <span class="skill-pill">UX Direction</span>
-              <span class="skill-pill">Social Media</span>
-              <span class="skill-pill">Marketing Ops</span>
-            </div>
-          </div>
-
-          <div class="supp-col">
-            <div class="eyebrow">Tools</div>
-            <div class="skill-wrap">
-              <span class="skill-pill">Figma</span>
-              <span class="skill-pill">Affinity Publisher</span>
-              <span class="skill-pill">Brevo</span>
-              <span class="skill-pill">Notion</span>
-              <span class="skill-pill">WordPress</span>
-              <span class="skill-pill">WooCommerce</span>
-              <span class="skill-pill">CapCut</span>
-              <span class="skill-pill">Substack</span>
-              <span class="skill-pill">Claude / AI tools</span>
             </div>
             <div class="eyebrow" style="margin-top:28px;">Languages</div>
             <div class="supp-item">
@@ -218,7 +172,39 @@ import Base from '../layouts/Base.astro';
             </div>
             <div class="supp-item">
               English
-              <span class="sub">Professional proficiency</span>
+              <span class="sub">Advanced professional</span>
+            </div>
+          </div>
+
+          <div class="supp-col">
+            <div class="eyebrow">Tools</div>
+            <div class="skill-wrap">
+              <span class="skill-pill">Adobe Photoshop</span>
+              <span class="skill-pill">Adobe Illustrator</span>
+              <span class="skill-pill">Adobe InDesign</span>
+              <span class="skill-pill">Affinity Publisher</span>
+              <span class="skill-pill">Affinity Designer</span>
+              <span class="skill-pill">Figma</span>
+              <span class="skill-pill">CapCut</span>
+              <span class="skill-pill">After Effects</span>
+              <span class="skill-pill">WordPress</span>
+              <span class="skill-pill">WooCommerce</span>
+              <span class="skill-pill">Shopify</span>
+              <span class="skill-pill">HTML &amp; CSS</span>
+              <span class="skill-pill">Brevo</span>
+            </div>
+          </div>
+
+          <div class="supp-col">
+            <div class="eyebrow">Certifications</div>
+            <div class="supp-item">Google UX Design Professional Certificate</div>
+            <div class="supp-item">Google Project Management Fundamentals</div>
+            <div class="supp-item">Google Digital Marketing &amp; E-commerce</div>
+            <div class="supp-item">Google AI Essentials</div>
+            <div class="eyebrow" style="margin-top:28px;">Capabilities</div>
+            <div class="supp-item">
+              Prepress &amp; Production
+              <span class="sub">Print-ready files, color profiles, print house supervision</span>
             </div>
           </div>
 
@@ -229,7 +215,7 @@ import Base from '../layouts/Base.astro';
     <!-- TAGLINE -->
     <div class="wrap narrow">
       <div class="cv-tagline">
-        <p>"Strategy and hands-on execution. I work best when I own the outcome, not just the brief."</p>
+        <p>"Design, strategy, and hands-on production. From brand conceptualization to final delivery in print or digital."</p>
         <a class="textlink" href="/#hello">Get in touch →</a>
       </div>
       <div class="header-orn" style="padding:36px 0 0;">
@@ -237,7 +223,7 @@ import Base from '../layouts/Base.astro';
       </div>
     </div>
 
-  </div><!-- /.cv-body -->
+  </div>
 
   <footer>
     <div class="wrap">
@@ -248,7 +234,7 @@ import Base from '../layouts/Base.astro';
             <img src="/assets/mark-seal-white.svg" alt="FA seal" />
             <span class="name">Felipe Aguilera</span>
           </a>
-          <p class="foot-tag">Strategist by trade, curious by nature. Santiago, Chile.</p>
+          <p class="foot-tag">Graphic Designer. Brand, Retail &amp; Commercial Material. Santiago, Chile.</p>
         </div>
         <div class="foot-links">
           <a href="/cv">CV</a>

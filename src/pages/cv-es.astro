@@ -3,8 +3,8 @@ import Base from '../layouts/Base.astro';
 ---
 
 <Base
-  title="CV · Felipe Aguilera"
-  description="Estratega de marca y comunicación. Currículum Vitae."
+  title="CV · Felipe Aguilera · Diseñador Gráfico"
+  description="Diseñador gráfico. Marca, retail y material comercial. Currículum Vitae."
   lang="es"
 >
   <div class="topbar"></div>
@@ -33,10 +33,10 @@ import Base from '../layouts/Base.astro';
     <div class="wrap narrow">
       <div class="eyebrow">Currículum Vitae</div>
       <h1 class="cv-name">Felipe Aguilera</h1>
-      <p class="cv-title">Estratega de marca y comunicación.</p>
+      <p class="cv-title">Diseñador gráfico. Marca, retail y material comercial.</p>
       <div class="cv-contact">
         <span>Santiago, Chile</span>
-        <span>Remoto · Disponible para proyectos globales</span>
+        <span>+56 9 8239 3697</span>
         <a href="mailto:felipe@faguilera.com">felipe@faguilera.com</a>
         <a href="https://faguilera.com" target="_blank">faguilera.com</a>
         <a href="https://evo.cl" target="_blank">evo.cl</a>
@@ -44,15 +44,15 @@ import Base from '../layouts/Base.astro';
       </div>
       <div class="cv-actions">
         <button class="btn primary" onclick="window.print()">Imprimir esta página</button>
-        <a class="btn ghost" href="/es#work">Ver portafolio</a>
+        <a class="btn ghost" href="/assets/cv/faguilera-cv-es.pdf" download>Descargar PDF ↓</a>
       </div>
 
       <div class="cv-downloads">
-        <div class="dl-label">Versiones PDF</div>
+        <div class="dl-label">Descarga directa en PDF</div>
         <div class="dl-links">
-          <a href="/assets/cv/faguilera-cv-es-marketing.pdf" download>Estratega de Marketing (ES) ↓</a>
+          <a href="/assets/cv/faguilera-cv-es.pdf" download>Versión en Español (PDF) ↓</a>
           <span class="dl-sep">·</span>
-          <a href="/assets/cv/faguilera-cv-en-marketing.pdf" download>Marketing Strategist (EN) ↓</a>
+          <a href="/assets/cv/faguilera-cv-en.pdf" download>English Version (PDF) ↓</a>
         </div>
       </div>
     </div>
@@ -66,22 +66,30 @@ import Base from '../layouts/Base.astro';
   <div class="cv-body">
     <div class="wrap narrow">
 
+      <!-- PERFIL -->
+      <div class="cv-section" style="padding-top:0;">
+        <div class="eyebrow">Perfil</div>
+        <p style="font-size:18px; line-height:1.75; color:var(--ink);">
+          Diseñador gráfico de Duoc UC. Dirigí la marca, el marketing y el diseño retail de Zmart durante diez años, la cadena líder de retail gamer en Chile, con más de 25 tiendas y la bajada local de lineamientos de PlayStation, Nintendo, Xbox y Pokémon. Trabajo el ciclo completo: piezas digitales y redes, fichas técnicas y catálogos, material POP y merchandising, archivos finales para impresión y coordinación con proveedores. Desde 2024 opero de forma independiente con clientes en Chile, Perú y Europa.
+        </p>
+      </div>
+
+      <!-- EXPERIENCIA -->
       <div class="cv-section">
         <div class="eyebrow">Experiencia</div>
 
         <div class="exp-block">
           <div class="exp-meta">
-            <span class="exp-dates">2024 — Presente</span>
-            <span class="exp-org">EVO Creative Lab<br />Santiago · Remoto</span>
+            <span class="exp-dates">2024 — Actual</span>
+            <span class="exp-org">EVO Communication Lab<br />(EVO SpA)<br />Santiago · Remoto</span>
           </div>
           <div class="exp-content">
-            <div class="exp-role">Fundador y Consultor Creativo</div>
+            <div class="exp-role">Fundador y consultor de marca y comunicación</div>
             <div class="exp-body">
               <ul>
-                <li>Estrategia de marca, sistemas de identidad y diseño de comunicación para clientes en sectores industrial, retail, minero, editorial y financiero.</li>
-                <li>Programas de CRM y email marketing operados en Brevo: flujos de automatización, segmentación y reportes de rendimiento.</li>
-                <li>Propiedades web administradas en WordPress/WooCommerce y sitios estáticos: calendarios de contenido, estructura SEO y flujos en redes sociales.</li>
-                <li>Clientes activos: DGC Maquinarias, Acción Vintage, María Paz Jiménez, Saldipe, Alejandro Sagner SpA, Schiff Sovereign.</li>
+                <li>Sistemas de identidad y kits de marca para clientes industriales y de consumo: DGC Maquinarias, Saldipe Ingeniería, Alejandro Sagner SpA, Croq' Délice, Eko3.</li>
+                <li>Producción gráfica continua: fichas técnicas de producto, catálogos, banners, piezas de campaña, señalética y material de stand para ferias del sector minero e industrial.</li>
+                <li>Contenido visual para e-commerce y redes: imágenes de catálogo, piezas de producto y calendarios de publicación con criterio de marca definido.</li>
               </ul>
             </div>
           </div>
@@ -93,32 +101,19 @@ import Base from '../layouts/Base.astro';
             <span class="exp-org">Zmart Games<br />Santiago, Chile</span>
           </div>
           <div class="exp-content">
-            <div class="exp-role">Gerente de Marketing y Director de Experiencia</div>
-            <div class="exp-body">
-              <p>Una década liderando marketing, marca y experiencia de cliente en la cadena de gaming y geek retail líder de Chile.</p>
-              <ul>
-                <li>Construí y escalé zmart.cl hasta una plataforma omnicanal con más de 100.000 productos, dirigiendo UX, contenido digital y operaciones de plataforma.</li>
-                <li>Desplegué un sistema de contenido dinámico 4K sincronizado en más de 25 locales en malls y puntos independientes a nivel nacional.</li>
-                <li>Fundé y edité Inzider Magazine: una revista impresa gratuita sostenida por publicidad de publishers (Nintendo, PlayStation, Xbox, Pokémon, Magic: The Gathering), con múltiples ediciones a lo largo de varios años.</li>
-                <li>Lideré el trabajo de cultura y comunicación interna reconocido con la certificación Great Place to Work.</li>
-              </ul>
-            </div>
-            <span class="exp-note">Marca · CRM · E-commerce · Editorial · Expansión retail · Dirección UX</span>
-          </div>
-        </div>
-
-        <div class="exp-block">
-          <div class="exp-meta">
-            <span class="exp-dates">Mar 2024 — May 2025</span>
-            <span class="exp-org">Digno<br />Santiago · Paralelo</span>
-          </div>
-          <div class="exp-content">
-            <div class="exp-role">Estrategia Digital y Gestión de Clientes Senior</div>
+            <div class="exp-role">Gerente de Marketing y Experiencia de Usuario</div>
             <div class="exp-body">
               <ul>
-                <li>Consultoría estratégica en distintas industrias: transformación digital, alineación de marca e identidad, asesoría UX.</li>
+                <li>Responsable de la identidad visual de la cadena y su aplicación en más de 25 tiendas en malls y calle: vitrinas, señalética, gráfica promocional y material POP.</li>
+                <li>Implementación local de manuales de marca de PlayStation, Nintendo, Xbox, Pokémon y Magic: The Gathering en lanzamientos y campañas estacionales.</li>
+                <li>Diseño y mantención del contenido visual del e-commerce (más de 100 mil productos): fichas, banners, imágenes de catálogo y piezas de campaña dentro de la tienda.</li>
+                <li>Sistema de contenido dinámico en pantallas 4K en tienda, sincronizado con la plataforma de venta.</li>
+                <li>Fundé y edité Inzider Magazine (2014 a 2019), revista impresa gratuita financiada con avisaje de Nintendo, PlayStation, Xbox y Pokémon. Dirección de arte, diagramación y archivos finales de imprenta.</li>
+                <li>Producción y edición de fotografía de producto para catálogo, campañas y punto de venta.</li>
+                <li>Coordinación con agencias, imprentas y proveedores de implementación, con supervisión en terreno.</li>
               </ul>
             </div>
+            <span class="exp-note">Marca · Retail design · E-commerce · Editorial · Material POP · Dirección UX</span>
           </div>
         </div>
 
@@ -131,8 +126,9 @@ import Base from '../layouts/Base.astro';
             <div class="exp-role">Jefe de Proyectos Digitales</div>
             <div class="exp-body">
               <ul>
-                <li>Lideré la entrega de proyectos digitales para Metro de Santiago, Tetra Pak, Suzuki, Sodimac y Codelco: sitios de marca, intranets y campañas digitales.</li>
-                <li>Gestión de equipos multidisciplinarios y relaciones con clientes en múltiples proyectos empresariales simultáneos.</li>
+                <li>Diseño de sitios e intranets para Metro de Santiago, Tetra Pak, Suzuki, Sodimac, Codelco y ABB.</li>
+                <li>Bajada de normativas de marca corporativas e internacionales a piezas digitales y comunicaciones internas.</li>
+                <li>Coordinación entre diseño, desarrollo y cliente, con varios proyectos en paralelo y plazos comprometidos.</li>
               </ul>
             </div>
           </div>
@@ -141,16 +137,15 @@ import Base from '../layouts/Base.astro';
         <div class="exp-block">
           <div class="exp-meta">
             <span class="exp-dates">1998 — 2005</span>
-            <span class="exp-org">Entel · Lan-Z.net<br />VEEgroup · Intelec</span>
+            <span class="exp-org">Entel · Lan-Z.net<br />Intelec</span>
           </div>
           <div class="exp-content">
-            <div class="exp-role">Carrera temprana: diseño, digital y marca</div>
+            <div class="exp-role">Carrera temprana: diseño gráfico, digital y marca</div>
             <div class="exp-body">
               <ul>
-                <li>Diseño multimedia y de marca para los portales de banda ancha y familia de Entel.</li>
-                <li>Contenido de marca, newsletters y producción radial para la comunidad gamer líder de Chile (Lan-Z.net).</li>
-                <li>Soluciones web y digitales para estudios jurídicos, ONG y organizaciones culturales (VEEgroup).</li>
-                <li>Visualización de datos para reportes de expansión de red Movistar (Intelec).</li>
+                <li>Entel S.A., diseñador gráfico especialista (consultor): experiencias multimedia para servicios de banda ancha y portales.</li>
+                <li>Lan-Z.net, director creativo: interfaces, newsletters y contenido de marca para comunidad gamer.</li>
+                <li>Intelec S.A., visualización de datos: reportes interactivos para equipos técnicos de expansión de red móvil.</li>
               </ul>
             </div>
           </div>
@@ -160,7 +155,7 @@ import Base from '../layouts/Base.astro';
     </div>
 
     <!-- SUPPLEMENT GRID -->
-    <div style="background:var(--cream);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:24px;">
+    <div style="background:var(--cream);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:36px;">
       <div class="wrap narrow">
         <div class="supplement-grid">
 
@@ -170,46 +165,6 @@ import Base from '../layouts/Base.astro';
               Diseñador Gráfico Profesional
               <span class="sub">Duoc UC · 2000 – 2004</span>
             </div>
-            <div class="eyebrow" style="margin-top:28px;">Certificaciones</div>
-            <div class="supp-item">Google UX Design Professional Certificate</div>
-            <div class="supp-item">Google Digital Marketing &amp; E-commerce</div>
-            <div class="supp-item">Google Project Management Fundamentals</div>
-            <div class="supp-item">Google AI Essentials</div>
-          </div>
-
-          <div class="supp-col">
-            <div class="eyebrow">Habilidades</div>
-            <div class="skill-wrap">
-              <span class="skill-pill">Estrategia de marca</span>
-              <span class="skill-pill">Identidad de marca</span>
-              <span class="skill-pill">Posicionamiento</span>
-              <span class="skill-pill">Voz de marca</span>
-              <span class="skill-pill">Estrategia de contenido</span>
-              <span class="skill-pill">Copywriting ES/EN</span>
-              <span class="skill-pill">Dirección editorial</span>
-              <span class="skill-pill">Planificación de campañas</span>
-              <span class="skill-pill">Email marketing</span>
-              <span class="skill-pill">CRM</span>
-              <span class="skill-pill">E-commerce</span>
-              <span class="skill-pill">Dirección UX</span>
-              <span class="skill-pill">Redes sociales</span>
-              <span class="skill-pill">Marketing Ops</span>
-            </div>
-          </div>
-
-          <div class="supp-col">
-            <div class="eyebrow">Herramientas</div>
-            <div class="skill-wrap">
-              <span class="skill-pill">Figma</span>
-              <span class="skill-pill">Affinity Publisher</span>
-              <span class="skill-pill">Brevo</span>
-              <span class="skill-pill">Notion</span>
-              <span class="skill-pill">WordPress</span>
-              <span class="skill-pill">WooCommerce</span>
-              <span class="skill-pill">CapCut</span>
-              <span class="skill-pill">Substack</span>
-              <span class="skill-pill">Claude / IA</span>
-            </div>
             <div class="eyebrow" style="margin-top:28px;">Idiomas</div>
             <div class="supp-item">
               Español
@@ -217,7 +172,39 @@ import Base from '../layouts/Base.astro';
             </div>
             <div class="supp-item">
               Inglés
-              <span class="sub">Nivel profesional</span>
+              <span class="sub">Profesional avanzado</span>
+            </div>
+          </div>
+
+          <div class="supp-col">
+            <div class="eyebrow">Herramientas</div>
+            <div class="skill-wrap">
+              <span class="skill-pill">Adobe Photoshop</span>
+              <span class="skill-pill">Adobe Illustrator</span>
+              <span class="skill-pill">Adobe InDesign</span>
+              <span class="skill-pill">Affinity Publisher</span>
+              <span class="skill-pill">Affinity Designer</span>
+              <span class="skill-pill">Figma</span>
+              <span class="skill-pill">CapCut</span>
+              <span class="skill-pill">After Effects</span>
+              <span class="skill-pill">WordPress</span>
+              <span class="skill-pill">WooCommerce</span>
+              <span class="skill-pill">Shopify</span>
+              <span class="skill-pill">HTML &amp; CSS</span>
+              <span class="skill-pill">Brevo</span>
+            </div>
+          </div>
+
+          <div class="supp-col">
+            <div class="eyebrow">Certificaciones</div>
+            <div class="supp-item">Google UX Design Professional Certificate</div>
+            <div class="supp-item">Google Fundamentos de Gestión de Proyectos</div>
+            <div class="supp-item">Google Marketing Digital y E-commerce</div>
+            <div class="supp-item">Google AI Essentials</div>
+            <div class="eyebrow" style="margin-top:28px;">Capacidades</div>
+            <div class="supp-item">
+              Preprensa y producción
+              <span class="sub">Archivos finales, perfiles de color, supervisión de imprenta</span>
             </div>
           </div>
 
@@ -228,7 +215,7 @@ import Base from '../layouts/Base.astro';
     <!-- TAGLINE -->
     <div class="wrap narrow">
       <div class="cv-tagline">
-        <p>"Estrategia y ejecución directa. Trabajo mejor cuando soy dueño del resultado, no solo del brief."</p>
+        <p>"Diseño, estrategia y producción directa. De la conceptualización de marca a la entrega final en imprenta o digital."</p>
         <a class="textlink" href="/es#hello">Escríbeme →</a>
       </div>
       <div class="header-orn" style="padding:36px 0 0;">
@@ -247,7 +234,7 @@ import Base from '../layouts/Base.astro';
             <img src="/assets/mark-seal-white.svg" alt="Sello FA" />
             <span class="name">Felipe Aguilera</span>
           </a>
-          <p class="foot-tag">Estratega de oficio, curioso por naturaleza. Santiago, Chile.</p>
+          <p class="foot-tag">Diseñador gráfico. Marca, retail y material comercial. Santiago, Chile.</p>
         </div>
         <div class="foot-links">
           <a href="/cv-es">CV</a>
