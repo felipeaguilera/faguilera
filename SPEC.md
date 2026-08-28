@@ -27,8 +27,8 @@ web-astro/
 │   ├── pages/
 │   │   ├── index.astro       # Home EN (artículos dinámicos, currently dinámico)
 │   │   ├── es.astro          # Home ES (misma estructura, texto en español)
-│   │   ├── cv.astro          # CV EN (por crear)
-│   │   ├── cv-es.astro       # CV ES (por crear)
+│   │   ├── cv.astro          # CV EN
+│   │   ├── cv-es.astro       # CV ES
 │   │   └── notebook/
 │   │       └── [slug].astro  # Página de artículo individual
 │   ├── content/
@@ -124,4 +124,4 @@ Copiar la carpeta `web/assets/` completa a `web-astro/public/assets/`. Los paths
 - No cambiar el design system (colores, tipografía)
 - No agregar dependencias sin necesidad (el sitio es intencionalmente minimalista)
 - No mover el contenido bilingüe a un sistema i18n complejo todavía (2 páginas separadas es suficiente)
-- cv.astro y cv-es.astro están pendientes de crear — no inventar el contenido del CV
+- cv.astro y cv-es.astro creados con base en _legacy/cv.html y _legacy/cv-es.html
